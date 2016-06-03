@@ -1,0 +1,8122 @@
+[
+  {
+    "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
+    "name": "Kiss: WOMAN, MAN",
+    "converted": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc8b\\u200d\\ud83d\\udc68"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F468",
+    "name": "Kiss: MAN, MAN",
+    "converted": "\\ud83d\\udc68\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc8b\\u200d\\ud83d\\udc68"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F48B U+200D U+1F469",
+    "name": "Kiss: WOMAN, WOMAN",
+    "converted": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc8b\\u200d\\ud83d\\udc69"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466",
+    "name": "Family: MAN, WOMAN, GIRL, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466",
+    "name": "Family: MAN, WOMAN, BOY, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467",
+    "name": "Family: MAN, WOMAN, GIRL, GIRL",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466",
+    "name": "Family: MAN, MAN, GIRL, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F466 U+200D U+1F466",
+    "name": "Family: MAN, MAN, BOY, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F467",
+    "name": "Family: MAN, MAN, GIRL, GIRL",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F466",
+    "name": "Family: WOMAN, WOMAN, GIRL, BOY",
+    "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F466 U+200D U+1F466",
+    "name": "Family: WOMAN, WOMAN, BOY, BOY",
+    "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467 U+200D U+1F467",
+    "name": "Family: WOMAN, WOMAN, GIRL, GIRL",
+    "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F468",
+    "name": "Couple with heart: WOMAN, MAN",
+    "converted": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc68"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+2764 U+FE0F U+200D U+1F468",
+    "name": "Couple with heart: MAN, MAN",
+    "converted": "\\ud83d\\udc68\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc68"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+2764 U+FE0F U+200D U+1F469",
+    "name": "Couple with heart: WOMAN, WOMAN",
+    "converted": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc69"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F466",
+    "name": "Family: MAN, WOMAN, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F469 U+200D U+1F467",
+    "name": "Family: MAN, WOMAN, GIRL",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F466",
+    "name": "Family: MAN, MAN, BOY",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F468 U+200D U+1F468 U+200D U+1F467",
+    "name": "Family: MAN, MAN, GIRL",
+    "converted": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F466",
+    "name": "Family: WOMAN, WOMAN, BOY",
+    "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F469 U+200D U+1F469 U+200D U+1F467",
+    "name": "Family: WOMAN, WOMAN, GIRL",
+    "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F",
+    "name": "EYE, LEFT SPEECH BUBBLE≊ eye in speech bubble",
+    "converted": "\\ud83d\\udc41\\ufe0f\\u200d\\ud83d\\udde8\\ufe0f"
+  },
+  {
+    "unicode": "U+0023 U+FE0F U+20E3",
+    "name": "Keycap NUMBER SIGN≊ keycap number",
+    "converted": "\\u0023\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+002A U+FE0F U+20E3",
+    "name": "Keycap ASTERISK",
+    "converted": "\\u002a\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0030 U+FE0F U+20E3",
+    "name": "Keycap DIGIT ZERO",
+    "converted": "\\u0030\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0031 U+FE0F U+20E3",
+    "name": "Keycap DIGIT ONE",
+    "converted": "\\u0031\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0032 U+FE0F U+20E3",
+    "name": "Keycap DIGIT TWO",
+    "converted": "\\u0032\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0033 U+FE0F U+20E3",
+    "name": "Keycap DIGIT THREE",
+    "converted": "\\u0033\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0034 U+FE0F U+20E3",
+    "name": "Keycap DIGIT FOUR",
+    "converted": "\\u0034\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0035 U+FE0F U+20E3",
+    "name": "Keycap DIGIT FIVE",
+    "converted": "\\u0035\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0036 U+FE0F U+20E3",
+    "name": "Keycap DIGIT SIX",
+    "converted": "\\u0036\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0037 U+FE0F U+20E3",
+    "name": "Keycap DIGIT SEVEN",
+    "converted": "\\u0037\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0038 U+FE0F U+20E3",
+    "name": "Keycap DIGIT EIGHT",
+    "converted": "\\u0038\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+0039 U+FE0F U+20E3",
+    "name": "Keycap DIGIT NINE",
+    "converted": "\\u0039\\ufe0f\\u20e3"
+  },
+  {
+    "unicode": "U+1F466 U+1F3FB",
+    "name": "BOY, TYPE-1-2",
+    "converted": "\\ud83d\\udc66\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F466 U+1F3FC",
+    "name": "BOY, TYPE-3",
+    "converted": "\\ud83d\\udc66\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F466 U+1F3FD",
+    "name": "BOY, TYPE-4",
+    "converted": "\\ud83d\\udc66\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F466 U+1F3FE",
+    "name": "BOY, TYPE-5",
+    "converted": "\\ud83d\\udc66\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F466 U+1F3FF",
+    "name": "BOY, TYPE-6",
+    "converted": "\\ud83d\\udc66\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F467 U+1F3FB",
+    "name": "GIRL, TYPE-1-2",
+    "converted": "\\ud83d\\udc67\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F467 U+1F3FC",
+    "name": "GIRL, TYPE-3",
+    "converted": "\\ud83d\\udc67\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F467 U+1F3FD",
+    "name": "GIRL, TYPE-4",
+    "converted": "\\ud83d\\udc67\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F467 U+1F3FE",
+    "name": "GIRL, TYPE-5",
+    "converted": "\\ud83d\\udc67\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F467 U+1F3FF",
+    "name": "GIRL, TYPE-6",
+    "converted": "\\ud83d\\udc67\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F468 U+1F3FB",
+    "name": "MAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc68\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F468 U+1F3FC",
+    "name": "MAN, TYPE-3",
+    "converted": "\\ud83d\\udc68\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F468 U+1F3FD",
+    "name": "MAN, TYPE-4",
+    "converted": "\\ud83d\\udc68\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F468 U+1F3FE",
+    "name": "MAN, TYPE-5",
+    "converted": "\\ud83d\\udc68\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F468 U+1F3FF",
+    "name": "MAN, TYPE-6",
+    "converted": "\\ud83d\\udc68\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F469 U+1F3FB",
+    "name": "WOMAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc69\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F469 U+1F3FC",
+    "name": "WOMAN, TYPE-3",
+    "converted": "\\ud83d\\udc69\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F469 U+1F3FD",
+    "name": "WOMAN, TYPE-4",
+    "converted": "\\ud83d\\udc69\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F469 U+1F3FE",
+    "name": "WOMAN, TYPE-5",
+    "converted": "\\ud83d\\udc69\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F469 U+1F3FF",
+    "name": "WOMAN, TYPE-6",
+    "converted": "\\ud83d\\udc69\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F474 U+1F3FB",
+    "name": "OLDER MAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc74\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F474 U+1F3FC",
+    "name": "OLDER MAN, TYPE-3",
+    "converted": "\\ud83d\\udc74\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F474 U+1F3FD",
+    "name": "OLDER MAN, TYPE-4",
+    "converted": "\\ud83d\\udc74\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F474 U+1F3FE",
+    "name": "OLDER MAN, TYPE-5",
+    "converted": "\\ud83d\\udc74\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F474 U+1F3FF",
+    "name": "OLDER MAN, TYPE-6",
+    "converted": "\\ud83d\\udc74\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F475 U+1F3FB",
+    "name": "OLDER WOMAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc75\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F475 U+1F3FC",
+    "name": "OLDER WOMAN, TYPE-3",
+    "converted": "\\ud83d\\udc75\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F475 U+1F3FD",
+    "name": "OLDER WOMAN, TYPE-4",
+    "converted": "\\ud83d\\udc75\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F475 U+1F3FE",
+    "name": "OLDER WOMAN, TYPE-5",
+    "converted": "\\ud83d\\udc75\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F475 U+1F3FF",
+    "name": "OLDER WOMAN, TYPE-6",
+    "converted": "\\ud83d\\udc75\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F476 U+1F3FB",
+    "name": "BABY, TYPE-1-2",
+    "converted": "\\ud83d\\udc76\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F476 U+1F3FC",
+    "name": "BABY, TYPE-3",
+    "converted": "\\ud83d\\udc76\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F476 U+1F3FD",
+    "name": "BABY, TYPE-4",
+    "converted": "\\ud83d\\udc76\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F476 U+1F3FE",
+    "name": "BABY, TYPE-5",
+    "converted": "\\ud83d\\udc76\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F476 U+1F3FF",
+    "name": "BABY, TYPE-6",
+    "converted": "\\ud83d\\udc76\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FB",
+    "name": "PERSON WITH BLOND HAIR, TYPE-1-2",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FC",
+    "name": "PERSON WITH BLOND HAIR, TYPE-3",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FD",
+    "name": "PERSON WITH BLOND HAIR, TYPE-4",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FE",
+    "name": "PERSON WITH BLOND HAIR, TYPE-5",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FF",
+    "name": "PERSON WITH BLOND HAIR, TYPE-6",
+    "converted": "\\ud83d\\udc71\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FB",
+    "name": "POLICE OFFICER, TYPE-1-2",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FC",
+    "name": "POLICE OFFICER, TYPE-3",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FD",
+    "name": "POLICE OFFICER, TYPE-4",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FE",
+    "name": "POLICE OFFICER, TYPE-5",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FF",
+    "name": "POLICE OFFICER, TYPE-6",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FB",
+    "name": "MAN WITH GUA PI MAO, TYPE-1-2",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FC",
+    "name": "MAN WITH GUA PI MAO, TYPE-3",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FD",
+    "name": "MAN WITH GUA PI MAO, TYPE-4",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FE",
+    "name": "MAN WITH GUA PI MAO, TYPE-5",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FF",
+    "name": "MAN WITH GUA PI MAO, TYPE-6",
+    "converted": "\\ud83d\\udc72\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FB",
+    "name": "MAN WITH TURBAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FC",
+    "name": "MAN WITH TURBAN, TYPE-3",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FD",
+    "name": "MAN WITH TURBAN, TYPE-4",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FE",
+    "name": "MAN WITH TURBAN, TYPE-5",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FF",
+    "name": "MAN WITH TURBAN, TYPE-6",
+    "converted": "\\ud83d\\udc73\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FB",
+    "name": "CONSTRUCTION WORKER, TYPE-1-2",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FC",
+    "name": "CONSTRUCTION WORKER, TYPE-3",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FD",
+    "name": "CONSTRUCTION WORKER, TYPE-4",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FE",
+    "name": "CONSTRUCTION WORKER, TYPE-5",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FF",
+    "name": "CONSTRUCTION WORKER, TYPE-6",
+    "converted": "\\ud83d\\udc77\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FB",
+    "name": "PRINCESS, TYPE-1-2",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FC",
+    "name": "PRINCESS, TYPE-3",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FD",
+    "name": "PRINCESS, TYPE-4",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FE",
+    "name": "PRINCESS, TYPE-5",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FF",
+    "name": "PRINCESS, TYPE-6",
+    "converted": "\\ud83d\\udc78\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FB",
+    "name": "GUARDSMAN, TYPE-1-2",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FC",
+    "name": "GUARDSMAN, TYPE-3",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FD",
+    "name": "GUARDSMAN, TYPE-4",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FE",
+    "name": "GUARDSMAN, TYPE-5",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FF",
+    "name": "GUARDSMAN, TYPE-6",
+    "converted": "\\ud83d\\udc82\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FB",
+    "name": "SLEUTH OR SPY, TYPE-1-2",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FC",
+    "name": "SLEUTH OR SPY, TYPE-3",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FD",
+    "name": "SLEUTH OR SPY, TYPE-4",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FE",
+    "name": "SLEUTH OR SPY, TYPE-5",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FF",
+    "name": "SLEUTH OR SPY, TYPE-6",
+    "converted": "\\ud83d\\udd75\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FB",
+    "name": "FATHER CHRISTMAS, TYPE-1-2",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FC",
+    "name": "FATHER CHRISTMAS, TYPE-3",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FD",
+    "name": "FATHER CHRISTMAS, TYPE-4",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FE",
+    "name": "FATHER CHRISTMAS, TYPE-5",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FF",
+    "name": "FATHER CHRISTMAS, TYPE-6",
+    "converted": "\\ud83c\\udf85\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FB",
+    "name": "BRIDE WITH VEIL, TYPE-1-2",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FC",
+    "name": "BRIDE WITH VEIL, TYPE-3",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FD",
+    "name": "BRIDE WITH VEIL, TYPE-4",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FE",
+    "name": "BRIDE WITH VEIL, TYPE-5",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FF",
+    "name": "BRIDE WITH VEIL, TYPE-6",
+    "converted": "\\ud83d\\udc70\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F47C U+1F3FB",
+    "name": "BABY ANGEL, TYPE-1-2",
+    "converted": "\\ud83d\\udc7c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F47C U+1F3FC",
+    "name": "BABY ANGEL, TYPE-3",
+    "converted": "\\ud83d\\udc7c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F47C U+1F3FD",
+    "name": "BABY ANGEL, TYPE-4",
+    "converted": "\\ud83d\\udc7c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F47C U+1F3FE",
+    "name": "BABY ANGEL, TYPE-5",
+    "converted": "\\ud83d\\udc7c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F47C U+1F3FF",
+    "name": "BABY ANGEL, TYPE-6",
+    "converted": "\\ud83d\\udc7c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F486 U+1F3FB",
+    "name": "FACE MASSAGE, TYPE-1-2",
+    "converted": "\\ud83d\\udc86\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F486 U+1F3FC",
+    "name": "FACE MASSAGE, TYPE-3",
+    "converted": "\\ud83d\\udc86\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F486 U+1F3FD",
+    "name": "FACE MASSAGE, TYPE-4",
+    "converted": "\\ud83d\\udc86\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F486 U+1F3FE",
+    "name": "FACE MASSAGE, TYPE-5",
+    "converted": "\\ud83d\\udc86\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F486 U+1F3FF",
+    "name": "FACE MASSAGE, TYPE-6",
+    "converted": "\\ud83d\\udc86\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F487 U+1F3FB",
+    "name": "HAIRCUT, TYPE-1-2",
+    "converted": "\\ud83d\\udc87\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F487 U+1F3FC",
+    "name": "HAIRCUT, TYPE-3",
+    "converted": "\\ud83d\\udc87\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F487 U+1F3FD",
+    "name": "HAIRCUT, TYPE-4",
+    "converted": "\\ud83d\\udc87\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F487 U+1F3FE",
+    "name": "HAIRCUT, TYPE-5",
+    "converted": "\\ud83d\\udc87\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F487 U+1F3FF",
+    "name": "HAIRCUT, TYPE-6",
+    "converted": "\\ud83d\\udc87\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64D U+1F3FB",
+    "name": "PERSON FROWNING, TYPE-1-2",
+    "converted": "\\ud83d\\ude4d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64D U+1F3FC",
+    "name": "PERSON FROWNING, TYPE-3",
+    "converted": "\\ud83d\\ude4d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64D U+1F3FD",
+    "name": "PERSON FROWNING, TYPE-4",
+    "converted": "\\ud83d\\ude4d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64D U+1F3FE",
+    "name": "PERSON FROWNING, TYPE-5",
+    "converted": "\\ud83d\\ude4d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64D U+1F3FF",
+    "name": "PERSON FROWNING, TYPE-6",
+    "converted": "\\ud83d\\ude4d\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64E U+1F3FB",
+    "name": "PERSON WITH POUTING FACE, TYPE-1-2",
+    "converted": "\\ud83d\\ude4e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64E U+1F3FC",
+    "name": "PERSON WITH POUTING FACE, TYPE-3",
+    "converted": "\\ud83d\\ude4e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64E U+1F3FD",
+    "name": "PERSON WITH POUTING FACE, TYPE-4",
+    "converted": "\\ud83d\\ude4e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64E U+1F3FE",
+    "name": "PERSON WITH POUTING FACE, TYPE-5",
+    "converted": "\\ud83d\\ude4e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64E U+1F3FF",
+    "name": "PERSON WITH POUTING FACE, TYPE-6",
+    "converted": "\\ud83d\\ude4e\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F645 U+1F3FB",
+    "name": "FACE WITH NO GOOD GESTURE, TYPE-1-2",
+    "converted": "\\ud83d\\ude45\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F645 U+1F3FC",
+    "name": "FACE WITH NO GOOD GESTURE, TYPE-3",
+    "converted": "\\ud83d\\ude45\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F645 U+1F3FD",
+    "name": "FACE WITH NO GOOD GESTURE, TYPE-4",
+    "converted": "\\ud83d\\ude45\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F645 U+1F3FE",
+    "name": "FACE WITH NO GOOD GESTURE, TYPE-5",
+    "converted": "\\ud83d\\ude45\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F645 U+1F3FF",
+    "name": "FACE WITH NO GOOD GESTURE, TYPE-6",
+    "converted": "\\ud83d\\ude45\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F646 U+1F3FB",
+    "name": "FACE WITH OK GESTURE, TYPE-1-2",
+    "converted": "\\ud83d\\ude46\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F646 U+1F3FC",
+    "name": "FACE WITH OK GESTURE, TYPE-3",
+    "converted": "\\ud83d\\ude46\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F646 U+1F3FD",
+    "name": "FACE WITH OK GESTURE, TYPE-4",
+    "converted": "\\ud83d\\ude46\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F646 U+1F3FE",
+    "name": "FACE WITH OK GESTURE, TYPE-5",
+    "converted": "\\ud83d\\ude46\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F646 U+1F3FF",
+    "name": "FACE WITH OK GESTURE, TYPE-6",
+    "converted": "\\ud83d\\ude46\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F481 U+1F3FB",
+    "name": "INFORMATION DESK PERSON, TYPE-1-2",
+    "converted": "\\ud83d\\udc81\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F481 U+1F3FC",
+    "name": "INFORMATION DESK PERSON, TYPE-3",
+    "converted": "\\ud83d\\udc81\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F481 U+1F3FD",
+    "name": "INFORMATION DESK PERSON, TYPE-4",
+    "converted": "\\ud83d\\udc81\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F481 U+1F3FE",
+    "name": "INFORMATION DESK PERSON, TYPE-5",
+    "converted": "\\ud83d\\udc81\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F481 U+1F3FF",
+    "name": "INFORMATION DESK PERSON, TYPE-6",
+    "converted": "\\ud83d\\udc81\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64B U+1F3FB",
+    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-1-2",
+    "converted": "\\ud83d\\ude4b\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64B U+1F3FC",
+    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-3",
+    "converted": "\\ud83d\\ude4b\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64B U+1F3FD",
+    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-4",
+    "converted": "\\ud83d\\ude4b\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64B U+1F3FE",
+    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-5",
+    "converted": "\\ud83d\\ude4b\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64B U+1F3FF",
+    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-6",
+    "converted": "\\ud83d\\ude4b\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F647 U+1F3FB",
+    "name": "PERSON BOWING DEEPLY, TYPE-1-2",
+    "converted": "\\ud83d\\ude47\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F647 U+1F3FC",
+    "name": "PERSON BOWING DEEPLY, TYPE-3",
+    "converted": "\\ud83d\\ude47\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F647 U+1F3FD",
+    "name": "PERSON BOWING DEEPLY, TYPE-4",
+    "converted": "\\ud83d\\ude47\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F647 U+1F3FE",
+    "name": "PERSON BOWING DEEPLY, TYPE-5",
+    "converted": "\\ud83d\\ude47\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F647 U+1F3FF",
+    "name": "PERSON BOWING DEEPLY, TYPE-6",
+    "converted": "\\ud83d\\ude47\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FB",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-1-2",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FC",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-3",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FD",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-4",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FE",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-5",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FF",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-6",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FB",
+    "name": "PERSON WITH FOLDED HANDS, TYPE-1-2",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FC",
+    "name": "PERSON WITH FOLDED HANDS, TYPE-3",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FD",
+    "name": "PERSON WITH FOLDED HANDS, TYPE-4",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FE",
+    "name": "PERSON WITH FOLDED HANDS, TYPE-5",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FF",
+    "name": "PERSON WITH FOLDED HANDS, TYPE-6",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F6B6 U+1F3FB",
+    "name": "PEDESTRIAN, TYPE-1-2",
+    "converted": "\\ud83d\\udeb6\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F6B6 U+1F3FC",
+    "name": "PEDESTRIAN, TYPE-3",
+    "converted": "\\ud83d\\udeb6\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F6B6 U+1F3FD",
+    "name": "PEDESTRIAN, TYPE-4",
+    "converted": "\\ud83d\\udeb6\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F6B6 U+1F3FE",
+    "name": "PEDESTRIAN, TYPE-5",
+    "converted": "\\ud83d\\udeb6\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F6B6 U+1F3FF",
+    "name": "PEDESTRIAN, TYPE-6",
+    "converted": "\\ud83d\\udeb6\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F3C3 U+1F3FB",
+    "name": "RUNNER, TYPE-1-2",
+    "converted": "\\ud83c\\udfc3\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F3C3 U+1F3FC",
+    "name": "RUNNER, TYPE-3",
+    "converted": "\\ud83c\\udfc3\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F3C3 U+1F3FD",
+    "name": "RUNNER, TYPE-4",
+    "converted": "\\ud83c\\udfc3\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F3C3 U+1F3FE",
+    "name": "RUNNER, TYPE-5",
+    "converted": "\\ud83c\\udfc3\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F3C3 U+1F3FF",
+    "name": "RUNNER, TYPE-6",
+    "converted": "\\ud83c\\udfc3\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F483 U+1F3FB",
+    "name": "DANCER, TYPE-1-2",
+    "converted": "\\ud83d\\udc83\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F483 U+1F3FC",
+    "name": "DANCER, TYPE-3",
+    "converted": "\\ud83d\\udc83\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F483 U+1F3FD",
+    "name": "DANCER, TYPE-4",
+    "converted": "\\ud83d\\udc83\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F483 U+1F3FE",
+    "name": "DANCER, TYPE-5",
+    "converted": "\\ud83d\\udc83\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F483 U+1F3FF",
+    "name": "DANCER, TYPE-6",
+    "converted": "\\ud83d\\udc83\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F4AA U+1F3FB",
+    "name": "FLEXED BICEPS, TYPE-1-2",
+    "converted": "\\ud83d\\udcaa\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F4AA U+1F3FC",
+    "name": "FLEXED BICEPS, TYPE-3",
+    "converted": "\\ud83d\\udcaa\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F4AA U+1F3FD",
+    "name": "FLEXED BICEPS, TYPE-4",
+    "converted": "\\ud83d\\udcaa\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F4AA U+1F3FE",
+    "name": "FLEXED BICEPS, TYPE-5",
+    "converted": "\\ud83d\\udcaa\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F4AA U+1F3FF",
+    "name": "FLEXED BICEPS, TYPE-6",
+    "converted": "\\ud83d\\udcaa\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F448 U+1F3FB",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-1-2",
+    "converted": "\\ud83d\\udc48\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F448 U+1F3FC",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-3",
+    "converted": "\\ud83d\\udc48\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F448 U+1F3FD",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-4",
+    "converted": "\\ud83d\\udc48\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F448 U+1F3FE",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-5",
+    "converted": "\\ud83d\\udc48\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F448 U+1F3FF",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-6",
+    "converted": "\\ud83d\\udc48\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F449 U+1F3FB",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-1-2",
+    "converted": "\\ud83d\\udc49\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F449 U+1F3FC",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-3",
+    "converted": "\\ud83d\\udc49\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F449 U+1F3FD",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-4",
+    "converted": "\\ud83d\\udc49\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F449 U+1F3FE",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-5",
+    "converted": "\\ud83d\\udc49\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F449 U+1F3FF",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-6",
+    "converted": "\\ud83d\\udc49\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F446 U+1F3FB",
+    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-1-2",
+    "converted": "\\ud83d\\udc46\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F446 U+1F3FC",
+    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-3",
+    "converted": "\\ud83d\\udc46\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F446 U+1F3FD",
+    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-4",
+    "converted": "\\ud83d\\udc46\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F446 U+1F3FE",
+    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-5",
+    "converted": "\\ud83d\\udc46\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F446 U+1F3FF",
+    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-6",
+    "converted": "\\ud83d\\udc46\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F595 U+1F3FB",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-1-2",
+    "converted": "\\ud83d\\udd95\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F595 U+1F3FC",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-3",
+    "converted": "\\ud83d\\udd95\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F595 U+1F3FD",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-4",
+    "converted": "\\ud83d\\udd95\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F595 U+1F3FE",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-5",
+    "converted": "\\ud83d\\udd95\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F595 U+1F3FF",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-6",
+    "converted": "\\ud83d\\udd95\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F447 U+1F3FB",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-1-2",
+    "converted": "\\ud83d\\udc47\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F447 U+1F3FC",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-3",
+    "converted": "\\ud83d\\udc47\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F447 U+1F3FD",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-4",
+    "converted": "\\ud83d\\udc47\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F447 U+1F3FE",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-5",
+    "converted": "\\ud83d\\udc47\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F447 U+1F3FF",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-6",
+    "converted": "\\ud83d\\udc47\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F596 U+1F3FB",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-1-2",
+    "converted": "\\ud83d\\udd96\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F596 U+1F3FC",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-3",
+    "converted": "\\ud83d\\udd96\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F596 U+1F3FD",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-4",
+    "converted": "\\ud83d\\udd96\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F596 U+1F3FE",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-5",
+    "converted": "\\ud83d\\udd96\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F596 U+1F3FF",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-6",
+    "converted": "\\ud83d\\udd96\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F918 U+1F3FB",
+    "name": "SIGN OF THE HORNS, TYPE-1-2",
+    "converted": "\\ud83e\\udd18\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F918 U+1F3FC",
+    "name": "SIGN OF THE HORNS, TYPE-3",
+    "converted": "\\ud83e\\udd18\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F918 U+1F3FD",
+    "name": "SIGN OF THE HORNS, TYPE-4",
+    "converted": "\\ud83e\\udd18\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F918 U+1F3FE",
+    "name": "SIGN OF THE HORNS, TYPE-5",
+    "converted": "\\ud83e\\udd18\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F918 U+1F3FF",
+    "name": "SIGN OF THE HORNS, TYPE-6",
+    "converted": "\\ud83e\\udd18\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F590 U+1F3FB",
+    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-1-2",
+    "converted": "\\ud83d\\udd90\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F590 U+1F3FC",
+    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-3",
+    "converted": "\\ud83d\\udd90\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F590 U+1F3FD",
+    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-4",
+    "converted": "\\ud83d\\udd90\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F590 U+1F3FE",
+    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-5",
+    "converted": "\\ud83d\\udd90\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F590 U+1F3FF",
+    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-6",
+    "converted": "\\ud83d\\udd90\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44C U+1F3FB",
+    "name": "OK HAND SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44C U+1F3FC",
+    "name": "OK HAND SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44C U+1F3FD",
+    "name": "OK HAND SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44C U+1F3FE",
+    "name": "OK HAND SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44C U+1F3FF",
+    "name": "OK HAND SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44D U+1F3FB",
+    "name": "THUMBS UP SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44D U+1F3FC",
+    "name": "THUMBS UP SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44D U+1F3FD",
+    "name": "THUMBS UP SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44D U+1F3FE",
+    "name": "THUMBS UP SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44D U+1F3FF",
+    "name": "THUMBS UP SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4d\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44E U+1F3FB",
+    "name": "THUMBS DOWN SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44E U+1F3FC",
+    "name": "THUMBS DOWN SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44E U+1F3FD",
+    "name": "THUMBS DOWN SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44E U+1F3FE",
+    "name": "THUMBS DOWN SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44E U+1F3FF",
+    "name": "THUMBS DOWN SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4e\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44A U+1F3FB",
+    "name": "FISTED HAND SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4a\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44A U+1F3FC",
+    "name": "FISTED HAND SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4a\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44A U+1F3FD",
+    "name": "FISTED HAND SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4a\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44A U+1F3FE",
+    "name": "FISTED HAND SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4a\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44A U+1F3FF",
+    "name": "FISTED HAND SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4a\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44B U+1F3FB",
+    "name": "WAVING HAND SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4b\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44B U+1F3FC",
+    "name": "WAVING HAND SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4b\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44B U+1F3FD",
+    "name": "WAVING HAND SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4b\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44B U+1F3FE",
+    "name": "WAVING HAND SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4b\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44B U+1F3FF",
+    "name": "WAVING HAND SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4b\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F44F U+1F3FB",
+    "name": "CLAPPING HANDS SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc4f\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F44F U+1F3FC",
+    "name": "CLAPPING HANDS SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc4f\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F44F U+1F3FD",
+    "name": "CLAPPING HANDS SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc4f\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F44F U+1F3FE",
+    "name": "CLAPPING HANDS SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc4f\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F44F U+1F3FF",
+    "name": "CLAPPING HANDS SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc4f\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F450 U+1F3FB",
+    "name": "OPEN HANDS SIGN, TYPE-1-2",
+    "converted": "\\ud83d\\udc50\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F450 U+1F3FC",
+    "name": "OPEN HANDS SIGN, TYPE-3",
+    "converted": "\\ud83d\\udc50\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F450 U+1F3FD",
+    "name": "OPEN HANDS SIGN, TYPE-4",
+    "converted": "\\ud83d\\udc50\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F450 U+1F3FE",
+    "name": "OPEN HANDS SIGN, TYPE-5",
+    "converted": "\\ud83d\\udc50\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F450 U+1F3FF",
+    "name": "OPEN HANDS SIGN, TYPE-6",
+    "converted": "\\ud83d\\udc50\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F485 U+1F3FB",
+    "name": "NAIL POLISH, TYPE-1-2",
+    "converted": "\\ud83d\\udc85\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F485 U+1F3FC",
+    "name": "NAIL POLISH, TYPE-3",
+    "converted": "\\ud83d\\udc85\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F485 U+1F3FD",
+    "name": "NAIL POLISH, TYPE-4",
+    "converted": "\\ud83d\\udc85\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F485 U+1F3FE",
+    "name": "NAIL POLISH, TYPE-5",
+    "converted": "\\ud83d\\udc85\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F485 U+1F3FF",
+    "name": "NAIL POLISH, TYPE-6",
+    "converted": "\\ud83d\\udc85\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F442 U+1F3FB",
+    "name": "EAR, TYPE-1-2",
+    "converted": "\\ud83d\\udc42\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F442 U+1F3FC",
+    "name": "EAR, TYPE-3",
+    "converted": "\\ud83d\\udc42\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F442 U+1F3FD",
+    "name": "EAR, TYPE-4",
+    "converted": "\\ud83d\\udc42\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F442 U+1F3FE",
+    "name": "EAR, TYPE-5",
+    "converted": "\\ud83d\\udc42\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F442 U+1F3FF",
+    "name": "EAR, TYPE-6",
+    "converted": "\\ud83d\\udc42\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F443 U+1F3FB",
+    "name": "NOSE, TYPE-1-2",
+    "converted": "\\ud83d\\udc43\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F443 U+1F3FC",
+    "name": "NOSE, TYPE-3",
+    "converted": "\\ud83d\\udc43\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F443 U+1F3FD",
+    "name": "NOSE, TYPE-4",
+    "converted": "\\ud83d\\udc43\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F443 U+1F3FE",
+    "name": "NOSE, TYPE-5",
+    "converted": "\\ud83d\\udc43\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F443 U+1F3FF",
+    "name": "NOSE, TYPE-6",
+    "converted": "\\ud83d\\udc43\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F6A3 U+1F3FB",
+    "name": "ROWBOAT, TYPE-1-2",
+    "converted": "\\ud83d\\udea3\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F6A3 U+1F3FC",
+    "name": "ROWBOAT, TYPE-3",
+    "converted": "\\ud83d\\udea3\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F6A3 U+1F3FD",
+    "name": "ROWBOAT, TYPE-4",
+    "converted": "\\ud83d\\udea3\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F6A3 U+1F3FE",
+    "name": "ROWBOAT, TYPE-5",
+    "converted": "\\ud83d\\udea3\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F6A3 U+1F3FF",
+    "name": "ROWBOAT, TYPE-6",
+    "converted": "\\ud83d\\udea3\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F6C0 U+1F3FB",
+    "name": "BATH, TYPE-1-2",
+    "converted": "\\ud83d\\udec0\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F6C0 U+1F3FC",
+    "name": "BATH, TYPE-3",
+    "converted": "\\ud83d\\udec0\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F6C0 U+1F3FD",
+    "name": "BATH, TYPE-4",
+    "converted": "\\ud83d\\udec0\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F6C0 U+1F3FE",
+    "name": "BATH, TYPE-5",
+    "converted": "\\ud83d\\udec0\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F6C0 U+1F3FF",
+    "name": "BATH, TYPE-6",
+    "converted": "\\ud83d\\udec0\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F3C4 U+1F3FB",
+    "name": "SURFER, TYPE-1-2",
+    "converted": "\\ud83c\\udfc4\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F3C4 U+1F3FC",
+    "name": "SURFER, TYPE-3",
+    "converted": "\\ud83c\\udfc4\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F3C4 U+1F3FD",
+    "name": "SURFER, TYPE-4",
+    "converted": "\\ud83c\\udfc4\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F3C4 U+1F3FE",
+    "name": "SURFER, TYPE-5",
+    "converted": "\\ud83c\\udfc4\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F3C4 U+1F3FF",
+    "name": "SURFER, TYPE-6",
+    "converted": "\\ud83c\\udfc4\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F3CA U+1F3FB",
+    "name": "SWIMMER, TYPE-1-2",
+    "converted": "\\ud83c\\udfca\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F3CA U+1F3FC",
+    "name": "SWIMMER, TYPE-3",
+    "converted": "\\ud83c\\udfca\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F3CA U+1F3FD",
+    "name": "SWIMMER, TYPE-4",
+    "converted": "\\ud83c\\udfca\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F3CA U+1F3FE",
+    "name": "SWIMMER, TYPE-5",
+    "converted": "\\ud83c\\udfca\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F3CA U+1F3FF",
+    "name": "SWIMMER, TYPE-6",
+    "converted": "\\ud83c\\udfca\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F3CB U+1F3FB",
+    "name": "WEIGHT LIFTER, TYPE-1-2",
+    "converted": "\\ud83c\\udfcb\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F3CB U+1F3FC",
+    "name": "WEIGHT LIFTER, TYPE-3",
+    "converted": "\\ud83c\\udfcb\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F3CB U+1F3FD",
+    "name": "WEIGHT LIFTER, TYPE-4",
+    "converted": "\\ud83c\\udfcb\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F3CB U+1F3FE",
+    "name": "WEIGHT LIFTER, TYPE-5",
+    "converted": "\\ud83c\\udfcb\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F3CB U+1F3FF",
+    "name": "WEIGHT LIFTER, TYPE-6",
+    "converted": "\\ud83c\\udfcb\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F6B4 U+1F3FB",
+    "name": "BICYCLIST, TYPE-1-2",
+    "converted": "\\ud83d\\udeb4\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F6B4 U+1F3FC",
+    "name": "BICYCLIST, TYPE-3",
+    "converted": "\\ud83d\\udeb4\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F6B4 U+1F3FD",
+    "name": "BICYCLIST, TYPE-4",
+    "converted": "\\ud83d\\udeb4\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F6B4 U+1F3FE",
+    "name": "BICYCLIST, TYPE-5",
+    "converted": "\\ud83d\\udeb4\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F6B4 U+1F3FF",
+    "name": "BICYCLIST, TYPE-6",
+    "converted": "\\ud83d\\udeb4\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F6B5 U+1F3FB",
+    "name": "MOUNTAIN BICYCLIST, TYPE-1-2",
+    "converted": "\\ud83d\\udeb5\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F6B5 U+1F3FC",
+    "name": "MOUNTAIN BICYCLIST, TYPE-3",
+    "converted": "\\ud83d\\udeb5\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F6B5 U+1F3FD",
+    "name": "MOUNTAIN BICYCLIST, TYPE-4",
+    "converted": "\\ud83d\\udeb5\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F6B5 U+1F3FE",
+    "name": "MOUNTAIN BICYCLIST, TYPE-5",
+    "converted": "\\ud83d\\udeb5\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F6B5 U+1F3FF",
+    "name": "MOUNTAIN BICYCLIST, TYPE-6",
+    "converted": "\\ud83d\\udeb5\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1E8",
+    "name": "Flag for Ascension Island",
+    "converted": "\\ud83c\\udde6\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1E9",
+    "name": "Flag for Andorra",
+    "converted": "\\ud83c\\udde6\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1EA",
+    "name": "Flag for United Arab Emirates",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1EB",
+    "name": "Flag for Afghanistan",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1EC",
+    "name": "Flag for Antigua & Barbuda",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1EE",
+    "name": "Flag for Anguilla",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F1",
+    "name": "Flag for Albania",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F2",
+    "name": "Flag for Armenia",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F4",
+    "name": "Flag for Angola",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F6",
+    "name": "Flag for Antarctica",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf6"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F7",
+    "name": "Flag for Argentina",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F8",
+    "name": "Flag for American Samoa",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1F9",
+    "name": "Flag for Austria",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1FA",
+    "name": "Flag for Australia",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1FC",
+    "name": "Flag for Aruba",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1FD",
+    "name": "Flag for Åland Islands",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddfd"
+  },
+  {
+    "unicode": "U+1F1E6 U+1F1FF",
+    "name": "Flag for Azerbaijan",
+    "converted": "\\ud83c\\udde6\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1E6",
+    "name": "Flag for Bosnia & Herzegovina",
+    "converted": "\\ud83c\\udde7\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1E7",
+    "name": "Flag for Barbados",
+    "converted": "\\ud83c\\udde7\\ud83c\\udde7"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1E9",
+    "name": "Flag for Bangladesh",
+    "converted": "\\ud83c\\udde7\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1EA",
+    "name": "Flag for Belgium",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1EB",
+    "name": "Flag for Burkina Faso",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1EC",
+    "name": "Flag for Bulgaria",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1ED",
+    "name": "Flag for Bahrain",
+    "converted": "\\ud83c\\udde7\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1EE",
+    "name": "Flag for Burundi",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1EF",
+    "name": "Flag for Benin",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddef"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F1",
+    "name": "Flag for St. Barthélemy",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F2",
+    "name": "Flag for Bermuda",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F3",
+    "name": "Flag for Brunei",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F4",
+    "name": "Flag for Bolivia",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F6",
+    "name": "Flag for Caribbean Netherlands",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf6"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F7",
+    "name": "Flag for Brazil",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F8",
+    "name": "Flag for Bahamas",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1F9",
+    "name": "Flag for Bhutan",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1FB",
+    "name": "Flag for Bouvet Island",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1FC",
+    "name": "Flag for Botswana",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1FE",
+    "name": "Flag for Belarus",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1E7 U+1F1FF",
+    "name": "Flag for Belize",
+    "converted": "\\ud83c\\udde7\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1E6",
+    "name": "Flag for Canada",
+    "converted": "\\ud83c\\udde8\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1E8",
+    "name": "Flag for Cocos Islands",
+    "converted": "\\ud83c\\udde8\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1E9",
+    "name": "Flag for Congo - Kinshasa",
+    "converted": "\\ud83c\\udde8\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1EB",
+    "name": "Flag for Central African Republic",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1EC",
+    "name": "Flag for Congo - Brazzaville",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1ED",
+    "name": "Flag for Switzerland",
+    "converted": "\\ud83c\\udde8\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1EE",
+    "name": "Flag for Côte d’Ivoire",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F0",
+    "name": "Flag for Cook Islands",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F1",
+    "name": "Flag for Chile",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F2",
+    "name": "Flag for Cameroon",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F3",
+    "name": "Flag for China",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F4",
+    "name": "Flag for Colombia",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F5",
+    "name": "Flag for Clipperton Island",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1F7",
+    "name": "Flag for Costa Rica",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FA",
+    "name": "Flag for Cuba",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FB",
+    "name": "Flag for Cape Verde",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FC",
+    "name": "Flag for Curaçao",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FD",
+    "name": "Flag for Christmas Island",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddfd"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FE",
+    "name": "Flag for Cyprus",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1E8 U+1F1FF",
+    "name": "Flag for Czech Republic",
+    "converted": "\\ud83c\\udde8\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1EA",
+    "name": "Flag for Germany",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1EC",
+    "name": "Flag for Diego Garcia",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1EF",
+    "name": "Flag for Djibouti",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddef"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1F0",
+    "name": "Flag for Denmark",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1F2",
+    "name": "Flag for Dominica",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1F4",
+    "name": "Flag for Dominican Republic",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1E9 U+1F1FF",
+    "name": "Flag for Algeria",
+    "converted": "\\ud83c\\udde9\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1E6",
+    "name": "Flag for Ceuta & Melilla",
+    "converted": "\\ud83c\\uddea\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1E8",
+    "name": "Flag for Ecuador",
+    "converted": "\\ud83c\\uddea\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1EA",
+    "name": "Flag for Estonia",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1EC",
+    "name": "Flag for Egypt",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1ED",
+    "name": "Flag for Western Sahara",
+    "converted": "\\ud83c\\uddea\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1F7",
+    "name": "Flag for Eritrea",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1F8",
+    "name": "Flag for Spain",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1F9",
+    "name": "Flag for Ethiopia",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1EA U+1F1FA",
+    "name": "Flag for European Union",
+    "converted": "\\ud83c\\uddea\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1EE",
+    "name": "Flag for Finland",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1EF",
+    "name": "Flag for Fiji",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddef"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1F0",
+    "name": "Flag for Falkland Islands",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1F2",
+    "name": "Flag for Micronesia",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1F4",
+    "name": "Flag for Faroe Islands",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1EB U+1F1F7",
+    "name": "Flag for France",
+    "converted": "\\ud83c\\uddeb\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1E6",
+    "name": "Flag for Gabon",
+    "converted": "\\ud83c\\uddec\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1E7",
+    "name": "Flag for United Kingdom",
+    "converted": "\\ud83c\\uddec\\ud83c\\udde7"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1E9",
+    "name": "Flag for Grenada",
+    "converted": "\\ud83c\\uddec\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1EA",
+    "name": "Flag for Georgia",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1EB",
+    "name": "Flag for French Guiana",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1EC",
+    "name": "Flag for Guernsey",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1ED",
+    "name": "Flag for Ghana",
+    "converted": "\\ud83c\\uddec\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1EE",
+    "name": "Flag for Gibraltar",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F1",
+    "name": "Flag for Greenland",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F2",
+    "name": "Flag for Gambia",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F3",
+    "name": "Flag for Guinea",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F5",
+    "name": "Flag for Guadeloupe",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F6",
+    "name": "Flag for Equatorial Guinea",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf6"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F7",
+    "name": "Flag for Greece",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F8",
+    "name": "Flag for South Georgia & South Sandwich Islands",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1F9",
+    "name": "Flag for Guatemala",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1FA",
+    "name": "Flag for Guam",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1FC",
+    "name": "Flag for Guinea-Bissau",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1EC U+1F1FE",
+    "name": "Flag for Guyana",
+    "converted": "\\ud83c\\uddec\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1F0",
+    "name": "Flag for Hong Kong",
+    "converted": "\\ud83c\\udded\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1F2",
+    "name": "Flag for Heard & McDonald Islands",
+    "converted": "\\ud83c\\udded\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1F3",
+    "name": "Flag for Honduras",
+    "converted": "\\ud83c\\udded\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1F7",
+    "name": "Flag for Croatia",
+    "converted": "\\ud83c\\udded\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1F9",
+    "name": "Flag for Haiti",
+    "converted": "\\ud83c\\udded\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1ED U+1F1FA",
+    "name": "Flag for Hungary",
+    "converted": "\\ud83c\\udded\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1E8",
+    "name": "Flag for Canary Islands",
+    "converted": "\\ud83c\\uddee\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1E9",
+    "name": "Flag for Indonesia",
+    "converted": "\\ud83c\\uddee\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1EA",
+    "name": "Flag for Ireland",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F1",
+    "name": "Flag for Israel",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F2",
+    "name": "Flag for Isle of Man",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F3",
+    "name": "Flag for India",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F4",
+    "name": "Flag for British Indian Ocean Territory",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F6",
+    "name": "Flag for Iraq",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf6"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F7",
+    "name": "Flag for Iran",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F8",
+    "name": "Flag for Iceland",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1EE U+1F1F9",
+    "name": "Flag for Italy",
+    "converted": "\\ud83c\\uddee\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1EF U+1F1EA",
+    "name": "Flag for Jersey",
+    "converted": "\\ud83c\\uddef\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1EF U+1F1F2",
+    "name": "Flag for Jamaica",
+    "converted": "\\ud83c\\uddef\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1EF U+1F1F4",
+    "name": "Flag for Jordan",
+    "converted": "\\ud83c\\uddef\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1EF U+1F1F5",
+    "name": "Flag for Japan",
+    "converted": "\\ud83c\\uddef\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1EA",
+    "name": "Flag for Kenya",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1EC",
+    "name": "Flag for Kyrgyzstan",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1ED",
+    "name": "Flag for Cambodia",
+    "converted": "\\ud83c\\uddf0\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1EE",
+    "name": "Flag for Kiribati",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1F2",
+    "name": "Flag for Comoros",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1F3",
+    "name": "Flag for St. Kitts & Nevis",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1F5",
+    "name": "Flag for North Korea",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1F7",
+    "name": "Flag for South Korea",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1FC",
+    "name": "Flag for Kuwait",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1FE",
+    "name": "Flag for Cayman Islands",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1F0 U+1F1FF",
+    "name": "Flag for Kazakhstan",
+    "converted": "\\ud83c\\uddf0\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1E6",
+    "name": "Flag for Laos",
+    "converted": "\\ud83c\\uddf1\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1E7",
+    "name": "Flag for Lebanon",
+    "converted": "\\ud83c\\uddf1\\ud83c\\udde7"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1E8",
+    "name": "Flag for St. Lucia",
+    "converted": "\\ud83c\\uddf1\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1EE",
+    "name": "Flag for Liechtenstein",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1F0",
+    "name": "Flag for Sri Lanka",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1F7",
+    "name": "Flag for Liberia",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1F8",
+    "name": "Flag for Lesotho",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1F9",
+    "name": "Flag for Lithuania",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1FA",
+    "name": "Flag for Luxembourg",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1FB",
+    "name": "Flag for Latvia",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1F1 U+1F1FE",
+    "name": "Flag for Libya",
+    "converted": "\\ud83c\\uddf1\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1E6",
+    "name": "Flag for Morocco",
+    "converted": "\\ud83c\\uddf2\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1E8",
+    "name": "Flag for Monaco",
+    "converted": "\\ud83c\\uddf2\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1E9",
+    "name": "Flag for Moldova",
+    "converted": "\\ud83c\\uddf2\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1EA",
+    "name": "Flag for Montenegro",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1EB",
+    "name": "Flag for St. Martin",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1EC",
+    "name": "Flag for Madagascar",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1ED",
+    "name": "Flag for Marshall Islands",
+    "converted": "\\ud83c\\uddf2\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F0",
+    "name": "Flag for Macedonia",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F1",
+    "name": "Flag for Mali",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F2",
+    "name": "Flag for Myanmar",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F3",
+    "name": "Flag for Mongolia",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F4",
+    "name": "Flag for Macau",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F5",
+    "name": "Flag for Northern Mariana Islands",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F6",
+    "name": "Flag for Martinique",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf6"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F7",
+    "name": "Flag for Mauritania",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F8",
+    "name": "Flag for Montserrat",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1F9",
+    "name": "Flag for Malta",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FA",
+    "name": "Flag for Mauritius",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FB",
+    "name": "Flag for Maldives",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FC",
+    "name": "Flag for Malawi",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FD",
+    "name": "Flag for Mexico",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddfd"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FE",
+    "name": "Flag for Malaysia",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1F2 U+1F1FF",
+    "name": "Flag for Mozambique",
+    "converted": "\\ud83c\\uddf2\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1E6",
+    "name": "Flag for Namibia",
+    "converted": "\\ud83c\\uddf3\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1E8",
+    "name": "Flag for New Caledonia",
+    "converted": "\\ud83c\\uddf3\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1EA",
+    "name": "Flag for Niger",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1EB",
+    "name": "Flag for Norfolk Island",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1EC",
+    "name": "Flag for Nigeria",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1EE",
+    "name": "Flag for Nicaragua",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1F1",
+    "name": "Flag for Netherlands",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1F4",
+    "name": "Flag for Norway",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1F5",
+    "name": "Flag for Nepal",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddf5"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1F7",
+    "name": "Flag for Nauru",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1FA",
+    "name": "Flag for Niue",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1F3 U+1F1FF",
+    "name": "Flag for New Zealand",
+    "converted": "\\ud83c\\uddf3\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1F4 U+1F1F2",
+    "name": "Flag for Oman",
+    "converted": "\\ud83c\\uddf4\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1E6",
+    "name": "Flag for Panama",
+    "converted": "\\ud83c\\uddf5\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1EA",
+    "name": "Flag for Peru",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1EB",
+    "name": "Flag for French Polynesia",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1EC",
+    "name": "Flag for Papua New Guinea",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1ED",
+    "name": "Flag for Philippines",
+    "converted": "\\ud83c\\uddf5\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F0",
+    "name": "Flag for Pakistan",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F1",
+    "name": "Flag for Poland",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F2",
+    "name": "Flag for St. Pierre & Miquelon",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F3",
+    "name": "Flag for Pitcairn Islands",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F7",
+    "name": "Flag for Puerto Rico",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F8",
+    "name": "Flag for Palestinian Territories",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1F9",
+    "name": "Flag for Portugal",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1FC",
+    "name": "Flag for Palau",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1F5 U+1F1FE",
+    "name": "Flag for Paraguay",
+    "converted": "\\ud83c\\uddf5\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1F6 U+1F1E6",
+    "name": "Flag for Qatar",
+    "converted": "\\ud83c\\uddf6\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F7 U+1F1EA",
+    "name": "Flag for Réunion",
+    "converted": "\\ud83c\\uddf7\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F7 U+1F1F4",
+    "name": "Flag for Romania",
+    "converted": "\\ud83c\\uddf7\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1F7 U+1F1F8",
+    "name": "Flag for Serbia",
+    "converted": "\\ud83c\\uddf7\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1F7 U+1F1FA",
+    "name": "Flag for Russia",
+    "converted": "\\ud83c\\uddf7\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1F7 U+1F1FC",
+    "name": "Flag for Rwanda",
+    "converted": "\\ud83c\\uddf7\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1E6",
+    "name": "Flag for Saudi Arabia",
+    "converted": "\\ud83c\\uddf8\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1E7",
+    "name": "Flag for Solomon Islands",
+    "converted": "\\ud83c\\uddf8\\ud83c\\udde7"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1E8",
+    "name": "Flag for Seychelles",
+    "converted": "\\ud83c\\uddf8\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1E9",
+    "name": "Flag for Sudan",
+    "converted": "\\ud83c\\uddf8\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1EA",
+    "name": "Flag for Sweden",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1EC",
+    "name": "Flag for Singapore",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1ED",
+    "name": "Flag for St. Helena",
+    "converted": "\\ud83c\\uddf8\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1EE",
+    "name": "Flag for Slovenia",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1EF",
+    "name": "Flag for Svalbard & Jan Mayen",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddef"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F0",
+    "name": "Flag for Slovakia",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F1",
+    "name": "Flag for Sierra Leone",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F2",
+    "name": "Flag for San Marino",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F3",
+    "name": "Flag for Senegal",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F4",
+    "name": "Flag for Somalia",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F7",
+    "name": "Flag for Suriname",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F8",
+    "name": "Flag for South Sudan",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1F9",
+    "name": "Flag for São Tomé & Príncipe",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1FB",
+    "name": "Flag for El Salvador",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1FD",
+    "name": "Flag for Sint Maarten",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddfd"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1FE",
+    "name": "Flag for Syria",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1F8 U+1F1FF",
+    "name": "Flag for Swaziland",
+    "converted": "\\ud83c\\uddf8\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1E6",
+    "name": "Flag for Tristan da Cunha",
+    "converted": "\\ud83c\\uddf9\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1E8",
+    "name": "Flag for Turks & Caicos Islands",
+    "converted": "\\ud83c\\uddf9\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1E9",
+    "name": "Flag for Chad",
+    "converted": "\\ud83c\\uddf9\\ud83c\\udde9"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1EB",
+    "name": "Flag for French Southern Territories",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1EC",
+    "name": "Flag for Togo",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1ED",
+    "name": "Flag for Thailand",
+    "converted": "\\ud83c\\uddf9\\ud83c\\udded"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1EF",
+    "name": "Flag for Tajikistan",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddef"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F0",
+    "name": "Flag for Tokelau",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F1",
+    "name": "Flag for Timor-Leste",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf1"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F2",
+    "name": "Flag for Turkmenistan",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F3",
+    "name": "Flag for Tunisia",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F4",
+    "name": "Flag for Tonga",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf4"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F7",
+    "name": "Flag for Turkey",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf7"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1F9",
+    "name": "Flag for Trinidad & Tobago",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1FB",
+    "name": "Flag for Tuvalu",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddfb"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1FC",
+    "name": "Flag for Taiwan",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+1F1F9 U+1F1FF",
+    "name": "Flag for Tanzania",
+    "converted": "\\ud83c\\uddf9\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1E6",
+    "name": "Flag for Ukraine",
+    "converted": "\\ud83c\\uddfa\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1EC",
+    "name": "Flag for Uganda",
+    "converted": "\\ud83c\\uddfa\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1F2",
+    "name": "Flag for U.S. Outlying Islands",
+    "converted": "\\ud83c\\uddfa\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1F8",
+    "name": "Flag for United States",
+    "converted": "\\ud83c\\uddfa\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1FE",
+    "name": "Flag for Uruguay",
+    "converted": "\\ud83c\\uddfa\\ud83c\\uddfe"
+  },
+  {
+    "unicode": "U+1F1FA U+1F1FF",
+    "name": "Flag for Uzbekistan",
+    "converted": "\\ud83c\\uddfa\\ud83c\\uddff"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1E6",
+    "name": "Flag for Vatican City",
+    "converted": "\\ud83c\\uddfb\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1E8",
+    "name": "Flag for St. Vincent & Grenadines",
+    "converted": "\\ud83c\\uddfb\\ud83c\\udde8"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1EA",
+    "name": "Flag for Venezuela",
+    "converted": "\\ud83c\\uddfb\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1EC",
+    "name": "Flag for British Virgin Islands",
+    "converted": "\\ud83c\\uddfb\\ud83c\\uddec"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1EE",
+    "name": "Flag for U.S. Virgin Islands",
+    "converted": "\\ud83c\\uddfb\\ud83c\\uddee"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1F3",
+    "name": "Flag for Vietnam",
+    "converted": "\\ud83c\\uddfb\\ud83c\\uddf3"
+  },
+  {
+    "unicode": "U+1F1FB U+1F1FA",
+    "name": "Flag for Vanuatu",
+    "converted": "\\ud83c\\uddfb\\ud83c\\uddfa"
+  },
+  {
+    "unicode": "U+1F1FC U+1F1EB",
+    "name": "Flag for Wallis & Futuna",
+    "converted": "\\ud83c\\uddfc\\ud83c\\uddeb"
+  },
+  {
+    "unicode": "U+1F1FC U+1F1F8",
+    "name": "Flag for Samoa",
+    "converted": "\\ud83c\\uddfc\\ud83c\\uddf8"
+  },
+  {
+    "unicode": "U+1F1FD U+1F1F0",
+    "name": "Flag for Kosovo",
+    "converted": "\\ud83c\\uddfd\\ud83c\\uddf0"
+  },
+  {
+    "unicode": "U+1F1FE U+1F1EA",
+    "name": "Flag for Yemen",
+    "converted": "\\ud83c\\uddfe\\ud83c\\uddea"
+  },
+  {
+    "unicode": "U+1F1FE U+1F1F9",
+    "name": "Flag for Mayotte",
+    "converted": "\\ud83c\\uddfe\\ud83c\\uddf9"
+  },
+  {
+    "unicode": "U+1F1FF U+1F1E6",
+    "name": "Flag for South Africa",
+    "converted": "\\ud83c\\uddff\\ud83c\\udde6"
+  },
+  {
+    "unicode": "U+1F1FF U+1F1F2",
+    "name": "Flag for Zambia",
+    "converted": "\\ud83c\\uddff\\ud83c\\uddf2"
+  },
+  {
+    "unicode": "U+1F1FF U+1F1FC",
+    "name": "Flag for Zimbabwe",
+    "converted": "\\ud83c\\uddff\\ud83c\\uddfc"
+  },
+  {
+    "unicode": "U+261D U+1F3FB",
+    "name": "WHITE UP POINTING INDEX, TYPE-1-2",
+    "converted": "\\u261d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+261D U+1F3FC",
+    "name": "WHITE UP POINTING INDEX, TYPE-3",
+    "converted": "\\u261d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+261D U+1F3FD",
+    "name": "WHITE UP POINTING INDEX, TYPE-4",
+    "converted": "\\u261d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+261D U+1F3FE",
+    "name": "WHITE UP POINTING INDEX, TYPE-5",
+    "converted": "\\u261d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+261D U+1F3FF",
+    "name": "WHITE UP POINTING INDEX, TYPE-6",
+    "converted": "\\u261d\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+270C U+1F3FB",
+    "name": "VICTORY HAND, TYPE-1-2",
+    "converted": "\\u270c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+270C U+1F3FC",
+    "name": "VICTORY HAND, TYPE-3",
+    "converted": "\\u270c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+270C U+1F3FD",
+    "name": "VICTORY HAND, TYPE-4",
+    "converted": "\\u270c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+270C U+1F3FE",
+    "name": "VICTORY HAND, TYPE-5",
+    "converted": "\\u270c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+270C U+1F3FF",
+    "name": "VICTORY HAND, TYPE-6",
+    "converted": "\\u270c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+270B U+1F3FB",
+    "name": "RAISED HAND, TYPE-1-2",
+    "converted": "\\u270b\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+270B U+1F3FC",
+    "name": "RAISED HAND, TYPE-3",
+    "converted": "\\u270b\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+270B U+1F3FD",
+    "name": "RAISED HAND, TYPE-4",
+    "converted": "\\u270b\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+270B U+1F3FE",
+    "name": "RAISED HAND, TYPE-5",
+    "converted": "\\u270b\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+270B U+1F3FF",
+    "name": "RAISED HAND, TYPE-6",
+    "converted": "\\u270b\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+270A U+1F3FB",
+    "name": "RAISED FIST, TYPE-1-2",
+    "converted": "\\u270a\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+270A U+1F3FC",
+    "name": "RAISED FIST, TYPE-3",
+    "converted": "\\u270a\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+270A U+1F3FD",
+    "name": "RAISED FIST, TYPE-4",
+    "converted": "\\u270a\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+270A U+1F3FE",
+    "name": "RAISED FIST, TYPE-5",
+    "converted": "\\u270a\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+270A U+1F3FF",
+    "name": "RAISED FIST, TYPE-6",
+    "converted": "\\u270a\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+270D U+1F3FB",
+    "name": "WRITING HAND, TYPE-1-2",
+    "converted": "\\u270d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+270D U+1F3FC",
+    "name": "WRITING HAND, TYPE-3",
+    "converted": "\\u270d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+270D U+1F3FD",
+    "name": "WRITING HAND, TYPE-4",
+    "converted": "\\u270d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+270D U+1F3FE",
+    "name": "WRITING HAND, TYPE-5",
+    "converted": "\\u270d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+270D U+1F3FF",
+    "name": "WRITING HAND, TYPE-6",
+    "converted": "\\u270d\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+26F9 U+1F3FB",
+    "name": "PERSON WITH BALL, TYPE-1-2",
+    "converted": "\\u26f9\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+26F9 U+1F3FC",
+    "name": "PERSON WITH BALL, TYPE-3",
+    "converted": "\\u26f9\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+26F9 U+1F3FD",
+    "name": "PERSON WITH BALL, TYPE-4",
+    "converted": "\\u26f9\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+26F9 U+1F3FE",
+    "name": "PERSON WITH BALL, TYPE-5",
+    "converted": "\\u26f9\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+26F9 U+1F3FF",
+    "name": "PERSON WITH BALL, TYPE-6",
+    "converted": "\\u26f9\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F600",
+    "name": "GRINNING FACE",
+    "converted": "\\ud83d\\ude00"
+  },
+  {
+    "unicode": "U+1F601",
+    "name": "GRINNING FACE WITH SMILING EYES",
+    "converted": "\\ud83d\\ude01"
+  },
+  {
+    "unicode": "U+1F602",
+    "name": "FACE WITH TEARS OF JOY",
+    "converted": "\\ud83d\\ude02"
+  },
+  {
+    "unicode": "U+1F603",
+    "name": "SMILING FACE WITH OPEN MOUTH",
+    "converted": "\\ud83d\\ude03"
+  },
+  {
+    "unicode": "U+1F604",
+    "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "converted": "\\ud83d\\ude04"
+  },
+  {
+    "unicode": "U+1F605",
+    "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "converted": "\\ud83d\\ude05"
+  },
+  {
+    "unicode": "U+1F606",
+    "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "converted": "\\ud83d\\ude06"
+  },
+  {
+    "unicode": "U+1F609",
+    "name": "WINKING FACE",
+    "converted": "\\ud83d\\ude09"
+  },
+  {
+    "unicode": "U+1F60A",
+    "name": "SMILING FACE WITH SMILING EYES",
+    "converted": "\\ud83d\\ude0a"
+  },
+  {
+    "unicode": "U+1F60B",
+    "name": "FACE SAVOURING DELICIOUS FOOD",
+    "converted": "\\ud83d\\ude0b"
+  },
+  {
+    "unicode": "U+1F60E",
+    "name": "SMILING FACE WITH SUNGLASSES",
+    "converted": "\\ud83d\\ude0e"
+  },
+  {
+    "unicode": "U+1F60D",
+    "name": "SMILING FACE WITH HEART-SHAPED EYES",
+    "converted": "\\ud83d\\ude0d"
+  },
+  {
+    "unicode": "U+1F618",
+    "name": "FACE THROWING A KISS",
+    "converted": "\\ud83d\\ude18"
+  },
+  {
+    "unicode": "U+1F617",
+    "name": "KISSING FACE",
+    "converted": "\\ud83d\\ude17"
+  },
+  {
+    "unicode": "U+1F619",
+    "name": "KISSING FACE WITH SMILING EYES",
+    "converted": "\\ud83d\\ude19"
+  },
+  {
+    "unicode": "U+1F61A",
+    "name": "KISSING FACE WITH CLOSED EYES",
+    "converted": "\\ud83d\\ude1a"
+  },
+  {
+    "unicode": "U+1F642",
+    "name": "SLIGHTLY SMILING FACE",
+    "converted": "\\ud83d\\ude42"
+  },
+  {
+    "unicode": "U+1F917",
+    "name": "HUGGING FACE",
+    "converted": "\\ud83e\\udd17"
+  },
+  {
+    "unicode": "U+1F607",
+    "name": "SMILING FACE WITH HALO",
+    "converted": "\\ud83d\\ude07"
+  },
+  {
+    "unicode": "U+1F913",
+    "name": "NERD FACE",
+    "converted": "\\ud83e\\udd13"
+  },
+  {
+    "unicode": "U+1F914",
+    "name": "THINKING FACE",
+    "converted": "\\ud83e\\udd14"
+  },
+  {
+    "unicode": "U+1F610",
+    "name": "NEUTRAL FACE",
+    "converted": "\\ud83d\\ude10"
+  },
+  {
+    "unicode": "U+1F611",
+    "name": "EXPRESSIONLESS FACE",
+    "converted": "\\ud83d\\ude11"
+  },
+  {
+    "unicode": "U+1F636",
+    "name": "FACE WITHOUT MOUTH",
+    "converted": "\\ud83d\\ude36"
+  },
+  {
+    "unicode": "U+1F644",
+    "name": "FACE WITH ROLLING EYES",
+    "converted": "\\ud83d\\ude44"
+  },
+  {
+    "unicode": "U+1F60F",
+    "name": "SMIRKING FACE",
+    "converted": "\\ud83d\\ude0f"
+  },
+  {
+    "unicode": "U+1F623",
+    "name": "PERSEVERING FACE",
+    "converted": "\\ud83d\\ude23"
+  },
+  {
+    "unicode": "U+1F625",
+    "name": "DISAPPOINTED BUT RELIEVED FACE",
+    "converted": "\\ud83d\\ude25"
+  },
+  {
+    "unicode": "U+1F62E",
+    "name": "FACE WITH OPEN MOUTH",
+    "converted": "\\ud83d\\ude2e"
+  },
+  {
+    "unicode": "U+1F910",
+    "name": "ZIPPER-MOUTH FACE",
+    "converted": "\\ud83e\\udd10"
+  },
+  {
+    "unicode": "U+1F62F",
+    "name": "HUSHED FACE",
+    "converted": "\\ud83d\\ude2f"
+  },
+  {
+    "unicode": "U+1F62A",
+    "name": "SLEEPY FACE",
+    "converted": "\\ud83d\\ude2a"
+  },
+  {
+    "unicode": "U+1F62B",
+    "name": "TIRED FACE",
+    "converted": "\\ud83d\\ude2b"
+  },
+  {
+    "unicode": "U+1F634",
+    "name": "SLEEPING FACE",
+    "converted": "\\ud83d\\ude34"
+  },
+  {
+    "unicode": "U+1F60C",
+    "name": "RELIEVED FACE",
+    "converted": "\\ud83d\\ude0c"
+  },
+  {
+    "unicode": "U+1F61B",
+    "name": "FACE WITH STUCK-OUT TONGUE",
+    "converted": "\\ud83d\\ude1b"
+  },
+  {
+    "unicode": "U+1F61C",
+    "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "converted": "\\ud83d\\ude1c"
+  },
+  {
+    "unicode": "U+1F61D",
+    "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "converted": "\\ud83d\\ude1d"
+  },
+  {
+    "unicode": "U+1F612",
+    "name": "UNAMUSED FACE",
+    "converted": "\\ud83d\\ude12"
+  },
+  {
+    "unicode": "U+1F613",
+    "name": "FACE WITH COLD SWEAT",
+    "converted": "\\ud83d\\ude13"
+  },
+  {
+    "unicode": "U+1F614",
+    "name": "PENSIVE FACE",
+    "converted": "\\ud83d\\ude14"
+  },
+  {
+    "unicode": "U+1F615",
+    "name": "CONFUSED FACE",
+    "converted": "\\ud83d\\ude15"
+  },
+  {
+    "unicode": "U+1F643",
+    "name": "UPSIDE-DOWN FACE",
+    "converted": "\\ud83d\\ude43"
+  },
+  {
+    "unicode": "U+1F911",
+    "name": "MONEY-MOUTH FACE",
+    "converted": "\\ud83e\\udd11"
+  },
+  {
+    "unicode": "U+1F632",
+    "name": "ASTONISHED FACE",
+    "converted": "\\ud83d\\ude32"
+  },
+  {
+    "unicode": "U+1F637",
+    "name": "FACE WITH MEDICAL MASK",
+    "converted": "\\ud83d\\ude37"
+  },
+  {
+    "unicode": "U+1F912",
+    "name": "FACE WITH THERMOMETER",
+    "converted": "\\ud83e\\udd12"
+  },
+  {
+    "unicode": "U+1F915",
+    "name": "FACE WITH HEAD-BANDAGE",
+    "converted": "\\ud83e\\udd15"
+  },
+  {
+    "unicode": "U+1F641",
+    "name": "SLIGHTLY FROWNING FACE",
+    "converted": "\\ud83d\\ude41"
+  },
+  {
+    "unicode": "U+1F616",
+    "name": "CONFOUNDED FACE",
+    "converted": "\\ud83d\\ude16"
+  },
+  {
+    "unicode": "U+1F61E",
+    "name": "DISAPPOINTED FACE",
+    "converted": "\\ud83d\\ude1e"
+  },
+  {
+    "unicode": "U+1F61F",
+    "name": "WORRIED FACE",
+    "converted": "\\ud83d\\ude1f"
+  },
+  {
+    "unicode": "U+1F624",
+    "name": "FACE WITH LOOK OF TRIUMPH≊ face with steam from nose",
+    "converted": "\\ud83d\\ude24"
+  },
+  {
+    "unicode": "U+1F622",
+    "name": "CRYING FACE",
+    "converted": "\\ud83d\\ude22"
+  },
+  {
+    "unicode": "U+1F62D",
+    "name": "LOUDLY CRYING FACE",
+    "converted": "\\ud83d\\ude2d"
+  },
+  {
+    "unicode": "U+1F626",
+    "name": "FROWNING FACE WITH OPEN MOUTH",
+    "converted": "\\ud83d\\ude26"
+  },
+  {
+    "unicode": "U+1F627",
+    "name": "ANGUISHED FACE",
+    "converted": "\\ud83d\\ude27"
+  },
+  {
+    "unicode": "U+1F628",
+    "name": "FEARFUL FACE",
+    "converted": "\\ud83d\\ude28"
+  },
+  {
+    "unicode": "U+1F629",
+    "name": "WEARY FACE",
+    "converted": "\\ud83d\\ude29"
+  },
+  {
+    "unicode": "U+1F62C",
+    "name": "GRIMACING FACE",
+    "converted": "\\ud83d\\ude2c"
+  },
+  {
+    "unicode": "U+1F630",
+    "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "converted": "\\ud83d\\ude30"
+  },
+  {
+    "unicode": "U+1F631",
+    "name": "FACE SCREAMING IN FEAR",
+    "converted": "\\ud83d\\ude31"
+  },
+  {
+    "unicode": "U+1F633",
+    "name": "FLUSHED FACE",
+    "converted": "\\ud83d\\ude33"
+  },
+  {
+    "unicode": "U+1F635",
+    "name": "DIZZY FACE",
+    "converted": "\\ud83d\\ude35"
+  },
+  {
+    "unicode": "U+1F621",
+    "name": "POUTING FACE",
+    "converted": "\\ud83d\\ude21"
+  },
+  {
+    "unicode": "U+1F620",
+    "name": "ANGRY FACE",
+    "converted": "\\ud83d\\ude20"
+  },
+  {
+    "unicode": "U+1F608",
+    "name": "SMILING FACE WITH HORNS",
+    "converted": "\\ud83d\\ude08"
+  },
+  {
+    "unicode": "U+1F47F",
+    "name": "IMP",
+    "converted": "\\ud83d\\udc7f"
+  },
+  {
+    "unicode": "U+1F479",
+    "name": "JAPANESE OGRE≊ ogre",
+    "converted": "\\ud83d\\udc79"
+  },
+  {
+    "unicode": "U+1F47A",
+    "name": "JAPANESE GOBLIN≊ goblin",
+    "converted": "\\ud83d\\udc7a"
+  },
+  {
+    "unicode": "U+1F480",
+    "name": "SKULL",
+    "converted": "\\ud83d\\udc80"
+  },
+  {
+    "unicode": "U+1F47B",
+    "name": "GHOST",
+    "converted": "\\ud83d\\udc7b"
+  },
+  {
+    "unicode": "U+1F47D",
+    "name": "EXTRATERRESTRIAL ALIEN≊ alien",
+    "converted": "\\ud83d\\udc7d"
+  },
+  {
+    "unicode": "U+1F47E",
+    "name": "ALIEN MONSTER",
+    "converted": "\\ud83d\\udc7e"
+  },
+  {
+    "unicode": "U+1F916",
+    "name": "ROBOT FACE",
+    "converted": "\\ud83e\\udd16"
+  },
+  {
+    "unicode": "U+1F4A9",
+    "name": "PILE OF POO",
+    "converted": "\\ud83d\\udca9"
+  },
+  {
+    "unicode": "U+1F63A",
+    "name": "SMILING CAT FACE WITH OPEN MOUTH",
+    "converted": "\\ud83d\\ude3a"
+  },
+  {
+    "unicode": "U+1F638",
+    "name": "GRINNING CAT FACE WITH SMILING EYES",
+    "converted": "\\ud83d\\ude38"
+  },
+  {
+    "unicode": "U+1F639",
+    "name": "CAT FACE WITH TEARS OF JOY",
+    "converted": "\\ud83d\\ude39"
+  },
+  {
+    "unicode": "U+1F63B",
+    "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+    "converted": "\\ud83d\\ude3b"
+  },
+  {
+    "unicode": "U+1F63C",
+    "name": "CAT FACE WITH WRY SMILE",
+    "converted": "\\ud83d\\ude3c"
+  },
+  {
+    "unicode": "U+1F63D",
+    "name": "KISSING CAT FACE WITH CLOSED EYES",
+    "converted": "\\ud83d\\ude3d"
+  },
+  {
+    "unicode": "U+1F640",
+    "name": "WEARY CAT FACE",
+    "converted": "\\ud83d\\ude40"
+  },
+  {
+    "unicode": "U+1F63F",
+    "name": "CRYING CAT FACE",
+    "converted": "\\ud83d\\ude3f"
+  },
+  {
+    "unicode": "U+1F63E",
+    "name": "POUTING CAT FACE",
+    "converted": "\\ud83d\\ude3e"
+  },
+  {
+    "unicode": "U+1F648",
+    "name": "SEE-NO-EVIL MONKEY≊ see-no-evil",
+    "converted": "\\ud83d\\ude48"
+  },
+  {
+    "unicode": "U+1F649",
+    "name": "HEAR-NO-EVIL MONKEY≊ hear-no-evil",
+    "converted": "\\ud83d\\ude49"
+  },
+  {
+    "unicode": "U+1F64A",
+    "name": "SPEAK-NO-EVIL MONKEY≊ speak-no-evil",
+    "converted": "\\ud83d\\ude4a"
+  },
+  {
+    "unicode": "U+1F466",
+    "name": "BOY",
+    "converted": "\\ud83d\\udc66"
+  },
+  {
+    "unicode": "U+1F467",
+    "name": "GIRL",
+    "converted": "\\ud83d\\udc67"
+  },
+  {
+    "unicode": "U+1F468",
+    "name": "MAN",
+    "converted": "\\ud83d\\udc68"
+  },
+  {
+    "unicode": "U+1F469",
+    "name": "WOMAN",
+    "converted": "\\ud83d\\udc69"
+  },
+  {
+    "unicode": "U+1F474",
+    "name": "OLDER MAN≊ old man",
+    "converted": "\\ud83d\\udc74"
+  },
+  {
+    "unicode": "U+1F475",
+    "name": "OLDER WOMAN≊ old woman",
+    "converted": "\\ud83d\\udc75"
+  },
+  {
+    "unicode": "U+1F476",
+    "name": "BABY",
+    "converted": "\\ud83d\\udc76"
+  },
+  {
+    "unicode": "U+1F471",
+    "name": "PERSON WITH BLOND HAIR",
+    "converted": "\\ud83d\\udc71"
+  },
+  {
+    "unicode": "U+1F46E",
+    "name": "POLICE OFFICER",
+    "converted": "\\ud83d\\udc6e"
+  },
+  {
+    "unicode": "U+1F472",
+    "name": "MAN WITH GUA PI MAO≊ man with chinese cap",
+    "converted": "\\ud83d\\udc72"
+  },
+  {
+    "unicode": "U+1F473",
+    "name": "MAN WITH TURBAN",
+    "converted": "\\ud83d\\udc73"
+  },
+  {
+    "unicode": "U+1F477",
+    "name": "CONSTRUCTION WORKER",
+    "converted": "\\ud83d\\udc77"
+  },
+  {
+    "unicode": "U+1F478",
+    "name": "PRINCESS",
+    "converted": "\\ud83d\\udc78"
+  },
+  {
+    "unicode": "U+1F482",
+    "name": "GUARDSMAN",
+    "converted": "\\ud83d\\udc82"
+  },
+  {
+    "unicode": "U+1F575",
+    "name": "SLEUTH OR SPY≊ detective",
+    "converted": "\\ud83d\\udd75"
+  },
+  {
+    "unicode": "U+1F385",
+    "name": "FATHER CHRISTMAS≊ santa claus",
+    "converted": "\\ud83c\\udf85"
+  },
+  {
+    "unicode": "U+1F470",
+    "name": "BRIDE WITH VEIL",
+    "converted": "\\ud83d\\udc70"
+  },
+  {
+    "unicode": "U+1F47C",
+    "name": "BABY ANGEL",
+    "converted": "\\ud83d\\udc7c"
+  },
+  {
+    "unicode": "U+1F486",
+    "name": "FACE MASSAGE",
+    "converted": "\\ud83d\\udc86"
+  },
+  {
+    "unicode": "U+1F487",
+    "name": "HAIRCUT",
+    "converted": "\\ud83d\\udc87"
+  },
+  {
+    "unicode": "U+1F64D",
+    "name": "PERSON FROWNING",
+    "converted": "\\ud83d\\ude4d"
+  },
+  {
+    "unicode": "U+1F64E",
+    "name": "PERSON WITH POUTING FACE≊ person pouting",
+    "converted": "\\ud83d\\ude4e"
+  },
+  {
+    "unicode": "U+1F645",
+    "name": "FACE WITH NO GOOD GESTURE≊ gesturing no",
+    "converted": "\\ud83d\\ude45"
+  },
+  {
+    "unicode": "U+1F646",
+    "name": "FACE WITH OK GESTURE≊ gesturing ok",
+    "converted": "\\ud83d\\ude46"
+  },
+  {
+    "unicode": "U+1F481",
+    "name": "INFORMATION DESK PERSON",
+    "converted": "\\ud83d\\udc81"
+  },
+  {
+    "unicode": "U+1F64B",
+    "name": "HAPPY PERSON RAISING ONE HAND≊ happy person raising hand",
+    "converted": "\\ud83d\\ude4b"
+  },
+  {
+    "unicode": "U+1F647",
+    "name": "PERSON BOWING DEEPLY≊ person bowing",
+    "converted": "\\ud83d\\ude47"
+  },
+  {
+    "unicode": "U+1F64C",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION≊ person raising hands",
+    "converted": "\\ud83d\\ude4c"
+  },
+  {
+    "unicode": "U+1F64F",
+    "name": "PERSON WITH FOLDED HANDS≊ folded hands",
+    "converted": "\\ud83d\\ude4f"
+  },
+  {
+    "unicode": "U+1F5E3",
+    "name": "SPEAKING HEAD IN SILHOUETTE≊ speaking head",
+    "converted": "\\ud83d\\udde3"
+  },
+  {
+    "unicode": "U+1F464",
+    "name": "BUST IN SILHOUETTE",
+    "converted": "\\ud83d\\udc64"
+  },
+  {
+    "unicode": "U+1F465",
+    "name": "BUSTS IN SILHOUETTE",
+    "converted": "\\ud83d\\udc65"
+  },
+  {
+    "unicode": "U+1F6B6",
+    "name": "PEDESTRIAN",
+    "converted": "\\ud83d\\udeb6"
+  },
+  {
+    "unicode": "U+1F3C3",
+    "name": "RUNNER",
+    "converted": "\\ud83c\\udfc3"
+  },
+  {
+    "unicode": "U+1F46F",
+    "name": "WOMAN WITH BUNNY EARS≊ women partying",
+    "converted": "\\ud83d\\udc6f"
+  },
+  {
+    "unicode": "U+1F483",
+    "name": "DANCER",
+    "converted": "\\ud83d\\udc83"
+  },
+  {
+    "unicode": "U+1F574",
+    "name": "MAN IN BUSINESS SUIT LEVITATING",
+    "converted": "\\ud83d\\udd74"
+  },
+  {
+    "unicode": "U+1F46B",
+    "name": "MAN AND WOMAN HOLDING HANDS",
+    "converted": "\\ud83d\\udc6b"
+  },
+  {
+    "unicode": "U+1F46C",
+    "name": "TWO MEN HOLDING HANDS",
+    "converted": "\\ud83d\\udc6c"
+  },
+  {
+    "unicode": "U+1F46D",
+    "name": "TWO WOMEN HOLDING HANDS",
+    "converted": "\\ud83d\\udc6d"
+  },
+  {
+    "unicode": "U+1F48F",
+    "name": "KISS",
+    "converted": "\\ud83d\\udc8f"
+  },
+  {
+    "unicode": "U+1F491",
+    "name": "COUPLE WITH HEART",
+    "converted": "\\ud83d\\udc91"
+  },
+  {
+    "unicode": "U+1F46A",
+    "name": "FAMILY",
+    "converted": "\\ud83d\\udc6a"
+  },
+  {
+    "unicode": "U+1F3FB",
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2≊ skin type-1-2",
+    "converted": "\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F3FC",
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-3≊ skin type-3",
+    "converted": "\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F3FD",
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-4≊ skin type-4",
+    "converted": "\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F3FE",
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-5≊ skin type-5",
+    "converted": "\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F3FF",
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-6≊ skin type-6",
+    "converted": "\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F4AA",
+    "name": "FLEXED BICEPS",
+    "converted": "\\ud83d\\udcaa"
+  },
+  {
+    "unicode": "U+1F448",
+    "name": "WHITE LEFT POINTING BACKHAND INDEX≊ backhand index pointing left",
+    "converted": "\\ud83d\\udc48"
+  },
+  {
+    "unicode": "U+1F449",
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX≊ backhand index pointing right",
+    "converted": "\\ud83d\\udc49"
+  },
+  {
+    "unicode": "U+1F446",
+    "name": "WHITE UP POINTING BACKHAND INDEX≊ backhand index pointing up",
+    "converted": "\\ud83d\\udc46"
+  },
+  {
+    "unicode": "U+1F595",
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED≊ middle finger",
+    "converted": "\\ud83d\\udd95"
+  },
+  {
+    "unicode": "U+1F447",
+    "name": "WHITE DOWN POINTING BACKHAND INDEX≊ backhand index pointing down",
+    "converted": "\\ud83d\\udc47"
+  },
+  {
+    "unicode": "U+1F596",
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS≊ vulcan salute",
+    "converted": "\\ud83d\\udd96"
+  },
+  {
+    "unicode": "U+1F918",
+    "name": "SIGN OF THE HORNS",
+    "converted": "\\ud83e\\udd18"
+  },
+  {
+    "unicode": "U+1F590",
+    "name": "RAISED HAND WITH FINGERS SPLAYED",
+    "converted": "\\ud83d\\udd90"
+  },
+  {
+    "unicode": "U+1F44C",
+    "name": "OK HAND SIGN≊ ok hand",
+    "converted": "\\ud83d\\udc4c"
+  },
+  {
+    "unicode": "U+1F44D",
+    "name": "THUMBS UP SIGN≊ thumbs up",
+    "converted": "\\ud83d\\udc4d"
+  },
+  {
+    "unicode": "U+1F44E",
+    "name": "THUMBS DOWN SIGN≊ thumbs down",
+    "converted": "\\ud83d\\udc4e"
+  },
+  {
+    "unicode": "U+1F44A",
+    "name": "FISTED HAND SIGN≊ oncoming fist",
+    "converted": "\\ud83d\\udc4a"
+  },
+  {
+    "unicode": "U+1F44B",
+    "name": "WAVING HAND SIGN≊ waving hand",
+    "converted": "\\ud83d\\udc4b"
+  },
+  {
+    "unicode": "U+1F44F",
+    "name": "CLAPPING HANDS SIGN≊ clapping hands",
+    "converted": "\\ud83d\\udc4f"
+  },
+  {
+    "unicode": "U+1F450",
+    "name": "OPEN HANDS SIGN≊ open hands",
+    "converted": "\\ud83d\\udc50"
+  },
+  {
+    "unicode": "U+1F485",
+    "name": "NAIL POLISH",
+    "converted": "\\ud83d\\udc85"
+  },
+  {
+    "unicode": "U+1F442",
+    "name": "EAR",
+    "converted": "\\ud83d\\udc42"
+  },
+  {
+    "unicode": "U+1F443",
+    "name": "NOSE",
+    "converted": "\\ud83d\\udc43"
+  },
+  {
+    "unicode": "U+1F463",
+    "name": "FOOTPRINTS",
+    "converted": "\\ud83d\\udc63"
+  },
+  {
+    "unicode": "U+1F440",
+    "name": "EYES",
+    "converted": "\\ud83d\\udc40"
+  },
+  {
+    "unicode": "U+1F441",
+    "name": "EYE",
+    "converted": "\\ud83d\\udc41"
+  },
+  {
+    "unicode": "U+1F445",
+    "name": "TONGUE",
+    "converted": "\\ud83d\\udc45"
+  },
+  {
+    "unicode": "U+1F444",
+    "name": "MOUTH",
+    "converted": "\\ud83d\\udc44"
+  },
+  {
+    "unicode": "U+1F48B",
+    "name": "KISS MARK",
+    "converted": "\\ud83d\\udc8b"
+  },
+  {
+    "unicode": "U+1F498",
+    "name": "HEART WITH ARROW",
+    "converted": "\\ud83d\\udc98"
+  },
+  {
+    "unicode": "U+1F493",
+    "name": "BEATING HEART",
+    "converted": "\\ud83d\\udc93"
+  },
+  {
+    "unicode": "U+1F494",
+    "name": "BROKEN HEART",
+    "converted": "\\ud83d\\udc94"
+  },
+  {
+    "unicode": "U+1F495",
+    "name": "TWO HEARTS",
+    "converted": "\\ud83d\\udc95"
+  },
+  {
+    "unicode": "U+1F496",
+    "name": "SPARKLING HEART",
+    "converted": "\\ud83d\\udc96"
+  },
+  {
+    "unicode": "U+1F497",
+    "name": "GROWING HEART",
+    "converted": "\\ud83d\\udc97"
+  },
+  {
+    "unicode": "U+1F499",
+    "name": "BLUE HEART",
+    "converted": "\\ud83d\\udc99"
+  },
+  {
+    "unicode": "U+1F49A",
+    "name": "GREEN HEART",
+    "converted": "\\ud83d\\udc9a"
+  },
+  {
+    "unicode": "U+1F49B",
+    "name": "YELLOW HEART",
+    "converted": "\\ud83d\\udc9b"
+  },
+  {
+    "unicode": "U+1F49C",
+    "name": "PURPLE HEART",
+    "converted": "\\ud83d\\udc9c"
+  },
+  {
+    "unicode": "U+1F49D",
+    "name": "HEART WITH RIBBON",
+    "converted": "\\ud83d\\udc9d"
+  },
+  {
+    "unicode": "U+1F49E",
+    "name": "REVOLVING HEARTS",
+    "converted": "\\ud83d\\udc9e"
+  },
+  {
+    "unicode": "U+1F49F",
+    "name": "HEART DECORATION",
+    "converted": "\\ud83d\\udc9f"
+  },
+  {
+    "unicode": "U+1F48C",
+    "name": "LOVE LETTER",
+    "converted": "\\ud83d\\udc8c"
+  },
+  {
+    "unicode": "U+1F4A4",
+    "name": "SLEEPING SYMBOL≊ zzz",
+    "converted": "\\ud83d\\udca4"
+  },
+  {
+    "unicode": "U+1F4A2",
+    "name": "ANGER SYMBOL",
+    "converted": "\\ud83d\\udca2"
+  },
+  {
+    "unicode": "U+1F4A3",
+    "name": "BOMB",
+    "converted": "\\ud83d\\udca3"
+  },
+  {
+    "unicode": "U+1F4A5",
+    "name": "COLLISION SYMBOL≊ collision",
+    "converted": "\\ud83d\\udca5"
+  },
+  {
+    "unicode": "U+1F4A6",
+    "name": "SPLASHING SWEAT SYMBOL≊ sweat droplets",
+    "converted": "\\ud83d\\udca6"
+  },
+  {
+    "unicode": "U+1F4A8",
+    "name": "DASH SYMBOL≊ dashing",
+    "converted": "\\ud83d\\udca8"
+  },
+  {
+    "unicode": "U+1F4AB",
+    "name": "DIZZY SYMBOL≊ dizzy",
+    "converted": "\\ud83d\\udcab"
+  },
+  {
+    "unicode": "U+1F4AC",
+    "name": "SPEECH BALLOON",
+    "converted": "\\ud83d\\udcac"
+  },
+  {
+    "unicode": "U+1F5E8",
+    "name": "LEFT SPEECH BUBBLE",
+    "converted": "\\ud83d\\udde8"
+  },
+  {
+    "unicode": "U+1F5EF",
+    "name": "RIGHT ANGER BUBBLE",
+    "converted": "\\ud83d\\uddef"
+  },
+  {
+    "unicode": "U+1F4AD",
+    "name": "THOUGHT BALLOON",
+    "converted": "\\ud83d\\udcad"
+  },
+  {
+    "unicode": "U+1F573",
+    "name": "HOLE",
+    "converted": "\\ud83d\\udd73"
+  },
+  {
+    "unicode": "U+1F453",
+    "name": "EYEGLASSES≊ glasses",
+    "converted": "\\ud83d\\udc53"
+  },
+  {
+    "unicode": "U+1F576",
+    "name": "DARK SUNGLASSES≊ sunglasses",
+    "converted": "\\ud83d\\udd76"
+  },
+  {
+    "unicode": "U+1F454",
+    "name": "NECKTIE",
+    "converted": "\\ud83d\\udc54"
+  },
+  {
+    "unicode": "U+1F455",
+    "name": "T-SHIRT",
+    "converted": "\\ud83d\\udc55"
+  },
+  {
+    "unicode": "U+1F456",
+    "name": "JEANS",
+    "converted": "\\ud83d\\udc56"
+  },
+  {
+    "unicode": "U+1F457",
+    "name": "DRESS",
+    "converted": "\\ud83d\\udc57"
+  },
+  {
+    "unicode": "U+1F458",
+    "name": "KIMONO",
+    "converted": "\\ud83d\\udc58"
+  },
+  {
+    "unicode": "U+1F459",
+    "name": "BIKINI",
+    "converted": "\\ud83d\\udc59"
+  },
+  {
+    "unicode": "U+1F45A",
+    "name": "WOMANS CLOTHES≊ woman’s clothes",
+    "converted": "\\ud83d\\udc5a"
+  },
+  {
+    "unicode": "U+1F45B",
+    "name": "PURSE",
+    "converted": "\\ud83d\\udc5b"
+  },
+  {
+    "unicode": "U+1F45C",
+    "name": "HANDBAG",
+    "converted": "\\ud83d\\udc5c"
+  },
+  {
+    "unicode": "U+1F45D",
+    "name": "POUCH",
+    "converted": "\\ud83d\\udc5d"
+  },
+  {
+    "unicode": "U+1F6CD",
+    "name": "SHOPPING BAGS",
+    "converted": "\\ud83d\\udecd"
+  },
+  {
+    "unicode": "U+1F392",
+    "name": "SCHOOL SATCHEL≊ school backpack",
+    "converted": "\\ud83c\\udf92"
+  },
+  {
+    "unicode": "U+1F45E",
+    "name": "MANS SHOE≊ man’s shoe",
+    "converted": "\\ud83d\\udc5e"
+  },
+  {
+    "unicode": "U+1F45F",
+    "name": "ATHLETIC SHOE≊ running shoe",
+    "converted": "\\ud83d\\udc5f"
+  },
+  {
+    "unicode": "U+1F460",
+    "name": "HIGH-HEELED SHOE",
+    "converted": "\\ud83d\\udc60"
+  },
+  {
+    "unicode": "U+1F461",
+    "name": "WOMANS SANDAL≊ woman’s sandal",
+    "converted": "\\ud83d\\udc61"
+  },
+  {
+    "unicode": "U+1F462",
+    "name": "WOMANS BOOTS≊ woman’s boot",
+    "converted": "\\ud83d\\udc62"
+  },
+  {
+    "unicode": "U+1F451",
+    "name": "CROWN",
+    "converted": "\\ud83d\\udc51"
+  },
+  {
+    "unicode": "U+1F452",
+    "name": "WOMANS HAT≊ woman’s hat",
+    "converted": "\\ud83d\\udc52"
+  },
+  {
+    "unicode": "U+1F3A9",
+    "name": "TOP HAT",
+    "converted": "\\ud83c\\udfa9"
+  },
+  {
+    "unicode": "U+1F393",
+    "name": "GRADUATION CAP",
+    "converted": "\\ud83c\\udf93"
+  },
+  {
+    "unicode": "U+1F4FF",
+    "name": "PRAYER BEADS",
+    "converted": "\\ud83d\\udcff"
+  },
+  {
+    "unicode": "U+1F484",
+    "name": "LIPSTICK",
+    "converted": "\\ud83d\\udc84"
+  },
+  {
+    "unicode": "U+1F48D",
+    "name": "RING",
+    "converted": "\\ud83d\\udc8d"
+  },
+  {
+    "unicode": "U+1F48E",
+    "name": "GEM STONE",
+    "converted": "\\ud83d\\udc8e"
+  },
+  {
+    "unicode": "U+1F435",
+    "name": "MONKEY FACE",
+    "converted": "\\ud83d\\udc35"
+  },
+  {
+    "unicode": "U+1F412",
+    "name": "MONKEY",
+    "converted": "\\ud83d\\udc12"
+  },
+  {
+    "unicode": "U+1F436",
+    "name": "DOG FACE",
+    "converted": "\\ud83d\\udc36"
+  },
+  {
+    "unicode": "U+1F415",
+    "name": "DOG",
+    "converted": "\\ud83d\\udc15"
+  },
+  {
+    "unicode": "U+1F429",
+    "name": "POODLE",
+    "converted": "\\ud83d\\udc29"
+  },
+  {
+    "unicode": "U+1F43A",
+    "name": "WOLF FACE",
+    "converted": "\\ud83d\\udc3a"
+  },
+  {
+    "unicode": "U+1F431",
+    "name": "CAT FACE",
+    "converted": "\\ud83d\\udc31"
+  },
+  {
+    "unicode": "U+1F408",
+    "name": "CAT",
+    "converted": "\\ud83d\\udc08"
+  },
+  {
+    "unicode": "U+1F981",
+    "name": "LION FACE",
+    "converted": "\\ud83e\\udd81"
+  },
+  {
+    "unicode": "U+1F42F",
+    "name": "TIGER FACE",
+    "converted": "\\ud83d\\udc2f"
+  },
+  {
+    "unicode": "U+1F405",
+    "name": "TIGER",
+    "converted": "\\ud83d\\udc05"
+  },
+  {
+    "unicode": "U+1F406",
+    "name": "LEOPARD",
+    "converted": "\\ud83d\\udc06"
+  },
+  {
+    "unicode": "U+1F434",
+    "name": "HORSE FACE",
+    "converted": "\\ud83d\\udc34"
+  },
+  {
+    "unicode": "U+1F40E",
+    "name": "HORSE",
+    "converted": "\\ud83d\\udc0e"
+  },
+  {
+    "unicode": "U+1F984",
+    "name": "UNICORN FACE",
+    "converted": "\\ud83e\\udd84"
+  },
+  {
+    "unicode": "U+1F42E",
+    "name": "COW FACE",
+    "converted": "\\ud83d\\udc2e"
+  },
+  {
+    "unicode": "U+1F402",
+    "name": "OX",
+    "converted": "\\ud83d\\udc02"
+  },
+  {
+    "unicode": "U+1F403",
+    "name": "WATER BUFFALO",
+    "converted": "\\ud83d\\udc03"
+  },
+  {
+    "unicode": "U+1F404",
+    "name": "COW",
+    "converted": "\\ud83d\\udc04"
+  },
+  {
+    "unicode": "U+1F437",
+    "name": "PIG FACE",
+    "converted": "\\ud83d\\udc37"
+  },
+  {
+    "unicode": "U+1F416",
+    "name": "PIG",
+    "converted": "\\ud83d\\udc16"
+  },
+  {
+    "unicode": "U+1F417",
+    "name": "BOAR",
+    "converted": "\\ud83d\\udc17"
+  },
+  {
+    "unicode": "U+1F43D",
+    "name": "PIG NOSE",
+    "converted": "\\ud83d\\udc3d"
+  },
+  {
+    "unicode": "U+1F40F",
+    "name": "RAM",
+    "converted": "\\ud83d\\udc0f"
+  },
+  {
+    "unicode": "U+1F411",
+    "name": "SHEEP",
+    "converted": "\\ud83d\\udc11"
+  },
+  {
+    "unicode": "U+1F410",
+    "name": "GOAT",
+    "converted": "\\ud83d\\udc10"
+  },
+  {
+    "unicode": "U+1F42A",
+    "name": "DROMEDARY CAMEL≊ camel",
+    "converted": "\\ud83d\\udc2a"
+  },
+  {
+    "unicode": "U+1F42B",
+    "name": "BACTRIAN CAMEL≊ two-hump camel",
+    "converted": "\\ud83d\\udc2b"
+  },
+  {
+    "unicode": "U+1F418",
+    "name": "ELEPHANT",
+    "converted": "\\ud83d\\udc18"
+  },
+  {
+    "unicode": "U+1F42D",
+    "name": "MOUSE FACE",
+    "converted": "\\ud83d\\udc2d"
+  },
+  {
+    "unicode": "U+1F401",
+    "name": "MOUSE",
+    "converted": "\\ud83d\\udc01"
+  },
+  {
+    "unicode": "U+1F400",
+    "name": "RAT",
+    "converted": "\\ud83d\\udc00"
+  },
+  {
+    "unicode": "U+1F439",
+    "name": "HAMSTER FACE",
+    "converted": "\\ud83d\\udc39"
+  },
+  {
+    "unicode": "U+1F430",
+    "name": "RABBIT FACE",
+    "converted": "\\ud83d\\udc30"
+  },
+  {
+    "unicode": "U+1F407",
+    "name": "RABBIT",
+    "converted": "\\ud83d\\udc07"
+  },
+  {
+    "unicode": "U+1F43F",
+    "name": "CHIPMUNK",
+    "converted": "\\ud83d\\udc3f"
+  },
+  {
+    "unicode": "U+1F43B",
+    "name": "BEAR FACE",
+    "converted": "\\ud83d\\udc3b"
+  },
+  {
+    "unicode": "U+1F428",
+    "name": "KOALA",
+    "converted": "\\ud83d\\udc28"
+  },
+  {
+    "unicode": "U+1F43C",
+    "name": "PANDA FACE",
+    "converted": "\\ud83d\\udc3c"
+  },
+  {
+    "unicode": "U+1F43E",
+    "name": "PAW PRINTS",
+    "converted": "\\ud83d\\udc3e"
+  },
+  {
+    "unicode": "U+1F983",
+    "name": "TURKEY",
+    "converted": "\\ud83e\\udd83"
+  },
+  {
+    "unicode": "U+1F414",
+    "name": "CHICKEN",
+    "converted": "\\ud83d\\udc14"
+  },
+  {
+    "unicode": "U+1F413",
+    "name": "ROOSTER",
+    "converted": "\\ud83d\\udc13"
+  },
+  {
+    "unicode": "U+1F423",
+    "name": "HATCHING CHICK",
+    "converted": "\\ud83d\\udc23"
+  },
+  {
+    "unicode": "U+1F424",
+    "name": "BABY CHICK",
+    "converted": "\\ud83d\\udc24"
+  },
+  {
+    "unicode": "U+1F425",
+    "name": "FRONT-FACING BABY CHICK",
+    "converted": "\\ud83d\\udc25"
+  },
+  {
+    "unicode": "U+1F426",
+    "name": "BIRD",
+    "converted": "\\ud83d\\udc26"
+  },
+  {
+    "unicode": "U+1F427",
+    "name": "PENGUIN",
+    "converted": "\\ud83d\\udc27"
+  },
+  {
+    "unicode": "U+1F54A",
+    "name": "DOVE OF PEACE≊ dove",
+    "converted": "\\ud83d\\udd4a"
+  },
+  {
+    "unicode": "U+1F438",
+    "name": "FROG FACE",
+    "converted": "\\ud83d\\udc38"
+  },
+  {
+    "unicode": "U+1F40A",
+    "name": "CROCODILE",
+    "converted": "\\ud83d\\udc0a"
+  },
+  {
+    "unicode": "U+1F422",
+    "name": "TURTLE",
+    "converted": "\\ud83d\\udc22"
+  },
+  {
+    "unicode": "U+1F40D",
+    "name": "SNAKE",
+    "converted": "\\ud83d\\udc0d"
+  },
+  {
+    "unicode": "U+1F432",
+    "name": "DRAGON FACE",
+    "converted": "\\ud83d\\udc32"
+  },
+  {
+    "unicode": "U+1F409",
+    "name": "DRAGON",
+    "converted": "\\ud83d\\udc09"
+  },
+  {
+    "unicode": "U+1F433",
+    "name": "SPOUTING WHALE",
+    "converted": "\\ud83d\\udc33"
+  },
+  {
+    "unicode": "U+1F40B",
+    "name": "WHALE",
+    "converted": "\\ud83d\\udc0b"
+  },
+  {
+    "unicode": "U+1F42C",
+    "name": "DOLPHIN",
+    "converted": "\\ud83d\\udc2c"
+  },
+  {
+    "unicode": "U+1F41F",
+    "name": "FISH",
+    "converted": "\\ud83d\\udc1f"
+  },
+  {
+    "unicode": "U+1F420",
+    "name": "TROPICAL FISH",
+    "converted": "\\ud83d\\udc20"
+  },
+  {
+    "unicode": "U+1F421",
+    "name": "BLOWFISH",
+    "converted": "\\ud83d\\udc21"
+  },
+  {
+    "unicode": "U+1F419",
+    "name": "OCTOPUS",
+    "converted": "\\ud83d\\udc19"
+  },
+  {
+    "unicode": "U+1F41A",
+    "name": "SPIRAL SHELL",
+    "converted": "\\ud83d\\udc1a"
+  },
+  {
+    "unicode": "U+1F980",
+    "name": "CRAB",
+    "converted": "\\ud83e\\udd80"
+  },
+  {
+    "unicode": "U+1F40C",
+    "name": "SNAIL",
+    "converted": "\\ud83d\\udc0c"
+  },
+  {
+    "unicode": "U+1F41B",
+    "name": "BUG",
+    "converted": "\\ud83d\\udc1b"
+  },
+  {
+    "unicode": "U+1F41C",
+    "name": "ANT",
+    "converted": "\\ud83d\\udc1c"
+  },
+  {
+    "unicode": "U+1F41D",
+    "name": "HONEYBEE",
+    "converted": "\\ud83d\\udc1d"
+  },
+  {
+    "unicode": "U+1F41E",
+    "name": "LADY BEETLE",
+    "converted": "\\ud83d\\udc1e"
+  },
+  {
+    "unicode": "U+1F577",
+    "name": "SPIDER",
+    "converted": "\\ud83d\\udd77"
+  },
+  {
+    "unicode": "U+1F578",
+    "name": "SPIDER WEB",
+    "converted": "\\ud83d\\udd78"
+  },
+  {
+    "unicode": "U+1F982",
+    "name": "SCORPION",
+    "converted": "\\ud83e\\udd82"
+  },
+  {
+    "unicode": "U+1F490",
+    "name": "BOUQUET",
+    "converted": "\\ud83d\\udc90"
+  },
+  {
+    "unicode": "U+1F338",
+    "name": "CHERRY BLOSSOM",
+    "converted": "\\ud83c\\udf38"
+  },
+  {
+    "unicode": "U+1F4AE",
+    "name": "WHITE FLOWER",
+    "converted": "\\ud83d\\udcae"
+  },
+  {
+    "unicode": "U+1F3F5",
+    "name": "ROSETTE",
+    "converted": "\\ud83c\\udff5"
+  },
+  {
+    "unicode": "U+1F339",
+    "name": "ROSE",
+    "converted": "\\ud83c\\udf39"
+  },
+  {
+    "unicode": "U+1F33A",
+    "name": "HIBISCUS",
+    "converted": "\\ud83c\\udf3a"
+  },
+  {
+    "unicode": "U+1F33B",
+    "name": "SUNFLOWER",
+    "converted": "\\ud83c\\udf3b"
+  },
+  {
+    "unicode": "U+1F33C",
+    "name": "BLOSSOM",
+    "converted": "\\ud83c\\udf3c"
+  },
+  {
+    "unicode": "U+1F337",
+    "name": "TULIP",
+    "converted": "\\ud83c\\udf37"
+  },
+  {
+    "unicode": "U+1F331",
+    "name": "SEEDLING",
+    "converted": "\\ud83c\\udf31"
+  },
+  {
+    "unicode": "U+1F332",
+    "name": "EVERGREEN TREE≊ evergreen",
+    "converted": "\\ud83c\\udf32"
+  },
+  {
+    "unicode": "U+1F333",
+    "name": "DECIDUOUS TREE",
+    "converted": "\\ud83c\\udf33"
+  },
+  {
+    "unicode": "U+1F334",
+    "name": "PALM TREE",
+    "converted": "\\ud83c\\udf34"
+  },
+  {
+    "unicode": "U+1F335",
+    "name": "CACTUS",
+    "converted": "\\ud83c\\udf35"
+  },
+  {
+    "unicode": "U+1F33E",
+    "name": "EAR OF RICE≊ sheaf of rice",
+    "converted": "\\ud83c\\udf3e"
+  },
+  {
+    "unicode": "U+1F33F",
+    "name": "HERB",
+    "converted": "\\ud83c\\udf3f"
+  },
+  {
+    "unicode": "U+1F340",
+    "name": "FOUR LEAF CLOVER",
+    "converted": "\\ud83c\\udf40"
+  },
+  {
+    "unicode": "U+1F341",
+    "name": "MAPLE LEAF",
+    "converted": "\\ud83c\\udf41"
+  },
+  {
+    "unicode": "U+1F342",
+    "name": "FALLEN LEAF",
+    "converted": "\\ud83c\\udf42"
+  },
+  {
+    "unicode": "U+1F343",
+    "name": "LEAF FLUTTERING IN WIND",
+    "converted": "\\ud83c\\udf43"
+  },
+  {
+    "unicode": "U+1F347",
+    "name": "GRAPES",
+    "converted": "\\ud83c\\udf47"
+  },
+  {
+    "unicode": "U+1F348",
+    "name": "MELON",
+    "converted": "\\ud83c\\udf48"
+  },
+  {
+    "unicode": "U+1F349",
+    "name": "WATERMELON",
+    "converted": "\\ud83c\\udf49"
+  },
+  {
+    "unicode": "U+1F34A",
+    "name": "TANGERINE",
+    "converted": "\\ud83c\\udf4a"
+  },
+  {
+    "unicode": "U+1F34B",
+    "name": "LEMON",
+    "converted": "\\ud83c\\udf4b"
+  },
+  {
+    "unicode": "U+1F34C",
+    "name": "BANANA",
+    "converted": "\\ud83c\\udf4c"
+  },
+  {
+    "unicode": "U+1F34D",
+    "name": "PINEAPPLE",
+    "converted": "\\ud83c\\udf4d"
+  },
+  {
+    "unicode": "U+1F34E",
+    "name": "RED APPLE",
+    "converted": "\\ud83c\\udf4e"
+  },
+  {
+    "unicode": "U+1F34F",
+    "name": "GREEN APPLE",
+    "converted": "\\ud83c\\udf4f"
+  },
+  {
+    "unicode": "U+1F350",
+    "name": "PEAR",
+    "converted": "\\ud83c\\udf50"
+  },
+  {
+    "unicode": "U+1F351",
+    "name": "PEACH",
+    "converted": "\\ud83c\\udf51"
+  },
+  {
+    "unicode": "U+1F352",
+    "name": "CHERRIES",
+    "converted": "\\ud83c\\udf52"
+  },
+  {
+    "unicode": "U+1F353",
+    "name": "STRAWBERRY",
+    "converted": "\\ud83c\\udf53"
+  },
+  {
+    "unicode": "U+1F345",
+    "name": "TOMATO",
+    "converted": "\\ud83c\\udf45"
+  },
+  {
+    "unicode": "U+1F346",
+    "name": "AUBERGINE≊ eggplant",
+    "converted": "\\ud83c\\udf46"
+  },
+  {
+    "unicode": "U+1F33D",
+    "name": "EAR OF MAIZE≊ ear of corn",
+    "converted": "\\ud83c\\udf3d"
+  },
+  {
+    "unicode": "U+1F336",
+    "name": "HOT PEPPER",
+    "converted": "\\ud83c\\udf36"
+  },
+  {
+    "unicode": "U+1F344",
+    "name": "MUSHROOM",
+    "converted": "\\ud83c\\udf44"
+  },
+  {
+    "unicode": "U+1F330",
+    "name": "CHESTNUT",
+    "converted": "\\ud83c\\udf30"
+  },
+  {
+    "unicode": "U+1F35E",
+    "name": "BREAD",
+    "converted": "\\ud83c\\udf5e"
+  },
+  {
+    "unicode": "U+1F9C0",
+    "name": "CHEESE WEDGE",
+    "converted": "\\ud83e\\uddc0"
+  },
+  {
+    "unicode": "U+1F356",
+    "name": "MEAT ON BONE",
+    "converted": "\\ud83c\\udf56"
+  },
+  {
+    "unicode": "U+1F357",
+    "name": "POULTRY LEG",
+    "converted": "\\ud83c\\udf57"
+  },
+  {
+    "unicode": "U+1F354",
+    "name": "HAMBURGER",
+    "converted": "\\ud83c\\udf54"
+  },
+  {
+    "unicode": "U+1F35F",
+    "name": "FRENCH FRIES",
+    "converted": "\\ud83c\\udf5f"
+  },
+  {
+    "unicode": "U+1F355",
+    "name": "SLICE OF PIZZA≊ pizza",
+    "converted": "\\ud83c\\udf55"
+  },
+  {
+    "unicode": "U+1F32D",
+    "name": "HOT DOG",
+    "converted": "\\ud83c\\udf2d"
+  },
+  {
+    "unicode": "U+1F32E",
+    "name": "TACO",
+    "converted": "\\ud83c\\udf2e"
+  },
+  {
+    "unicode": "U+1F32F",
+    "name": "BURRITO",
+    "converted": "\\ud83c\\udf2f"
+  },
+  {
+    "unicode": "U+1F373",
+    "name": "COOKING",
+    "converted": "\\ud83c\\udf73"
+  },
+  {
+    "unicode": "U+1F372",
+    "name": "POT OF FOOD",
+    "converted": "\\ud83c\\udf72"
+  },
+  {
+    "unicode": "U+1F37F",
+    "name": "POPCORN",
+    "converted": "\\ud83c\\udf7f"
+  },
+  {
+    "unicode": "U+1F371",
+    "name": "BENTO BOX",
+    "converted": "\\ud83c\\udf71"
+  },
+  {
+    "unicode": "U+1F358",
+    "name": "RICE CRACKER",
+    "converted": "\\ud83c\\udf58"
+  },
+  {
+    "unicode": "U+1F359",
+    "name": "RICE BALL",
+    "converted": "\\ud83c\\udf59"
+  },
+  {
+    "unicode": "U+1F35A",
+    "name": "COOKED RICE",
+    "converted": "\\ud83c\\udf5a"
+  },
+  {
+    "unicode": "U+1F35B",
+    "name": "CURRY AND RICE≊ curry rice",
+    "converted": "\\ud83c\\udf5b"
+  },
+  {
+    "unicode": "U+1F35C",
+    "name": "STEAMING BOWL",
+    "converted": "\\ud83c\\udf5c"
+  },
+  {
+    "unicode": "U+1F35D",
+    "name": "SPAGHETTI",
+    "converted": "\\ud83c\\udf5d"
+  },
+  {
+    "unicode": "U+1F360",
+    "name": "ROASTED SWEET POTATO",
+    "converted": "\\ud83c\\udf60"
+  },
+  {
+    "unicode": "U+1F362",
+    "name": "ODEN",
+    "converted": "\\ud83c\\udf62"
+  },
+  {
+    "unicode": "U+1F363",
+    "name": "SUSHI",
+    "converted": "\\ud83c\\udf63"
+  },
+  {
+    "unicode": "U+1F364",
+    "name": "FRIED SHRIMP",
+    "converted": "\\ud83c\\udf64"
+  },
+  {
+    "unicode": "U+1F365",
+    "name": "FISH CAKE WITH SWIRL DESIGN≊ fish cake with swirl",
+    "converted": "\\ud83c\\udf65"
+  },
+  {
+    "unicode": "U+1F361",
+    "name": "DANGO",
+    "converted": "\\ud83c\\udf61"
+  },
+  {
+    "unicode": "U+1F366",
+    "name": "SOFT ICE CREAM",
+    "converted": "\\ud83c\\udf66"
+  },
+  {
+    "unicode": "U+1F367",
+    "name": "SHAVED ICE",
+    "converted": "\\ud83c\\udf67"
+  },
+  {
+    "unicode": "U+1F368",
+    "name": "ICE CREAM",
+    "converted": "\\ud83c\\udf68"
+  },
+  {
+    "unicode": "U+1F369",
+    "name": "DOUGHNUT",
+    "converted": "\\ud83c\\udf69"
+  },
+  {
+    "unicode": "U+1F36A",
+    "name": "COOKIE",
+    "converted": "\\ud83c\\udf6a"
+  },
+  {
+    "unicode": "U+1F382",
+    "name": "BIRTHDAY CAKE",
+    "converted": "\\ud83c\\udf82"
+  },
+  {
+    "unicode": "U+1F370",
+    "name": "SHORTCAKE",
+    "converted": "\\ud83c\\udf70"
+  },
+  {
+    "unicode": "U+1F36B",
+    "name": "CHOCOLATE BAR",
+    "converted": "\\ud83c\\udf6b"
+  },
+  {
+    "unicode": "U+1F36C",
+    "name": "CANDY",
+    "converted": "\\ud83c\\udf6c"
+  },
+  {
+    "unicode": "U+1F36D",
+    "name": "LOLLIPOP",
+    "converted": "\\ud83c\\udf6d"
+  },
+  {
+    "unicode": "U+1F36E",
+    "name": "CUSTARD",
+    "converted": "\\ud83c\\udf6e"
+  },
+  {
+    "unicode": "U+1F36F",
+    "name": "HONEY POT",
+    "converted": "\\ud83c\\udf6f"
+  },
+  {
+    "unicode": "U+1F37C",
+    "name": "BABY BOTTLE",
+    "converted": "\\ud83c\\udf7c"
+  },
+  {
+    "unicode": "U+1F375",
+    "name": "TEACUP WITHOUT HANDLE",
+    "converted": "\\ud83c\\udf75"
+  },
+  {
+    "unicode": "U+1F376",
+    "name": "SAKE BOTTLE AND CUP≊ sake",
+    "converted": "\\ud83c\\udf76"
+  },
+  {
+    "unicode": "U+1F37E",
+    "name": "BOTTLE WITH POPPING CORK",
+    "converted": "\\ud83c\\udf7e"
+  },
+  {
+    "unicode": "U+1F377",
+    "name": "WINE GLASS",
+    "converted": "\\ud83c\\udf77"
+  },
+  {
+    "unicode": "U+1F378",
+    "name": "COCKTAIL GLASS",
+    "converted": "\\ud83c\\udf78"
+  },
+  {
+    "unicode": "U+1F379",
+    "name": "TROPICAL DRINK",
+    "converted": "\\ud83c\\udf79"
+  },
+  {
+    "unicode": "U+1F37A",
+    "name": "BEER MUG",
+    "converted": "\\ud83c\\udf7a"
+  },
+  {
+    "unicode": "U+1F37B",
+    "name": "CLINKING BEER MUGS",
+    "converted": "\\ud83c\\udf7b"
+  },
+  {
+    "unicode": "U+1F37D",
+    "name": "FORK AND KNIFE WITH PLATE",
+    "converted": "\\ud83c\\udf7d"
+  },
+  {
+    "unicode": "U+1F374",
+    "name": "FORK AND KNIFE",
+    "converted": "\\ud83c\\udf74"
+  },
+  {
+    "unicode": "U+1F52A",
+    "name": "HOCHO≊ kitchen knife",
+    "converted": "\\ud83d\\udd2a"
+  },
+  {
+    "unicode": "U+1F3FA",
+    "name": "AMPHORA",
+    "converted": "\\ud83c\\udffa"
+  },
+  {
+    "unicode": "U+1F30D",
+    "name": "EARTH GLOBE EUROPE-AFRICA≊ globe showing europe-africa",
+    "converted": "\\ud83c\\udf0d"
+  },
+  {
+    "unicode": "U+1F30E",
+    "name": "EARTH GLOBE AMERICAS≊ globe showing americas",
+    "converted": "\\ud83c\\udf0e"
+  },
+  {
+    "unicode": "U+1F30F",
+    "name": "EARTH GLOBE ASIA-AUSTRALIA≊ globe showing asia-australia",
+    "converted": "\\ud83c\\udf0f"
+  },
+  {
+    "unicode": "U+1F310",
+    "name": "GLOBE WITH MERIDIANS",
+    "converted": "\\ud83c\\udf10"
+  },
+  {
+    "unicode": "U+1F5FA",
+    "name": "WORLD MAP",
+    "converted": "\\ud83d\\uddfa"
+  },
+  {
+    "unicode": "U+1F5FE",
+    "name": "SILHOUETTE OF JAPAN≊ map of japan",
+    "converted": "\\ud83d\\uddfe"
+  },
+  {
+    "unicode": "U+1F3D4",
+    "name": "SNOW CAPPED MOUNTAIN≊ snow-capped mountain",
+    "converted": "\\ud83c\\udfd4"
+  },
+  {
+    "unicode": "U+1F30B",
+    "name": "VOLCANO",
+    "converted": "\\ud83c\\udf0b"
+  },
+  {
+    "unicode": "U+1F5FB",
+    "name": "MOUNT FUJI",
+    "converted": "\\ud83d\\uddfb"
+  },
+  {
+    "unicode": "U+1F3D5",
+    "name": "CAMPING",
+    "converted": "\\ud83c\\udfd5"
+  },
+  {
+    "unicode": "U+1F3D6",
+    "name": "BEACH WITH UMBRELLA",
+    "converted": "\\ud83c\\udfd6"
+  },
+  {
+    "unicode": "U+1F3DC",
+    "name": "DESERT",
+    "converted": "\\ud83c\\udfdc"
+  },
+  {
+    "unicode": "U+1F3DD",
+    "name": "DESERT ISLAND",
+    "converted": "\\ud83c\\udfdd"
+  },
+  {
+    "unicode": "U+1F3DE",
+    "name": "NATIONAL PARK",
+    "converted": "\\ud83c\\udfde"
+  },
+  {
+    "unicode": "U+1F3DF",
+    "name": "STADIUM",
+    "converted": "\\ud83c\\udfdf"
+  },
+  {
+    "unicode": "U+1F3DB",
+    "name": "CLASSICAL BUILDING",
+    "converted": "\\ud83c\\udfdb"
+  },
+  {
+    "unicode": "U+1F3D7",
+    "name": "BUILDING CONSTRUCTION",
+    "converted": "\\ud83c\\udfd7"
+  },
+  {
+    "unicode": "U+1F3D8",
+    "name": "HOUSE BUILDINGS",
+    "converted": "\\ud83c\\udfd8"
+  },
+  {
+    "unicode": "U+1F3D9",
+    "name": "CITYSCAPE",
+    "converted": "\\ud83c\\udfd9"
+  },
+  {
+    "unicode": "U+1F3DA",
+    "name": "DERELICT HOUSE BUILDING",
+    "converted": "\\ud83c\\udfda"
+  },
+  {
+    "unicode": "U+1F3E0",
+    "name": "HOUSE BUILDING",
+    "converted": "\\ud83c\\udfe0"
+  },
+  {
+    "unicode": "U+1F3E1",
+    "name": "HOUSE WITH GARDEN",
+    "converted": "\\ud83c\\udfe1"
+  },
+  {
+    "unicode": "U+1F3E2",
+    "name": "OFFICE BUILDING",
+    "converted": "\\ud83c\\udfe2"
+  },
+  {
+    "unicode": "U+1F3E3",
+    "name": "JAPANESE POST OFFICE",
+    "converted": "\\ud83c\\udfe3"
+  },
+  {
+    "unicode": "U+1F3E4",
+    "name": "EUROPEAN POST OFFICE≊ post office",
+    "converted": "\\ud83c\\udfe4"
+  },
+  {
+    "unicode": "U+1F3E5",
+    "name": "HOSPITAL",
+    "converted": "\\ud83c\\udfe5"
+  },
+  {
+    "unicode": "U+1F3E6",
+    "name": "BANK",
+    "converted": "\\ud83c\\udfe6"
+  },
+  {
+    "unicode": "U+1F3E8",
+    "name": "HOTEL",
+    "converted": "\\ud83c\\udfe8"
+  },
+  {
+    "unicode": "U+1F3E9",
+    "name": "LOVE HOTEL",
+    "converted": "\\ud83c\\udfe9"
+  },
+  {
+    "unicode": "U+1F3EA",
+    "name": "CONVENIENCE STORE",
+    "converted": "\\ud83c\\udfea"
+  },
+  {
+    "unicode": "U+1F3EB",
+    "name": "SCHOOL",
+    "converted": "\\ud83c\\udfeb"
+  },
+  {
+    "unicode": "U+1F3EC",
+    "name": "DEPARTMENT STORE",
+    "converted": "\\ud83c\\udfec"
+  },
+  {
+    "unicode": "U+1F3ED",
+    "name": "FACTORY",
+    "converted": "\\ud83c\\udfed"
+  },
+  {
+    "unicode": "U+1F3EF",
+    "name": "JAPANESE CASTLE",
+    "converted": "\\ud83c\\udfef"
+  },
+  {
+    "unicode": "U+1F3F0",
+    "name": "EUROPEAN CASTLE≊ castle",
+    "converted": "\\ud83c\\udff0"
+  },
+  {
+    "unicode": "U+1F492",
+    "name": "WEDDING",
+    "converted": "\\ud83d\\udc92"
+  },
+  {
+    "unicode": "U+1F5FC",
+    "name": "TOKYO TOWER",
+    "converted": "\\ud83d\\uddfc"
+  },
+  {
+    "unicode": "U+1F5FD",
+    "name": "STATUE OF LIBERTY",
+    "converted": "\\ud83d\\uddfd"
+  },
+  {
+    "unicode": "U+1F54C",
+    "name": "MOSQUE",
+    "converted": "\\ud83d\\udd4c"
+  },
+  {
+    "unicode": "U+1F54D",
+    "name": "SYNAGOGUE",
+    "converted": "\\ud83d\\udd4d"
+  },
+  {
+    "unicode": "U+1F54B",
+    "name": "KAABA",
+    "converted": "\\ud83d\\udd4b"
+  },
+  {
+    "unicode": "U+1F301",
+    "name": "FOGGY",
+    "converted": "\\ud83c\\udf01"
+  },
+  {
+    "unicode": "U+1F303",
+    "name": "NIGHT WITH STARS",
+    "converted": "\\ud83c\\udf03"
+  },
+  {
+    "unicode": "U+1F304",
+    "name": "SUNRISE OVER MOUNTAINS",
+    "converted": "\\ud83c\\udf04"
+  },
+  {
+    "unicode": "U+1F305",
+    "name": "SUNRISE",
+    "converted": "\\ud83c\\udf05"
+  },
+  {
+    "unicode": "U+1F306",
+    "name": "CITYSCAPE AT DUSK",
+    "converted": "\\ud83c\\udf06"
+  },
+  {
+    "unicode": "U+1F307",
+    "name": "SUNSET OVER BUILDINGS≊ sunset",
+    "converted": "\\ud83c\\udf07"
+  },
+  {
+    "unicode": "U+1F309",
+    "name": "BRIDGE AT NIGHT",
+    "converted": "\\ud83c\\udf09"
+  },
+  {
+    "unicode": "U+1F30C",
+    "name": "MILKY WAY",
+    "converted": "\\ud83c\\udf0c"
+  },
+  {
+    "unicode": "U+1F3A0",
+    "name": "CAROUSEL HORSE",
+    "converted": "\\ud83c\\udfa0"
+  },
+  {
+    "unicode": "U+1F3A1",
+    "name": "FERRIS WHEEL",
+    "converted": "\\ud83c\\udfa1"
+  },
+  {
+    "unicode": "U+1F3A2",
+    "name": "ROLLER COASTER",
+    "converted": "\\ud83c\\udfa2"
+  },
+  {
+    "unicode": "U+1F488",
+    "name": "BARBER POLE",
+    "converted": "\\ud83d\\udc88"
+  },
+  {
+    "unicode": "U+1F3AA",
+    "name": "CIRCUS TENT",
+    "converted": "\\ud83c\\udfaa"
+  },
+  {
+    "unicode": "U+1F3AD",
+    "name": "PERFORMING ARTS",
+    "converted": "\\ud83c\\udfad"
+  },
+  {
+    "unicode": "U+1F5BC",
+    "name": "FRAME WITH PICTURE",
+    "converted": "\\ud83d\\uddbc"
+  },
+  {
+    "unicode": "U+1F3A8",
+    "name": "ARTIST PALETTE",
+    "converted": "\\ud83c\\udfa8"
+  },
+  {
+    "unicode": "U+1F3B0",
+    "name": "SLOT MACHINE",
+    "converted": "\\ud83c\\udfb0"
+  },
+  {
+    "unicode": "U+1F682",
+    "name": "STEAM LOCOMOTIVE≊ locomotive",
+    "converted": "\\ud83d\\ude82"
+  },
+  {
+    "unicode": "U+1F683",
+    "name": "RAILWAY CAR",
+    "converted": "\\ud83d\\ude83"
+  },
+  {
+    "unicode": "U+1F684",
+    "name": "HIGH-SPEED TRAIN",
+    "converted": "\\ud83d\\ude84"
+  },
+  {
+    "unicode": "U+1F685",
+    "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
+    "converted": "\\ud83d\\ude85"
+  },
+  {
+    "unicode": "U+1F686",
+    "name": "TRAIN",
+    "converted": "\\ud83d\\ude86"
+  },
+  {
+    "unicode": "U+1F687",
+    "name": "METRO",
+    "converted": "\\ud83d\\ude87"
+  },
+  {
+    "unicode": "U+1F688",
+    "name": "LIGHT RAIL",
+    "converted": "\\ud83d\\ude88"
+  },
+  {
+    "unicode": "U+1F689",
+    "name": "STATION",
+    "converted": "\\ud83d\\ude89"
+  },
+  {
+    "unicode": "U+1F68A",
+    "name": "TRAM",
+    "converted": "\\ud83d\\ude8a"
+  },
+  {
+    "unicode": "U+1F69D",
+    "name": "MONORAIL",
+    "converted": "\\ud83d\\ude9d"
+  },
+  {
+    "unicode": "U+1F69E",
+    "name": "MOUNTAIN RAILWAY",
+    "converted": "\\ud83d\\ude9e"
+  },
+  {
+    "unicode": "U+1F68B",
+    "name": "TRAM CAR",
+    "converted": "\\ud83d\\ude8b"
+  },
+  {
+    "unicode": "U+1F68C",
+    "name": "BUS",
+    "converted": "\\ud83d\\ude8c"
+  },
+  {
+    "unicode": "U+1F68D",
+    "name": "ONCOMING BUS",
+    "converted": "\\ud83d\\ude8d"
+  },
+  {
+    "unicode": "U+1F68E",
+    "name": "TROLLEYBUS",
+    "converted": "\\ud83d\\ude8e"
+  },
+  {
+    "unicode": "U+1F68F",
+    "name": "BUS STOP",
+    "converted": "\\ud83d\\ude8f"
+  },
+  {
+    "unicode": "U+1F690",
+    "name": "MINIBUS",
+    "converted": "\\ud83d\\ude90"
+  },
+  {
+    "unicode": "U+1F691",
+    "name": "AMBULANCE",
+    "converted": "\\ud83d\\ude91"
+  },
+  {
+    "unicode": "U+1F692",
+    "name": "FIRE ENGINE",
+    "converted": "\\ud83d\\ude92"
+  },
+  {
+    "unicode": "U+1F693",
+    "name": "POLICE CAR",
+    "converted": "\\ud83d\\ude93"
+  },
+  {
+    "unicode": "U+1F694",
+    "name": "ONCOMING POLICE CAR",
+    "converted": "\\ud83d\\ude94"
+  },
+  {
+    "unicode": "U+1F695",
+    "name": "TAXI",
+    "converted": "\\ud83d\\ude95"
+  },
+  {
+    "unicode": "U+1F696",
+    "name": "ONCOMING TAXI",
+    "converted": "\\ud83d\\ude96"
+  },
+  {
+    "unicode": "U+1F697",
+    "name": "AUTOMOBILE",
+    "converted": "\\ud83d\\ude97"
+  },
+  {
+    "unicode": "U+1F698",
+    "name": "ONCOMING AUTOMOBILE",
+    "converted": "\\ud83d\\ude98"
+  },
+  {
+    "unicode": "U+1F699",
+    "name": "RECREATIONAL VEHICLE",
+    "converted": "\\ud83d\\ude99"
+  },
+  {
+    "unicode": "U+1F69A",
+    "name": "DELIVERY TRUCK",
+    "converted": "\\ud83d\\ude9a"
+  },
+  {
+    "unicode": "U+1F69B",
+    "name": "ARTICULATED LORRY",
+    "converted": "\\ud83d\\ude9b"
+  },
+  {
+    "unicode": "U+1F69C",
+    "name": "TRACTOR",
+    "converted": "\\ud83d\\ude9c"
+  },
+  {
+    "unicode": "U+1F6B2",
+    "name": "BICYCLE",
+    "converted": "\\ud83d\\udeb2"
+  },
+  {
+    "unicode": "U+1F6E3",
+    "name": "MOTORWAY",
+    "converted": "\\ud83d\\udee3"
+  },
+  {
+    "unicode": "U+1F6E4",
+    "name": "RAILWAY TRACK",
+    "converted": "\\ud83d\\udee4"
+  },
+  {
+    "unicode": "U+1F6A8",
+    "name": "POLICE CARS REVOLVING LIGHT≊ police car’s light",
+    "converted": "\\ud83d\\udea8"
+  },
+  {
+    "unicode": "U+1F6A5",
+    "name": "HORIZONTAL TRAFFIC LIGHT",
+    "converted": "\\ud83d\\udea5"
+  },
+  {
+    "unicode": "U+1F6A6",
+    "name": "VERTICAL TRAFFIC LIGHT",
+    "converted": "\\ud83d\\udea6"
+  },
+  {
+    "unicode": "U+1F6A7",
+    "name": "CONSTRUCTION SIGN≊ construction",
+    "converted": "\\ud83d\\udea7"
+  },
+  {
+    "unicode": "U+1F6A3",
+    "name": "ROWBOAT",
+    "converted": "\\ud83d\\udea3"
+  },
+  {
+    "unicode": "U+1F6A4",
+    "name": "SPEEDBOAT",
+    "converted": "\\ud83d\\udea4"
+  },
+  {
+    "unicode": "U+1F6F3",
+    "name": "PASSENGER SHIP",
+    "converted": "\\ud83d\\udef3"
+  },
+  {
+    "unicode": "U+1F6E5",
+    "name": "MOTOR BOAT",
+    "converted": "\\ud83d\\udee5"
+  },
+  {
+    "unicode": "U+1F6A2",
+    "name": "SHIP",
+    "converted": "\\ud83d\\udea2"
+  },
+  {
+    "unicode": "U+1F6E9",
+    "name": "SMALL AIRPLANE",
+    "converted": "\\ud83d\\udee9"
+  },
+  {
+    "unicode": "U+1F6EB",
+    "name": "AIRPLANE DEPARTURE",
+    "converted": "\\ud83d\\udeeb"
+  },
+  {
+    "unicode": "U+1F6EC",
+    "name": "AIRPLANE ARRIVING≊ airplane arrival",
+    "converted": "\\ud83d\\udeec"
+  },
+  {
+    "unicode": "U+1F4BA",
+    "name": "SEAT",
+    "converted": "\\ud83d\\udcba"
+  },
+  {
+    "unicode": "U+1F681",
+    "name": "HELICOPTER",
+    "converted": "\\ud83d\\ude81"
+  },
+  {
+    "unicode": "U+1F69F",
+    "name": "SUSPENSION RAILWAY",
+    "converted": "\\ud83d\\ude9f"
+  },
+  {
+    "unicode": "U+1F6A0",
+    "name": "MOUNTAIN CABLEWAY",
+    "converted": "\\ud83d\\udea0"
+  },
+  {
+    "unicode": "U+1F6A1",
+    "name": "AERIAL TRAMWAY",
+    "converted": "\\ud83d\\udea1"
+  },
+  {
+    "unicode": "U+1F680",
+    "name": "ROCKET",
+    "converted": "\\ud83d\\ude80"
+  },
+  {
+    "unicode": "U+1F6F0",
+    "name": "SATELLITE",
+    "converted": "\\ud83d\\udef0"
+  },
+  {
+    "unicode": "U+1F6CE",
+    "name": "BELLHOP BELL",
+    "converted": "\\ud83d\\udece"
+  },
+  {
+    "unicode": "U+1F6AA",
+    "name": "DOOR",
+    "converted": "\\ud83d\\udeaa"
+  },
+  {
+    "unicode": "U+1F6CC",
+    "name": "SLEEPING ACCOMMODATION≊ person in bed",
+    "converted": "\\ud83d\\udecc"
+  },
+  {
+    "unicode": "U+1F6CF",
+    "name": "BED",
+    "converted": "\\ud83d\\udecf"
+  },
+  {
+    "unicode": "U+1F6CB",
+    "name": "COUCH AND LAMP",
+    "converted": "\\ud83d\\udecb"
+  },
+  {
+    "unicode": "U+1F6BD",
+    "name": "TOILET",
+    "converted": "\\ud83d\\udebd"
+  },
+  {
+    "unicode": "U+1F6BF",
+    "name": "SHOWER",
+    "converted": "\\ud83d\\udebf"
+  },
+  {
+    "unicode": "U+1F6C0",
+    "name": "BATH≊ person taking bath",
+    "converted": "\\ud83d\\udec0"
+  },
+  {
+    "unicode": "U+1F6C1",
+    "name": "BATHTUB",
+    "converted": "\\ud83d\\udec1"
+  },
+  {
+    "unicode": "U+1F570",
+    "name": "MANTELPIECE CLOCK",
+    "converted": "\\ud83d\\udd70"
+  },
+  {
+    "unicode": "U+1F55B",
+    "name": "CLOCK FACE TWELVE OCLOCK≊ twelve o’clock",
+    "converted": "\\ud83d\\udd5b"
+  },
+  {
+    "unicode": "U+1F567",
+    "name": "CLOCK FACE TWELVE-THIRTY≊ twelve-thirty",
+    "converted": "\\ud83d\\udd67"
+  },
+  {
+    "unicode": "U+1F550",
+    "name": "CLOCK FACE ONE OCLOCK≊ one o’clock",
+    "converted": "\\ud83d\\udd50"
+  },
+  {
+    "unicode": "U+1F55C",
+    "name": "CLOCK FACE ONE-THIRTY≊ one-thirty",
+    "converted": "\\ud83d\\udd5c"
+  },
+  {
+    "unicode": "U+1F551",
+    "name": "CLOCK FACE TWO OCLOCK≊ two o’clock",
+    "converted": "\\ud83d\\udd51"
+  },
+  {
+    "unicode": "U+1F55D",
+    "name": "CLOCK FACE TWO-THIRTY≊ two-thirty",
+    "converted": "\\ud83d\\udd5d"
+  },
+  {
+    "unicode": "U+1F552",
+    "name": "CLOCK FACE THREE OCLOCK≊ three o’clock",
+    "converted": "\\ud83d\\udd52"
+  },
+  {
+    "unicode": "U+1F55E",
+    "name": "CLOCK FACE THREE-THIRTY≊ three-thirty",
+    "converted": "\\ud83d\\udd5e"
+  },
+  {
+    "unicode": "U+1F553",
+    "name": "CLOCK FACE FOUR OCLOCK≊ four o’clock",
+    "converted": "\\ud83d\\udd53"
+  },
+  {
+    "unicode": "U+1F55F",
+    "name": "CLOCK FACE FOUR-THIRTY≊ four-thirty",
+    "converted": "\\ud83d\\udd5f"
+  },
+  {
+    "unicode": "U+1F554",
+    "name": "CLOCK FACE FIVE OCLOCK≊ five o’clock",
+    "converted": "\\ud83d\\udd54"
+  },
+  {
+    "unicode": "U+1F560",
+    "name": "CLOCK FACE FIVE-THIRTY≊ five-thirty",
+    "converted": "\\ud83d\\udd60"
+  },
+  {
+    "unicode": "U+1F555",
+    "name": "CLOCK FACE SIX OCLOCK≊ six o’clock",
+    "converted": "\\ud83d\\udd55"
+  },
+  {
+    "unicode": "U+1F561",
+    "name": "CLOCK FACE SIX-THIRTY≊ six-thirty",
+    "converted": "\\ud83d\\udd61"
+  },
+  {
+    "unicode": "U+1F556",
+    "name": "CLOCK FACE SEVEN OCLOCK≊ seven o’clock",
+    "converted": "\\ud83d\\udd56"
+  },
+  {
+    "unicode": "U+1F562",
+    "name": "CLOCK FACE SEVEN-THIRTY≊ seven-thirty",
+    "converted": "\\ud83d\\udd62"
+  },
+  {
+    "unicode": "U+1F557",
+    "name": "CLOCK FACE EIGHT OCLOCK≊ eight o’clock",
+    "converted": "\\ud83d\\udd57"
+  },
+  {
+    "unicode": "U+1F563",
+    "name": "CLOCK FACE EIGHT-THIRTY≊ eight-thirty",
+    "converted": "\\ud83d\\udd63"
+  },
+  {
+    "unicode": "U+1F558",
+    "name": "CLOCK FACE NINE OCLOCK≊ nine o’clock",
+    "converted": "\\ud83d\\udd58"
+  },
+  {
+    "unicode": "U+1F564",
+    "name": "CLOCK FACE NINE-THIRTY≊ nine-thirty",
+    "converted": "\\ud83d\\udd64"
+  },
+  {
+    "unicode": "U+1F559",
+    "name": "CLOCK FACE TEN OCLOCK≊ ten o’clock",
+    "converted": "\\ud83d\\udd59"
+  },
+  {
+    "unicode": "U+1F565",
+    "name": "CLOCK FACE TEN-THIRTY≊ ten-thirty",
+    "converted": "\\ud83d\\udd65"
+  },
+  {
+    "unicode": "U+1F55A",
+    "name": "CLOCK FACE ELEVEN OCLOCK≊ eleven o’clock",
+    "converted": "\\ud83d\\udd5a"
+  },
+  {
+    "unicode": "U+1F566",
+    "name": "CLOCK FACE ELEVEN-THIRTY≊ eleven-thirty",
+    "converted": "\\ud83d\\udd66"
+  },
+  {
+    "unicode": "U+1F311",
+    "name": "NEW MOON SYMBOL≊ new moon",
+    "converted": "\\ud83c\\udf11"
+  },
+  {
+    "unicode": "U+1F312",
+    "name": "WAXING CRESCENT MOON SYMBOL≊ waxing crescent moon",
+    "converted": "\\ud83c\\udf12"
+  },
+  {
+    "unicode": "U+1F313",
+    "name": "FIRST QUARTER MOON SYMBOL≊ first quarter moon",
+    "converted": "\\ud83c\\udf13"
+  },
+  {
+    "unicode": "U+1F314",
+    "name": "WAXING GIBBOUS MOON SYMBOL≊ waxing gibbous moon",
+    "converted": "\\ud83c\\udf14"
+  },
+  {
+    "unicode": "U+1F315",
+    "name": "FULL MOON SYMBOL≊ full moon",
+    "converted": "\\ud83c\\udf15"
+  },
+  {
+    "unicode": "U+1F316",
+    "name": "WANING GIBBOUS MOON SYMBOL≊ waning gibbous moon",
+    "converted": "\\ud83c\\udf16"
+  },
+  {
+    "unicode": "U+1F317",
+    "name": "LAST QUARTER MOON SYMBOL≊ last quarter moon",
+    "converted": "\\ud83c\\udf17"
+  },
+  {
+    "unicode": "U+1F318",
+    "name": "WANING CRESCENT MOON SYMBOL≊ waning crescent moon",
+    "converted": "\\ud83c\\udf18"
+  },
+  {
+    "unicode": "U+1F319",
+    "name": "CRESCENT MOON",
+    "converted": "\\ud83c\\udf19"
+  },
+  {
+    "unicode": "U+1F31A",
+    "name": "NEW MOON WITH FACE≊ new moon face",
+    "converted": "\\ud83c\\udf1a"
+  },
+  {
+    "unicode": "U+1F31B",
+    "name": "FIRST QUARTER MOON WITH FACE",
+    "converted": "\\ud83c\\udf1b"
+  },
+  {
+    "unicode": "U+1F31C",
+    "name": "LAST QUARTER MOON WITH FACE",
+    "converted": "\\ud83c\\udf1c"
+  },
+  {
+    "unicode": "U+1F321",
+    "name": "THERMOMETER",
+    "converted": "\\ud83c\\udf21"
+  },
+  {
+    "unicode": "U+1F31D",
+    "name": "FULL MOON WITH FACE",
+    "converted": "\\ud83c\\udf1d"
+  },
+  {
+    "unicode": "U+1F31E",
+    "name": "SUN WITH FACE",
+    "converted": "\\ud83c\\udf1e"
+  },
+  {
+    "unicode": "U+1F31F",
+    "name": "GLOWING STAR",
+    "converted": "\\ud83c\\udf1f"
+  },
+  {
+    "unicode": "U+1F320",
+    "name": "SHOOTING STAR",
+    "converted": "\\ud83c\\udf20"
+  },
+  {
+    "unicode": "U+1F324",
+    "name": "WHITE SUN WITH SMALL CLOUD≊ sun behind small cloud",
+    "converted": "\\ud83c\\udf24"
+  },
+  {
+    "unicode": "U+1F325",
+    "name": "WHITE SUN BEHIND CLOUD≊ sun behind large cloud",
+    "converted": "\\ud83c\\udf25"
+  },
+  {
+    "unicode": "U+1F326",
+    "name": "WHITE SUN BEHIND CLOUD WITH RAIN≊ sun behind cloud with rain",
+    "converted": "\\ud83c\\udf26"
+  },
+  {
+    "unicode": "U+1F327",
+    "name": "CLOUD WITH RAIN",
+    "converted": "\\ud83c\\udf27"
+  },
+  {
+    "unicode": "U+1F328",
+    "name": "CLOUD WITH SNOW",
+    "converted": "\\ud83c\\udf28"
+  },
+  {
+    "unicode": "U+1F329",
+    "name": "CLOUD WITH LIGHTNING",
+    "converted": "\\ud83c\\udf29"
+  },
+  {
+    "unicode": "U+1F32A",
+    "name": "CLOUD WITH TORNADO≊ tornado",
+    "converted": "\\ud83c\\udf2a"
+  },
+  {
+    "unicode": "U+1F32B",
+    "name": "FOG",
+    "converted": "\\ud83c\\udf2b"
+  },
+  {
+    "unicode": "U+1F32C",
+    "name": "WIND BLOWING FACE≊ wind face",
+    "converted": "\\ud83c\\udf2c"
+  },
+  {
+    "unicode": "U+1F300",
+    "name": "CYCLONE",
+    "converted": "\\ud83c\\udf00"
+  },
+  {
+    "unicode": "U+1F308",
+    "name": "RAINBOW",
+    "converted": "\\ud83c\\udf08"
+  },
+  {
+    "unicode": "U+1F302",
+    "name": "CLOSED UMBRELLA",
+    "converted": "\\ud83c\\udf02"
+  },
+  {
+    "unicode": "U+1F525",
+    "name": "FIRE",
+    "converted": "\\ud83d\\udd25"
+  },
+  {
+    "unicode": "U+1F4A7",
+    "name": "DROPLET",
+    "converted": "\\ud83d\\udca7"
+  },
+  {
+    "unicode": "U+1F30A",
+    "name": "WATER WAVE",
+    "converted": "\\ud83c\\udf0a"
+  },
+  {
+    "unicode": "U+1F383",
+    "name": "JACK-O-LANTERN",
+    "converted": "\\ud83c\\udf83"
+  },
+  {
+    "unicode": "U+1F384",
+    "name": "CHRISTMAS TREE",
+    "converted": "\\ud83c\\udf84"
+  },
+  {
+    "unicode": "U+1F386",
+    "name": "FIREWORKS",
+    "converted": "\\ud83c\\udf86"
+  },
+  {
+    "unicode": "U+1F387",
+    "name": "FIREWORK SPARKLER≊ sparkler",
+    "converted": "\\ud83c\\udf87"
+  },
+  {
+    "unicode": "U+1F388",
+    "name": "BALLOON",
+    "converted": "\\ud83c\\udf88"
+  },
+  {
+    "unicode": "U+1F389",
+    "name": "PARTY POPPER",
+    "converted": "\\ud83c\\udf89"
+  },
+  {
+    "unicode": "U+1F38A",
+    "name": "CONFETTI BALL",
+    "converted": "\\ud83c\\udf8a"
+  },
+  {
+    "unicode": "U+1F38B",
+    "name": "TANABATA TREE",
+    "converted": "\\ud83c\\udf8b"
+  },
+  {
+    "unicode": "U+1F38D",
+    "name": "PINE DECORATION",
+    "converted": "\\ud83c\\udf8d"
+  },
+  {
+    "unicode": "U+1F38E",
+    "name": "JAPANESE DOLLS",
+    "converted": "\\ud83c\\udf8e"
+  },
+  {
+    "unicode": "U+1F38F",
+    "name": "CARP STREAMER",
+    "converted": "\\ud83c\\udf8f"
+  },
+  {
+    "unicode": "U+1F390",
+    "name": "WIND CHIME",
+    "converted": "\\ud83c\\udf90"
+  },
+  {
+    "unicode": "U+1F391",
+    "name": "MOON VIEWING CEREMONY≊ moon ceremony",
+    "converted": "\\ud83c\\udf91"
+  },
+  {
+    "unicode": "U+1F380",
+    "name": "RIBBON",
+    "converted": "\\ud83c\\udf80"
+  },
+  {
+    "unicode": "U+1F381",
+    "name": "WRAPPED PRESENT",
+    "converted": "\\ud83c\\udf81"
+  },
+  {
+    "unicode": "U+1F397",
+    "name": "REMINDER RIBBON",
+    "converted": "\\ud83c\\udf97"
+  },
+  {
+    "unicode": "U+1F39F",
+    "name": "ADMISSION TICKETS",
+    "converted": "\\ud83c\\udf9f"
+  },
+  {
+    "unicode": "U+1F3AB",
+    "name": "TICKET",
+    "converted": "\\ud83c\\udfab"
+  },
+  {
+    "unicode": "U+1F396",
+    "name": "MILITARY MEDAL",
+    "converted": "\\ud83c\\udf96"
+  },
+  {
+    "unicode": "U+1F3C6",
+    "name": "TROPHY",
+    "converted": "\\ud83c\\udfc6"
+  },
+  {
+    "unicode": "U+1F3C5",
+    "name": "SPORTS MEDAL",
+    "converted": "\\ud83c\\udfc5"
+  },
+  {
+    "unicode": "U+1F3C0",
+    "name": "BASKETBALL AND HOOP≊ basketball",
+    "converted": "\\ud83c\\udfc0"
+  },
+  {
+    "unicode": "U+1F3D0",
+    "name": "VOLLEYBALL",
+    "converted": "\\ud83c\\udfd0"
+  },
+  {
+    "unicode": "U+1F3C8",
+    "name": "AMERICAN FOOTBALL",
+    "converted": "\\ud83c\\udfc8"
+  },
+  {
+    "unicode": "U+1F3C9",
+    "name": "RUGBY FOOTBALL",
+    "converted": "\\ud83c\\udfc9"
+  },
+  {
+    "unicode": "U+1F3BE",
+    "name": "TENNIS RACQUET AND BALL≊ tennis",
+    "converted": "\\ud83c\\udfbe"
+  },
+  {
+    "unicode": "U+1F3B1",
+    "name": "BILLIARDS",
+    "converted": "\\ud83c\\udfb1"
+  },
+  {
+    "unicode": "U+1F3B3",
+    "name": "BOWLING",
+    "converted": "\\ud83c\\udfb3"
+  },
+  {
+    "unicode": "U+1F3CF",
+    "name": "CRICKET BAT AND BALL≊ cricket",
+    "converted": "\\ud83c\\udfcf"
+  },
+  {
+    "unicode": "U+1F3D1",
+    "name": "FIELD HOCKEY STICK AND BALL≊ field hockey",
+    "converted": "\\ud83c\\udfd1"
+  },
+  {
+    "unicode": "U+1F3D2",
+    "name": "ICE HOCKEY STICK AND PUCK",
+    "converted": "\\ud83c\\udfd2"
+  },
+  {
+    "unicode": "U+1F3D3",
+    "name": "TABLE TENNIS PADDLE AND BALL≊ ping pong",
+    "converted": "\\ud83c\\udfd3"
+  },
+  {
+    "unicode": "U+1F3F8",
+    "name": "BADMINTON RACQUET AND SHUTTLECOCK≊ badminton",
+    "converted": "\\ud83c\\udff8"
+  },
+  {
+    "unicode": "U+1F3CC",
+    "name": "GOLFER",
+    "converted": "\\ud83c\\udfcc"
+  },
+  {
+    "unicode": "U+1F3A3",
+    "name": "FISHING POLE AND FISH≊ fishing pole",
+    "converted": "\\ud83c\\udfa3"
+  },
+  {
+    "unicode": "U+1F3BD",
+    "name": "RUNNING SHIRT WITH SASH≊ running shirt",
+    "converted": "\\ud83c\\udfbd"
+  },
+  {
+    "unicode": "U+1F3BF",
+    "name": "SKI AND SKI BOOT≊ skis",
+    "converted": "\\ud83c\\udfbf"
+  },
+  {
+    "unicode": "U+1F3C2",
+    "name": "SNOWBOARDER",
+    "converted": "\\ud83c\\udfc2"
+  },
+  {
+    "unicode": "U+1F3C4",
+    "name": "SURFER",
+    "converted": "\\ud83c\\udfc4"
+  },
+  {
+    "unicode": "U+1F3C7",
+    "name": "HORSE RACING",
+    "converted": "\\ud83c\\udfc7"
+  },
+  {
+    "unicode": "U+1F3CA",
+    "name": "SWIMMER",
+    "converted": "\\ud83c\\udfca"
+  },
+  {
+    "unicode": "U+1F3CB",
+    "name": "WEIGHT LIFTER",
+    "converted": "\\ud83c\\udfcb"
+  },
+  {
+    "unicode": "U+1F6B4",
+    "name": "BICYCLIST",
+    "converted": "\\ud83d\\udeb4"
+  },
+  {
+    "unicode": "U+1F6B5",
+    "name": "MOUNTAIN BICYCLIST≊ mountain biker",
+    "converted": "\\ud83d\\udeb5"
+  },
+  {
+    "unicode": "U+1F3CE",
+    "name": "RACING CAR",
+    "converted": "\\ud83c\\udfce"
+  },
+  {
+    "unicode": "U+1F3CD",
+    "name": "RACING MOTORCYCLE≊ motorcycle",
+    "converted": "\\ud83c\\udfcd"
+  },
+  {
+    "unicode": "U+1F3AF",
+    "name": "DIRECT HIT",
+    "converted": "\\ud83c\\udfaf"
+  },
+  {
+    "unicode": "U+1F3AE",
+    "name": "VIDEO GAME",
+    "converted": "\\ud83c\\udfae"
+  },
+  {
+    "unicode": "U+1F579",
+    "name": "JOYSTICK",
+    "converted": "\\ud83d\\udd79"
+  },
+  {
+    "unicode": "U+1F3B2",
+    "name": "GAME DIE",
+    "converted": "\\ud83c\\udfb2"
+  },
+  {
+    "unicode": "U+1F0CF",
+    "name": "PLAYING CARD BLACK JOKER≊ joker",
+    "converted": "\\ud83c\\udccf"
+  },
+  {
+    "unicode": "U+1F004",
+    "name": "MAHJONG TILE RED DRAGON≊ mahjong red dragon",
+    "converted": "\\ud83c\\udc04"
+  },
+  {
+    "unicode": "U+1F3B4",
+    "name": "FLOWER PLAYING CARDS",
+    "converted": "\\ud83c\\udfb4"
+  },
+  {
+    "unicode": "U+1F507",
+    "name": "SPEAKER WITH CANCELLATION STROKE≊ speaker off",
+    "converted": "\\ud83d\\udd07"
+  },
+  {
+    "unicode": "U+1F508",
+    "name": "SPEAKER",
+    "converted": "\\ud83d\\udd08"
+  },
+  {
+    "unicode": "U+1F509",
+    "name": "SPEAKER WITH ONE SOUND WAVE≊ speaker on",
+    "converted": "\\ud83d\\udd09"
+  },
+  {
+    "unicode": "U+1F50A",
+    "name": "SPEAKER WITH THREE SOUND WAVES≊ speaker loud",
+    "converted": "\\ud83d\\udd0a"
+  },
+  {
+    "unicode": "U+1F4E2",
+    "name": "PUBLIC ADDRESS LOUDSPEAKER≊ loudspeaker",
+    "converted": "\\ud83d\\udce2"
+  },
+  {
+    "unicode": "U+1F4E3",
+    "name": "CHEERING MEGAPHONE≊ megaphone",
+    "converted": "\\ud83d\\udce3"
+  },
+  {
+    "unicode": "U+1F4EF",
+    "name": "POSTAL HORN",
+    "converted": "\\ud83d\\udcef"
+  },
+  {
+    "unicode": "U+1F514",
+    "name": "BELL",
+    "converted": "\\ud83d\\udd14"
+  },
+  {
+    "unicode": "U+1F515",
+    "name": "BELL WITH CANCELLATION STROKE≊ bell with slash",
+    "converted": "\\ud83d\\udd15"
+  },
+  {
+    "unicode": "U+1F3BC",
+    "name": "MUSICAL SCORE",
+    "converted": "\\ud83c\\udfbc"
+  },
+  {
+    "unicode": "U+1F3B5",
+    "name": "MUSICAL NOTE",
+    "converted": "\\ud83c\\udfb5"
+  },
+  {
+    "unicode": "U+1F3B6",
+    "name": "MULTIPLE MUSICAL NOTES≊ musical notes",
+    "converted": "\\ud83c\\udfb6"
+  },
+  {
+    "unicode": "U+1F399",
+    "name": "STUDIO MICROPHONE",
+    "converted": "\\ud83c\\udf99"
+  },
+  {
+    "unicode": "U+1F39A",
+    "name": "LEVEL SLIDER",
+    "converted": "\\ud83c\\udf9a"
+  },
+  {
+    "unicode": "U+1F39B",
+    "name": "CONTROL KNOBS",
+    "converted": "\\ud83c\\udf9b"
+  },
+  {
+    "unicode": "U+1F3A4",
+    "name": "MICROPHONE",
+    "converted": "\\ud83c\\udfa4"
+  },
+  {
+    "unicode": "U+1F3A7",
+    "name": "HEADPHONE",
+    "converted": "\\ud83c\\udfa7"
+  },
+  {
+    "unicode": "U+1F4FB",
+    "name": "RADIO",
+    "converted": "\\ud83d\\udcfb"
+  },
+  {
+    "unicode": "U+1F3B7",
+    "name": "SAXOPHONE",
+    "converted": "\\ud83c\\udfb7"
+  },
+  {
+    "unicode": "U+1F3B8",
+    "name": "GUITAR",
+    "converted": "\\ud83c\\udfb8"
+  },
+  {
+    "unicode": "U+1F3B9",
+    "name": "MUSICAL KEYBOARD",
+    "converted": "\\ud83c\\udfb9"
+  },
+  {
+    "unicode": "U+1F3BA",
+    "name": "TRUMPET",
+    "converted": "\\ud83c\\udfba"
+  },
+  {
+    "unicode": "U+1F3BB",
+    "name": "VIOLIN",
+    "converted": "\\ud83c\\udfbb"
+  },
+  {
+    "unicode": "U+1F4F1",
+    "name": "MOBILE PHONE",
+    "converted": "\\ud83d\\udcf1"
+  },
+  {
+    "unicode": "U+1F4F2",
+    "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT≊ mobile phone with arrow",
+    "converted": "\\ud83d\\udcf2"
+  },
+  {
+    "unicode": "U+1F4DE",
+    "name": "TELEPHONE RECEIVER",
+    "converted": "\\ud83d\\udcde"
+  },
+  {
+    "unicode": "U+1F4DF",
+    "name": "PAGER",
+    "converted": "\\ud83d\\udcdf"
+  },
+  {
+    "unicode": "U+1F4E0",
+    "name": "FAX MACHINE",
+    "converted": "\\ud83d\\udce0"
+  },
+  {
+    "unicode": "U+1F50B",
+    "name": "BATTERY",
+    "converted": "\\ud83d\\udd0b"
+  },
+  {
+    "unicode": "U+1F50C",
+    "name": "ELECTRIC PLUG",
+    "converted": "\\ud83d\\udd0c"
+  },
+  {
+    "unicode": "U+1F4BB",
+    "name": "PERSONAL COMPUTER≊ laptop computer",
+    "converted": "\\ud83d\\udcbb"
+  },
+  {
+    "unicode": "U+1F5A5",
+    "name": "DESKTOP COMPUTER",
+    "converted": "\\ud83d\\udda5"
+  },
+  {
+    "unicode": "U+1F5A8",
+    "name": "PRINTER",
+    "converted": "\\ud83d\\udda8"
+  },
+  {
+    "unicode": "U+1F5B1",
+    "name": "THREE BUTTON MOUSE≊ computer mouse",
+    "converted": "\\ud83d\\uddb1"
+  },
+  {
+    "unicode": "U+1F5B2",
+    "name": "TRACKBALL",
+    "converted": "\\ud83d\\uddb2"
+  },
+  {
+    "unicode": "U+1F4BD",
+    "name": "MINIDISC",
+    "converted": "\\ud83d\\udcbd"
+  },
+  {
+    "unicode": "U+1F4BE",
+    "name": "FLOPPY DISK",
+    "converted": "\\ud83d\\udcbe"
+  },
+  {
+    "unicode": "U+1F4BF",
+    "name": "OPTICAL DISC",
+    "converted": "\\ud83d\\udcbf"
+  },
+  {
+    "unicode": "U+1F4C0",
+    "name": "DVD",
+    "converted": "\\ud83d\\udcc0"
+  },
+  {
+    "unicode": "U+1F3A5",
+    "name": "MOVIE CAMERA",
+    "converted": "\\ud83c\\udfa5"
+  },
+  {
+    "unicode": "U+1F39E",
+    "name": "FILM FRAMES",
+    "converted": "\\ud83c\\udf9e"
+  },
+  {
+    "unicode": "U+1F4FD",
+    "name": "FILM PROJECTOR",
+    "converted": "\\ud83d\\udcfd"
+  },
+  {
+    "unicode": "U+1F3AC",
+    "name": "CLAPPER BOARD",
+    "converted": "\\ud83c\\udfac"
+  },
+  {
+    "unicode": "U+1F4FA",
+    "name": "TELEVISION",
+    "converted": "\\ud83d\\udcfa"
+  },
+  {
+    "unicode": "U+1F4F7",
+    "name": "CAMERA",
+    "converted": "\\ud83d\\udcf7"
+  },
+  {
+    "unicode": "U+1F4F8",
+    "name": "CAMERA WITH FLASH",
+    "converted": "\\ud83d\\udcf8"
+  },
+  {
+    "unicode": "U+1F4F9",
+    "name": "VIDEO CAMERA",
+    "converted": "\\ud83d\\udcf9"
+  },
+  {
+    "unicode": "U+1F4FC",
+    "name": "VIDEOCASSETTE",
+    "converted": "\\ud83d\\udcfc"
+  },
+  {
+    "unicode": "U+1F50D",
+    "name": "LEFT-POINTING MAGNIFYING GLASS",
+    "converted": "\\ud83d\\udd0d"
+  },
+  {
+    "unicode": "U+1F50E",
+    "name": "RIGHT-POINTING MAGNIFYING GLASS",
+    "converted": "\\ud83d\\udd0e"
+  },
+  {
+    "unicode": "U+1F52C",
+    "name": "MICROSCOPE",
+    "converted": "\\ud83d\\udd2c"
+  },
+  {
+    "unicode": "U+1F52D",
+    "name": "TELESCOPE",
+    "converted": "\\ud83d\\udd2d"
+  },
+  {
+    "unicode": "U+1F4E1",
+    "name": "SATELLITE ANTENNA",
+    "converted": "\\ud83d\\udce1"
+  },
+  {
+    "unicode": "U+1F56F",
+    "name": "CANDLE",
+    "converted": "\\ud83d\\udd6f"
+  },
+  {
+    "unicode": "U+1F4A1",
+    "name": "ELECTRIC LIGHT BULB≊ light bulb",
+    "converted": "\\ud83d\\udca1"
+  },
+  {
+    "unicode": "U+1F526",
+    "name": "ELECTRIC TORCH≊ flashlight",
+    "converted": "\\ud83d\\udd26"
+  },
+  {
+    "unicode": "U+1F3EE",
+    "name": "IZAKAYA LANTERN≊ red paper lantern",
+    "converted": "\\ud83c\\udfee"
+  },
+  {
+    "unicode": "U+1F4D4",
+    "name": "NOTEBOOK WITH DECORATIVE COVER",
+    "converted": "\\ud83d\\udcd4"
+  },
+  {
+    "unicode": "U+1F4D5",
+    "name": "CLOSED BOOK",
+    "converted": "\\ud83d\\udcd5"
+  },
+  {
+    "unicode": "U+1F4D6",
+    "name": "OPEN BOOK",
+    "converted": "\\ud83d\\udcd6"
+  },
+  {
+    "unicode": "U+1F4D7",
+    "name": "GREEN BOOK",
+    "converted": "\\ud83d\\udcd7"
+  },
+  {
+    "unicode": "U+1F4D8",
+    "name": "BLUE BOOK",
+    "converted": "\\ud83d\\udcd8"
+  },
+  {
+    "unicode": "U+1F4D9",
+    "name": "ORANGE BOOK",
+    "converted": "\\ud83d\\udcd9"
+  },
+  {
+    "unicode": "U+1F4DA",
+    "name": "BOOKS",
+    "converted": "\\ud83d\\udcda"
+  },
+  {
+    "unicode": "U+1F4D3",
+    "name": "NOTEBOOK",
+    "converted": "\\ud83d\\udcd3"
+  },
+  {
+    "unicode": "U+1F4D2",
+    "name": "LEDGER",
+    "converted": "\\ud83d\\udcd2"
+  },
+  {
+    "unicode": "U+1F4C3",
+    "name": "PAGE WITH CURL",
+    "converted": "\\ud83d\\udcc3"
+  },
+  {
+    "unicode": "U+1F4DC",
+    "name": "SCROLL",
+    "converted": "\\ud83d\\udcdc"
+  },
+  {
+    "unicode": "U+1F4C4",
+    "name": "PAGE FACING UP",
+    "converted": "\\ud83d\\udcc4"
+  },
+  {
+    "unicode": "U+1F4F0",
+    "name": "NEWSPAPER",
+    "converted": "\\ud83d\\udcf0"
+  },
+  {
+    "unicode": "U+1F5DE",
+    "name": "ROLLED-UP NEWSPAPER",
+    "converted": "\\ud83d\\uddde"
+  },
+  {
+    "unicode": "U+1F4D1",
+    "name": "BOOKMARK TABS",
+    "converted": "\\ud83d\\udcd1"
+  },
+  {
+    "unicode": "U+1F516",
+    "name": "BOOKMARK",
+    "converted": "\\ud83d\\udd16"
+  },
+  {
+    "unicode": "U+1F3F7",
+    "name": "LABEL",
+    "converted": "\\ud83c\\udff7"
+  },
+  {
+    "unicode": "U+1F4B0",
+    "name": "MONEY BAG",
+    "converted": "\\ud83d\\udcb0"
+  },
+  {
+    "unicode": "U+1F4B4",
+    "name": "BANKNOTE WITH YEN SIGN≊ yen banknote",
+    "converted": "\\ud83d\\udcb4"
+  },
+  {
+    "unicode": "U+1F4B5",
+    "name": "BANKNOTE WITH DOLLAR SIGN≊ dollar banknote",
+    "converted": "\\ud83d\\udcb5"
+  },
+  {
+    "unicode": "U+1F4B6",
+    "name": "BANKNOTE WITH EURO SIGN≊ euro banknote",
+    "converted": "\\ud83d\\udcb6"
+  },
+  {
+    "unicode": "U+1F4B7",
+    "name": "BANKNOTE WITH POUND SIGN≊ pound banknote",
+    "converted": "\\ud83d\\udcb7"
+  },
+  {
+    "unicode": "U+1F4B8",
+    "name": "MONEY WITH WINGS",
+    "converted": "\\ud83d\\udcb8"
+  },
+  {
+    "unicode": "U+1F4B3",
+    "name": "CREDIT CARD",
+    "converted": "\\ud83d\\udcb3"
+  },
+  {
+    "unicode": "U+1F4B9",
+    "name": "CHART WITH UPWARDS TREND AND YEN SIGN≊ chart increasing with yen",
+    "converted": "\\ud83d\\udcb9"
+  },
+  {
+    "unicode": "U+1F4B1",
+    "name": "CURRENCY EXCHANGE",
+    "converted": "\\ud83d\\udcb1"
+  },
+  {
+    "unicode": "U+1F4B2",
+    "name": "HEAVY DOLLAR SIGN",
+    "converted": "\\ud83d\\udcb2"
+  },
+  {
+    "unicode": "U+1F4E7",
+    "name": "E-MAIL SYMBOL≊ e-mail",
+    "converted": "\\ud83d\\udce7"
+  },
+  {
+    "unicode": "U+1F4E8",
+    "name": "INCOMING ENVELOPE",
+    "converted": "\\ud83d\\udce8"
+  },
+  {
+    "unicode": "U+1F4E9",
+    "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE≊ envelope with arrow",
+    "converted": "\\ud83d\\udce9"
+  },
+  {
+    "unicode": "U+1F4E4",
+    "name": "OUTBOX TRAY",
+    "converted": "\\ud83d\\udce4"
+  },
+  {
+    "unicode": "U+1F4E5",
+    "name": "INBOX TRAY",
+    "converted": "\\ud83d\\udce5"
+  },
+  {
+    "unicode": "U+1F4E6",
+    "name": "PACKAGE",
+    "converted": "\\ud83d\\udce6"
+  },
+  {
+    "unicode": "U+1F4EB",
+    "name": "CLOSED MAILBOX WITH RAISED FLAG",
+    "converted": "\\ud83d\\udceb"
+  },
+  {
+    "unicode": "U+1F4EA",
+    "name": "CLOSED MAILBOX WITH LOWERED FLAG",
+    "converted": "\\ud83d\\udcea"
+  },
+  {
+    "unicode": "U+1F4EC",
+    "name": "OPEN MAILBOX WITH RAISED FLAG",
+    "converted": "\\ud83d\\udcec"
+  },
+  {
+    "unicode": "U+1F4ED",
+    "name": "OPEN MAILBOX WITH LOWERED FLAG",
+    "converted": "\\ud83d\\udced"
+  },
+  {
+    "unicode": "U+1F4EE",
+    "name": "POSTBOX",
+    "converted": "\\ud83d\\udcee"
+  },
+  {
+    "unicode": "U+1F5F3",
+    "name": "BALLOT BOX WITH BALLOT",
+    "converted": "\\ud83d\\uddf3"
+  },
+  {
+    "unicode": "U+1F58B",
+    "name": "LOWER LEFT FOUNTAIN PEN≊ fountain pen",
+    "converted": "\\ud83d\\udd8b"
+  },
+  {
+    "unicode": "U+1F58A",
+    "name": "LOWER LEFT BALLPOINT PEN≊ pen",
+    "converted": "\\ud83d\\udd8a"
+  },
+  {
+    "unicode": "U+1F58C",
+    "name": "LOWER LEFT PAINTBRUSH≊ paintbrush",
+    "converted": "\\ud83d\\udd8c"
+  },
+  {
+    "unicode": "U+1F58D",
+    "name": "LOWER LEFT CRAYON≊ crayon",
+    "converted": "\\ud83d\\udd8d"
+  },
+  {
+    "unicode": "U+1F4DD",
+    "name": "MEMO",
+    "converted": "\\ud83d\\udcdd"
+  },
+  {
+    "unicode": "U+1F4BC",
+    "name": "BRIEFCASE",
+    "converted": "\\ud83d\\udcbc"
+  },
+  {
+    "unicode": "U+1F4C1",
+    "name": "FILE FOLDER",
+    "converted": "\\ud83d\\udcc1"
+  },
+  {
+    "unicode": "U+1F4C2",
+    "name": "OPEN FILE FOLDER",
+    "converted": "\\ud83d\\udcc2"
+  },
+  {
+    "unicode": "U+1F5C2",
+    "name": "CARD INDEX DIVIDERS",
+    "converted": "\\ud83d\\uddc2"
+  },
+  {
+    "unicode": "U+1F4C5",
+    "name": "CALENDAR",
+    "converted": "\\ud83d\\udcc5"
+  },
+  {
+    "unicode": "U+1F4C6",
+    "name": "TEAR-OFF CALENDAR",
+    "converted": "\\ud83d\\udcc6"
+  },
+  {
+    "unicode": "U+1F5D2",
+    "name": "SPIRAL NOTE PAD≊ spiral notepad",
+    "converted": "\\ud83d\\uddd2"
+  },
+  {
+    "unicode": "U+1F5D3",
+    "name": "SPIRAL CALENDAR PAD≊ spiral calendar",
+    "converted": "\\ud83d\\uddd3"
+  },
+  {
+    "unicode": "U+1F4C7",
+    "name": "CARD INDEX",
+    "converted": "\\ud83d\\udcc7"
+  },
+  {
+    "unicode": "U+1F4C8",
+    "name": "CHART WITH UPWARDS TREND≊ chart increasing",
+    "converted": "\\ud83d\\udcc8"
+  },
+  {
+    "unicode": "U+1F4C9",
+    "name": "CHART WITH DOWNWARDS TREND≊ chart decreasing",
+    "converted": "\\ud83d\\udcc9"
+  },
+  {
+    "unicode": "U+1F4CA",
+    "name": "BAR CHART",
+    "converted": "\\ud83d\\udcca"
+  },
+  {
+    "unicode": "U+1F4CB",
+    "name": "CLIPBOARD",
+    "converted": "\\ud83d\\udccb"
+  },
+  {
+    "unicode": "U+1F4CC",
+    "name": "PUSHPIN",
+    "converted": "\\ud83d\\udccc"
+  },
+  {
+    "unicode": "U+1F4CD",
+    "name": "ROUND PUSHPIN",
+    "converted": "\\ud83d\\udccd"
+  },
+  {
+    "unicode": "U+1F4CE",
+    "name": "PAPERCLIP",
+    "converted": "\\ud83d\\udcce"
+  },
+  {
+    "unicode": "U+1F587",
+    "name": "LINKED PAPERCLIPS",
+    "converted": "\\ud83d\\udd87"
+  },
+  {
+    "unicode": "U+1F4CF",
+    "name": "STRAIGHT RULER",
+    "converted": "\\ud83d\\udccf"
+  },
+  {
+    "unicode": "U+1F4D0",
+    "name": "TRIANGULAR RULER",
+    "converted": "\\ud83d\\udcd0"
+  },
+  {
+    "unicode": "U+1F5C3",
+    "name": "CARD FILE BOX",
+    "converted": "\\ud83d\\uddc3"
+  },
+  {
+    "unicode": "U+1F5C4",
+    "name": "FILE CABINET",
+    "converted": "\\ud83d\\uddc4"
+  },
+  {
+    "unicode": "U+1F5D1",
+    "name": "WASTEBASKET",
+    "converted": "\\ud83d\\uddd1"
+  },
+  {
+    "unicode": "U+1F512",
+    "name": "LOCK",
+    "converted": "\\ud83d\\udd12"
+  },
+  {
+    "unicode": "U+1F513",
+    "name": "OPEN LOCK",
+    "converted": "\\ud83d\\udd13"
+  },
+  {
+    "unicode": "U+1F50F",
+    "name": "LOCK WITH INK PEN≊ lock with pen",
+    "converted": "\\ud83d\\udd0f"
+  },
+  {
+    "unicode": "U+1F510",
+    "name": "CLOSED LOCK WITH KEY",
+    "converted": "\\ud83d\\udd10"
+  },
+  {
+    "unicode": "U+1F511",
+    "name": "KEY",
+    "converted": "\\ud83d\\udd11"
+  },
+  {
+    "unicode": "U+1F5DD",
+    "name": "OLD KEY",
+    "converted": "\\ud83d\\udddd"
+  },
+  {
+    "unicode": "U+1F528",
+    "name": "HAMMER",
+    "converted": "\\ud83d\\udd28"
+  },
+  {
+    "unicode": "U+1F6E0",
+    "name": "HAMMER AND WRENCH",
+    "converted": "\\ud83d\\udee0"
+  },
+  {
+    "unicode": "U+1F5E1",
+    "name": "DAGGER KNIFE≊ dagger",
+    "converted": "\\ud83d\\udde1"
+  },
+  {
+    "unicode": "U+1F52B",
+    "name": "PISTOL",
+    "converted": "\\ud83d\\udd2b"
+  },
+  {
+    "unicode": "U+1F3F9",
+    "name": "BOW AND ARROW",
+    "converted": "\\ud83c\\udff9"
+  },
+  {
+    "unicode": "U+1F6E1",
+    "name": "SHIELD",
+    "converted": "\\ud83d\\udee1"
+  },
+  {
+    "unicode": "U+1F527",
+    "name": "WRENCH",
+    "converted": "\\ud83d\\udd27"
+  },
+  {
+    "unicode": "U+1F529",
+    "name": "NUT AND BOLT",
+    "converted": "\\ud83d\\udd29"
+  },
+  {
+    "unicode": "U+1F5DC",
+    "name": "COMPRESSION",
+    "converted": "\\ud83d\\udddc"
+  },
+  {
+    "unicode": "U+1F517",
+    "name": "LINK SYMBOL≊ link",
+    "converted": "\\ud83d\\udd17"
+  },
+  {
+    "unicode": "U+1F489",
+    "name": "SYRINGE",
+    "converted": "\\ud83d\\udc89"
+  },
+  {
+    "unicode": "U+1F48A",
+    "name": "PILL",
+    "converted": "\\ud83d\\udc8a"
+  },
+  {
+    "unicode": "U+1F6AC",
+    "name": "SMOKING SYMBOL≊ smoking",
+    "converted": "\\ud83d\\udeac"
+  },
+  {
+    "unicode": "U+1F5FF",
+    "name": "MOYAI≊ moai",
+    "converted": "\\ud83d\\uddff"
+  },
+  {
+    "unicode": "U+1F6E2",
+    "name": "OIL DRUM",
+    "converted": "\\ud83d\\udee2"
+  },
+  {
+    "unicode": "U+1F52E",
+    "name": "CRYSTAL BALL",
+    "converted": "\\ud83d\\udd2e"
+  },
+  {
+    "unicode": "U+1F3E7",
+    "name": "AUTOMATED TELLER MACHINE≊ ATM sign",
+    "converted": "\\ud83c\\udfe7"
+  },
+  {
+    "unicode": "U+1F6AE",
+    "name": "PUT LITTER IN ITS PLACE SYMBOL≊ litter in bin sign",
+    "converted": "\\ud83d\\udeae"
+  },
+  {
+    "unicode": "U+1F6B0",
+    "name": "POTABLE WATER SYMBOL≊ potable water",
+    "converted": "\\ud83d\\udeb0"
+  },
+  {
+    "unicode": "U+1F6B9",
+    "name": "MENS SYMBOL≊ men’s room",
+    "converted": "\\ud83d\\udeb9"
+  },
+  {
+    "unicode": "U+1F6BA",
+    "name": "WOMENS SYMBOL≊ women’s room",
+    "converted": "\\ud83d\\udeba"
+  },
+  {
+    "unicode": "U+1F6BB",
+    "name": "RESTROOM",
+    "converted": "\\ud83d\\udebb"
+  },
+  {
+    "unicode": "U+1F6BC",
+    "name": "BABY SYMBOL",
+    "converted": "\\ud83d\\udebc"
+  },
+  {
+    "unicode": "U+1F6BE",
+    "name": "WATER CLOSET",
+    "converted": "\\ud83d\\udebe"
+  },
+  {
+    "unicode": "U+1F6C2",
+    "name": "PASSPORT CONTROL",
+    "converted": "\\ud83d\\udec2"
+  },
+  {
+    "unicode": "U+1F6C3",
+    "name": "CUSTOMS",
+    "converted": "\\ud83d\\udec3"
+  },
+  {
+    "unicode": "U+1F6C4",
+    "name": "BAGGAGE CLAIM",
+    "converted": "\\ud83d\\udec4"
+  },
+  {
+    "unicode": "U+1F6C5",
+    "name": "LEFT LUGGAGE",
+    "converted": "\\ud83d\\udec5"
+  },
+  {
+    "unicode": "U+1F6B8",
+    "name": "CHILDREN CROSSING",
+    "converted": "\\ud83d\\udeb8"
+  },
+  {
+    "unicode": "U+1F6AB",
+    "name": "NO ENTRY SIGN≊ prohibited",
+    "converted": "\\ud83d\\udeab"
+  },
+  {
+    "unicode": "U+1F6B3",
+    "name": "NO BICYCLES",
+    "converted": "\\ud83d\\udeb3"
+  },
+  {
+    "unicode": "U+1F6AD",
+    "name": "NO SMOKING SYMBOL≊ no smoking",
+    "converted": "\\ud83d\\udead"
+  },
+  {
+    "unicode": "U+1F6AF",
+    "name": "DO NOT LITTER SYMBOL≊ no littering",
+    "converted": "\\ud83d\\udeaf"
+  },
+  {
+    "unicode": "U+1F6B1",
+    "name": "NON-POTABLE WATER SYMBOL≊ non-potable water",
+    "converted": "\\ud83d\\udeb1"
+  },
+  {
+    "unicode": "U+1F6B7",
+    "name": "NO PEDESTRIANS",
+    "converted": "\\ud83d\\udeb7"
+  },
+  {
+    "unicode": "U+1F4F5",
+    "name": "NO MOBILE PHONES",
+    "converted": "\\ud83d\\udcf5"
+  },
+  {
+    "unicode": "U+1F51E",
+    "name": "NO ONE UNDER EIGHTEEN SYMBOL≊ no one under eighteen",
+    "converted": "\\ud83d\\udd1e"
+  },
+  {
+    "unicode": "U+1F503",
+    "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS≊ clockwise vertical arrows",
+    "converted": "\\ud83d\\udd03"
+  },
+  {
+    "unicode": "U+1F504",
+    "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS≊ anticlockwise arrows button",
+    "converted": "\\ud83d\\udd04"
+  },
+  {
+    "unicode": "U+1F519",
+    "name": "BACK WITH LEFTWARDS ARROW ABOVE≊ back arrow",
+    "converted": "\\ud83d\\udd19"
+  },
+  {
+    "unicode": "U+1F51A",
+    "name": "END WITH LEFTWARDS ARROW ABOVE≊ end arrow",
+    "converted": "\\ud83d\\udd1a"
+  },
+  {
+    "unicode": "U+1F51B",
+    "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE≊ on! arrow",
+    "converted": "\\ud83d\\udd1b"
+  },
+  {
+    "unicode": "U+1F51C",
+    "name": "SOON WITH RIGHTWARDS ARROW ABOVE≊ soon arrow",
+    "converted": "\\ud83d\\udd1c"
+  },
+  {
+    "unicode": "U+1F51D",
+    "name": "TOP WITH UPWARDS ARROW ABOVE≊ top arrow",
+    "converted": "\\ud83d\\udd1d"
+  },
+  {
+    "unicode": "U+1F6D0",
+    "name": "PLACE OF WORSHIP",
+    "converted": "\\ud83d\\uded0"
+  },
+  {
+    "unicode": "U+1F549",
+    "name": "OM SYMBOL≊ om",
+    "converted": "\\ud83d\\udd49"
+  },
+  {
+    "unicode": "U+1F54E",
+    "name": "MENORAH WITH NINE BRANCHES≊ menorah",
+    "converted": "\\ud83d\\udd4e"
+  },
+  {
+    "unicode": "U+1F52F",
+    "name": "SIX POINTED STAR WITH MIDDLE DOT≊ dotted six-pointed star",
+    "converted": "\\ud83d\\udd2f"
+  },
+  {
+    "unicode": "U+1F4DB",
+    "name": "NAME BADGE",
+    "converted": "\\ud83d\\udcdb"
+  },
+  {
+    "unicode": "U+1F530",
+    "name": "JAPANESE SYMBOL FOR BEGINNER",
+    "converted": "\\ud83d\\udd30"
+  },
+  {
+    "unicode": "U+1F531",
+    "name": "TRIDENT EMBLEM",
+    "converted": "\\ud83d\\udd31"
+  },
+  {
+    "unicode": "U+1F500",
+    "name": "TWISTED RIGHTWARDS ARROWS≊ shuffle tracks button",
+    "converted": "\\ud83d\\udd00"
+  },
+  {
+    "unicode": "U+1F501",
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS≊ repeat button",
+    "converted": "\\ud83d\\udd01"
+  },
+  {
+    "unicode": "U+1F502",
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY≊ repeat single button",
+    "converted": "\\ud83d\\udd02"
+  },
+  {
+    "unicode": "U+1F53C",
+    "name": "UP-POINTING SMALL RED TRIANGLE≊ up button",
+    "converted": "\\ud83d\\udd3c"
+  },
+  {
+    "unicode": "U+1F53D",
+    "name": "DOWN-POINTING SMALL RED TRIANGLE≊ down button",
+    "converted": "\\ud83d\\udd3d"
+  },
+  {
+    "unicode": "U+1F3A6",
+    "name": "CINEMA",
+    "converted": "\\ud83c\\udfa6"
+  },
+  {
+    "unicode": "U+1F505",
+    "name": "LOW BRIGHTNESS SYMBOL≊ dim button",
+    "converted": "\\ud83d\\udd05"
+  },
+  {
+    "unicode": "U+1F506",
+    "name": "HIGH BRIGHTNESS SYMBOL≊ bright button",
+    "converted": "\\ud83d\\udd06"
+  },
+  {
+    "unicode": "U+1F4F6",
+    "name": "ANTENNA WITH BARS≊ antenna bars",
+    "converted": "\\ud83d\\udcf6"
+  },
+  {
+    "unicode": "U+1F4F3",
+    "name": "VIBRATION MODE",
+    "converted": "\\ud83d\\udcf3"
+  },
+  {
+    "unicode": "U+1F4F4",
+    "name": "MOBILE PHONE OFF",
+    "converted": "\\ud83d\\udcf4"
+  },
+  {
+    "unicode": "U+1F51F",
+    "name": "KEYCAP TEN",
+    "converted": "\\ud83d\\udd1f"
+  },
+  {
+    "unicode": "U+1F4AF",
+    "name": "HUNDRED POINTS SYMBOL≊ hundred points",
+    "converted": "\\ud83d\\udcaf"
+  },
+  {
+    "unicode": "U+1F520",
+    "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS≊ input latin uppercase",
+    "converted": "\\ud83d\\udd20"
+  },
+  {
+    "unicode": "U+1F521",
+    "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS≊ input latin lowercase",
+    "converted": "\\ud83d\\udd21"
+  },
+  {
+    "unicode": "U+1F522",
+    "name": "INPUT SYMBOL FOR NUMBERS≊ input numbers",
+    "converted": "\\ud83d\\udd22"
+  },
+  {
+    "unicode": "U+1F523",
+    "name": "INPUT SYMBOL FOR SYMBOLS≊ input symbols",
+    "converted": "\\ud83d\\udd23"
+  },
+  {
+    "unicode": "U+1F524",
+    "name": "INPUT SYMBOL FOR LATIN LETTERS≊ input latin letters",
+    "converted": "\\ud83d\\udd24"
+  },
+  {
+    "unicode": "U+1F170",
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A≊ a button",
+    "converted": "\\ud83c\\udd70"
+  },
+  {
+    "unicode": "U+1F18E",
+    "name": "NEGATIVE SQUARED AB≊ ab button",
+    "converted": "\\ud83c\\udd8e"
+  },
+  {
+    "unicode": "U+1F171",
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B≊ b button",
+    "converted": "\\ud83c\\udd71"
+  },
+  {
+    "unicode": "U+1F191",
+    "name": "SQUARED CL",
+    "converted": "\\ud83c\\udd91"
+  },
+  {
+    "unicode": "U+1F192",
+    "name": "SQUARED COOL",
+    "converted": "\\ud83c\\udd92"
+  },
+  {
+    "unicode": "U+1F193",
+    "name": "SQUARED FREE",
+    "converted": "\\ud83c\\udd93"
+  },
+  {
+    "unicode": "U+1F194",
+    "name": "SQUARED ID",
+    "converted": "\\ud83c\\udd94"
+  },
+  {
+    "unicode": "U+1F195",
+    "name": "SQUARED NEW",
+    "converted": "\\ud83c\\udd95"
+  },
+  {
+    "unicode": "U+1F196",
+    "name": "SQUARED NG",
+    "converted": "\\ud83c\\udd96"
+  },
+  {
+    "unicode": "U+1F17E",
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O≊ o button",
+    "converted": "\\ud83c\\udd7e"
+  },
+  {
+    "unicode": "U+1F197",
+    "name": "SQUARED OK",
+    "converted": "\\ud83c\\udd97"
+  },
+  {
+    "unicode": "U+1F17F",
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P≊ p button",
+    "converted": "\\ud83c\\udd7f"
+  },
+  {
+    "unicode": "U+1F198",
+    "name": "SQUARED SOS",
+    "converted": "\\ud83c\\udd98"
+  },
+  {
+    "unicode": "U+1F199",
+    "name": "SQUARED UP WITH EXCLAMATION MARK≊ up! button",
+    "converted": "\\ud83c\\udd99"
+  },
+  {
+    "unicode": "U+1F19A",
+    "name": "SQUARED VS",
+    "converted": "\\ud83c\\udd9a"
+  },
+  {
+    "unicode": "U+1F201",
+    "name": "SQUARED KATAKANA KOKO",
+    "converted": "\\ud83c\\ude01"
+  },
+  {
+    "unicode": "U+1F202",
+    "name": "SQUARED KATAKANA SA",
+    "converted": "\\ud83c\\ude02"
+  },
+  {
+    "unicode": "U+1F237",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708≊ squared moon ideograph",
+    "converted": "\\ud83c\\ude37"
+  },
+  {
+    "unicode": "U+1F236",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709≊ squared exist ideograph",
+    "converted": "\\ud83c\\ude36"
+  },
+  {
+    "unicode": "U+1F22F",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307≊ squared finger ideograph",
+    "converted": "\\ud83c\\ude2f"
+  },
+  {
+    "unicode": "U+1F250",
+    "name": "CIRCLED IDEOGRAPH ADVANTAGE≊ circled advantage ideograph",
+    "converted": "\\ud83c\\ude50"
+  },
+  {
+    "unicode": "U+1F239",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272≊ squared divide ideograph",
+    "converted": "\\ud83c\\ude39"
+  },
+  {
+    "unicode": "U+1F21A",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121≊ squared negation ideograph",
+    "converted": "\\ud83c\\ude1a"
+  },
+  {
+    "unicode": "U+1F232",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981≊ squared prohibit ideograph",
+    "converted": "\\ud83c\\ude32"
+  },
+  {
+    "unicode": "U+1F251",
+    "name": "CIRCLED IDEOGRAPH ACCEPT≊ circled accept ideograph",
+    "converted": "\\ud83c\\ude51"
+  },
+  {
+    "unicode": "U+1F238",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533≊ squared apply ideograph",
+    "converted": "\\ud83c\\ude38"
+  },
+  {
+    "unicode": "U+1F234",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408≊ squared together ideograph",
+    "converted": "\\ud83c\\ude34"
+  },
+  {
+    "unicode": "U+1F233",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A≊ squared empty ideograph",
+    "converted": "\\ud83c\\ude33"
+  },
+  {
+    "unicode": "U+1F23A",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6≊ squared operating ideograph",
+    "converted": "\\ud83c\\ude3a"
+  },
+  {
+    "unicode": "U+1F235",
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80≊ squared fullness ideograph",
+    "converted": "\\ud83c\\ude35"
+  },
+  {
+    "unicode": "U+1F536",
+    "name": "LARGE ORANGE DIAMOND",
+    "converted": "\\ud83d\\udd36"
+  },
+  {
+    "unicode": "U+1F537",
+    "name": "LARGE BLUE DIAMOND",
+    "converted": "\\ud83d\\udd37"
+  },
+  {
+    "unicode": "U+1F538",
+    "name": "SMALL ORANGE DIAMOND",
+    "converted": "\\ud83d\\udd38"
+  },
+  {
+    "unicode": "U+1F539",
+    "name": "SMALL BLUE DIAMOND",
+    "converted": "\\ud83d\\udd39"
+  },
+  {
+    "unicode": "U+1F53A",
+    "name": "UP-POINTING RED TRIANGLE≊ red triangle pointed up",
+    "converted": "\\ud83d\\udd3a"
+  },
+  {
+    "unicode": "U+1F53B",
+    "name": "DOWN-POINTING RED TRIANGLE≊ red triangle pointed down",
+    "converted": "\\ud83d\\udd3b"
+  },
+  {
+    "unicode": "U+1F4A0",
+    "name": "DIAMOND SHAPE WITH A DOT INSIDE≊ diamond with a dot",
+    "converted": "\\ud83d\\udca0"
+  },
+  {
+    "unicode": "U+1F518",
+    "name": "RADIO BUTTON",
+    "converted": "\\ud83d\\udd18"
+  },
+  {
+    "unicode": "U+1F532",
+    "name": "BLACK SQUARE BUTTON",
+    "converted": "\\ud83d\\udd32"
+  },
+  {
+    "unicode": "U+1F533",
+    "name": "WHITE SQUARE BUTTON",
+    "converted": "\\ud83d\\udd33"
+  },
+  {
+    "unicode": "U+1F534",
+    "name": "LARGE RED CIRCLE≊ red circle",
+    "converted": "\\ud83d\\udd34"
+  },
+  {
+    "unicode": "U+1F535",
+    "name": "LARGE BLUE CIRCLE≊ blue circle",
+    "converted": "\\ud83d\\udd35"
+  },
+  {
+    "unicode": "U+1F3C1",
+    "name": "CHEQUERED FLAG",
+    "converted": "\\ud83c\\udfc1"
+  },
+  {
+    "unicode": "U+1F6A9",
+    "name": "TRIANGULAR FLAG ON POST≊ triangular flag",
+    "converted": "\\ud83d\\udea9"
+  },
+  {
+    "unicode": "U+1F38C",
+    "name": "CROSSED FLAGS",
+    "converted": "\\ud83c\\udf8c"
+  },
+  {
+    "unicode": "U+1F3F4",
+    "name": "WAVING BLACK FLAG",
+    "converted": "\\ud83c\\udff4"
+  },
+  {
+    "unicode": "U+1F3F3",
+    "name": "WAVING WHITE FLAG",
+    "converted": "\\ud83c\\udff3"
+  },
+  {
+    "unicode": "U+263A",
+    "name": "WHITE SMILING FACE≊ smiling face",
+    "converted": "\\u263a"
+  },
+  {
+    "unicode": "U+2639",
+    "name": "WHITE FROWNING FACE≊ frowning face",
+    "converted": "\\u2639"
+  },
+  {
+    "unicode": "U+2620",
+    "name": "SKULL AND CROSSBONES",
+    "converted": "\\u2620"
+  },
+  {
+    "unicode": "U+26D1",
+    "name": "HELMET WITH WHITE CROSS",
+    "converted": "\\u26d1"
+  },
+  {
+    "unicode": "U+261D",
+    "name": "WHITE UP POINTING INDEX≊ index pointing up",
+    "converted": "\\u261d"
+  },
+  {
+    "unicode": "U+270C",
+    "name": "VICTORY HAND",
+    "converted": "\\u270c"
+  },
+  {
+    "unicode": "U+270B",
+    "name": "RAISED HAND",
+    "converted": "\\u270b"
+  },
+  {
+    "unicode": "U+270A",
+    "name": "RAISED FIST",
+    "converted": "\\u270a"
+  },
+  {
+    "unicode": "U+270D",
+    "name": "WRITING HAND",
+    "converted": "\\u270d"
+  },
+  {
+    "unicode": "U+2764",
+    "name": "HEAVY BLACK HEART≊ red heart",
+    "converted": "\\u2764"
+  },
+  {
+    "unicode": "U+2763",
+    "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+    "converted": "\\u2763"
+  },
+  {
+    "unicode": "U+2618",
+    "name": "SHAMROCK",
+    "converted": "\\u2618"
+  },
+  {
+    "unicode": "U+2615",
+    "name": "HOT BEVERAGE",
+    "converted": "\\u2615"
+  },
+  {
+    "unicode": "U+26F0",
+    "name": "MOUNTAIN",
+    "converted": "\\u26f0"
+  },
+  {
+    "unicode": "U+26EA",
+    "name": "CHURCH",
+    "converted": "\\u26ea"
+  },
+  {
+    "unicode": "U+26E9",
+    "name": "SHINTO SHRINE",
+    "converted": "\\u26e9"
+  },
+  {
+    "unicode": "U+26F2",
+    "name": "FOUNTAIN",
+    "converted": "\\u26f2"
+  },
+  {
+    "unicode": "U+26FA",
+    "name": "TENT",
+    "converted": "\\u26fa"
+  },
+  {
+    "unicode": "U+2668",
+    "name": "HOT SPRINGS",
+    "converted": "\\u2668"
+  },
+  {
+    "unicode": "U+26FD",
+    "name": "FUEL PUMP",
+    "converted": "\\u26fd"
+  },
+  {
+    "unicode": "U+2693",
+    "name": "ANCHOR",
+    "converted": "\\u2693"
+  },
+  {
+    "unicode": "U+26F5",
+    "name": "SAILBOAT",
+    "converted": "\\u26f5"
+  },
+  {
+    "unicode": "U+26F4",
+    "name": "FERRY",
+    "converted": "\\u26f4"
+  },
+  {
+    "unicode": "U+2708",
+    "name": "AIRPLANE",
+    "converted": "\\u2708"
+  },
+  {
+    "unicode": "U+231B",
+    "name": "HOURGLASS",
+    "converted": "\\u231b"
+  },
+  {
+    "unicode": "U+23F3",
+    "name": "HOURGLASS WITH FLOWING SAND",
+    "converted": "\\u23f3"
+  },
+  {
+    "unicode": "U+231A",
+    "name": "WATCH",
+    "converted": "\\u231a"
+  },
+  {
+    "unicode": "U+23F0",
+    "name": "ALARM CLOCK",
+    "converted": "\\u23f0"
+  },
+  {
+    "unicode": "U+23F1",
+    "name": "STOPWATCH",
+    "converted": "\\u23f1"
+  },
+  {
+    "unicode": "U+23F2",
+    "name": "TIMER CLOCK",
+    "converted": "\\u23f2"
+  },
+  {
+    "unicode": "U+2600",
+    "name": "BLACK SUN WITH RAYS≊ sun",
+    "converted": "\\u2600"
+  },
+  {
+    "unicode": "U+2B50",
+    "name": "WHITE MEDIUM STAR",
+    "converted": "\\u2b50"
+  },
+  {
+    "unicode": "U+2601",
+    "name": "CLOUD",
+    "converted": "\\u2601"
+  },
+  {
+    "unicode": "U+26C5",
+    "name": "SUN BEHIND CLOUD",
+    "converted": "\\u26c5"
+  },
+  {
+    "unicode": "U+26C8",
+    "name": "THUNDER CLOUD AND RAIN≊ cloud with lightning and rain",
+    "converted": "\\u26c8"
+  },
+  {
+    "unicode": "U+2602",
+    "name": "UMBRELLA",
+    "converted": "\\u2602"
+  },
+  {
+    "unicode": "U+2614",
+    "name": "UMBRELLA WITH RAIN DROPS",
+    "converted": "\\u2614"
+  },
+  {
+    "unicode": "U+26F1",
+    "name": "UMBRELLA ON GROUND",
+    "converted": "\\u26f1"
+  },
+  {
+    "unicode": "U+26A1",
+    "name": "HIGH VOLTAGE SIGN≊ high voltage",
+    "converted": "\\u26a1"
+  },
+  {
+    "unicode": "U+2744",
+    "name": "SNOWFLAKE",
+    "converted": "\\u2744"
+  },
+  {
+    "unicode": "U+2603",
+    "name": "SNOWMAN",
+    "converted": "\\u2603"
+  },
+  {
+    "unicode": "U+26C4",
+    "name": "SNOWMAN WITHOUT SNOW",
+    "converted": "\\u26c4"
+  },
+  {
+    "unicode": "U+2604",
+    "name": "COMET",
+    "converted": "\\u2604"
+  },
+  {
+    "unicode": "U+2728",
+    "name": "SPARKLES",
+    "converted": "\\u2728"
+  },
+  {
+    "unicode": "U+26BD",
+    "name": "SOCCER BALL",
+    "converted": "\\u26bd"
+  },
+  {
+    "unicode": "U+26BE",
+    "name": "BASEBALL",
+    "converted": "\\u26be"
+  },
+  {
+    "unicode": "U+26F3",
+    "name": "FLAG IN HOLE",
+    "converted": "\\u26f3"
+  },
+  {
+    "unicode": "U+26F8",
+    "name": "ICE SKATE",
+    "converted": "\\u26f8"
+  },
+  {
+    "unicode": "U+26F7",
+    "name": "SKIER",
+    "converted": "\\u26f7"
+  },
+  {
+    "unicode": "U+26F9",
+    "name": "PERSON WITH BALL",
+    "converted": "\\u26f9"
+  },
+  {
+    "unicode": "U+2660",
+    "name": "BLACK SPADE SUIT≊ spade suit",
+    "converted": "\\u2660"
+  },
+  {
+    "unicode": "U+2665",
+    "name": "BLACK HEART SUIT≊ heart suit",
+    "converted": "\\u2665"
+  },
+  {
+    "unicode": "U+2666",
+    "name": "BLACK DIAMOND SUIT≊ diamond suit",
+    "converted": "\\u2666"
+  },
+  {
+    "unicode": "U+2663",
+    "name": "BLACK CLUB SUIT≊ club suit",
+    "converted": "\\u2663"
+  },
+  {
+    "unicode": "U+260E",
+    "name": "BLACK TELEPHONE≊ telephone",
+    "converted": "\\u260e"
+  },
+  {
+    "unicode": "U+2328",
+    "name": "KEYBOARD",
+    "converted": "\\u2328"
+  },
+  {
+    "unicode": "U+2709",
+    "name": "ENVELOPE",
+    "converted": "\\u2709"
+  },
+  {
+    "unicode": "U+270F",
+    "name": "PENCIL",
+    "converted": "\\u270f"
+  },
+  {
+    "unicode": "U+2712",
+    "name": "BLACK NIB",
+    "converted": "\\u2712"
+  },
+  {
+    "unicode": "U+2702",
+    "name": "BLACK SCISSORS≊ scissors",
+    "converted": "\\u2702"
+  },
+  {
+    "unicode": "U+26CF",
+    "name": "PICK",
+    "converted": "\\u26cf"
+  },
+  {
+    "unicode": "U+2692",
+    "name": "HAMMER AND PICK",
+    "converted": "\\u2692"
+  },
+  {
+    "unicode": "U+2694",
+    "name": "CROSSED SWORDS",
+    "converted": "\\u2694"
+  },
+  {
+    "unicode": "U+2699",
+    "name": "GEAR",
+    "converted": "\\u2699"
+  },
+  {
+    "unicode": "U+2697",
+    "name": "ALEMBIC",
+    "converted": "\\u2697"
+  },
+  {
+    "unicode": "U+2696",
+    "name": "SCALES≊ balance scale",
+    "converted": "\\u2696"
+  },
+  {
+    "unicode": "U+26D3",
+    "name": "CHAINS",
+    "converted": "\\u26d3"
+  },
+  {
+    "unicode": "U+26B0",
+    "name": "COFFIN",
+    "converted": "\\u26b0"
+  },
+  {
+    "unicode": "U+26B1",
+    "name": "FUNERAL URN",
+    "converted": "\\u26b1"
+  },
+  {
+    "unicode": "U+267F",
+    "name": "WHEELCHAIR SYMBOL≊ wheelchair",
+    "converted": "\\u267f"
+  },
+  {
+    "unicode": "U+26A0",
+    "name": "WARNING SIGN≊ warning",
+    "converted": "\\u26a0"
+  },
+  {
+    "unicode": "U+26D4",
+    "name": "NO ENTRY",
+    "converted": "\\u26d4"
+  },
+  {
+    "unicode": "U+2622",
+    "name": "RADIOACTIVE SIGN≊ radioactive",
+    "converted": "\\u2622"
+  },
+  {
+    "unicode": "U+2623",
+    "name": "BIOHAZARD SIGN≊ biohazard",
+    "converted": "\\u2623"
+  },
+  {
+    "unicode": "U+2B06",
+    "name": "UPWARDS BLACK ARROW≊ up arrow",
+    "converted": "\\u2b06"
+  },
+  {
+    "unicode": "U+2197",
+    "name": "NORTH EAST ARROW≊ up-right arrow",
+    "converted": "\\u2197"
+  },
+  {
+    "unicode": "U+27A1",
+    "name": "BLACK RIGHTWARDS ARROW≊ right arrow",
+    "converted": "\\u27a1"
+  },
+  {
+    "unicode": "U+2198",
+    "name": "SOUTH EAST ARROW≊ down-right arrow",
+    "converted": "\\u2198"
+  },
+  {
+    "unicode": "U+2B07",
+    "name": "DOWNWARDS BLACK ARROW≊ down arrow",
+    "converted": "\\u2b07"
+  },
+  {
+    "unicode": "U+2199",
+    "name": "SOUTH WEST ARROW≊ down-left arrow",
+    "converted": "\\u2199"
+  },
+  {
+    "unicode": "U+2B05",
+    "name": "LEFTWARDS BLACK ARROW≊ left arrow",
+    "converted": "\\u2b05"
+  },
+  {
+    "unicode": "U+2196",
+    "name": "NORTH WEST ARROW≊ up-left arrow",
+    "converted": "\\u2196"
+  },
+  {
+    "unicode": "U+2195",
+    "name": "UP DOWN ARROW≊ up-down arrow",
+    "converted": "\\u2195"
+  },
+  {
+    "unicode": "U+2194",
+    "name": "LEFT RIGHT ARROW≊ left-right arrow",
+    "converted": "\\u2194"
+  },
+  {
+    "unicode": "U+21A9",
+    "name": "LEFTWARDS ARROW WITH HOOK≊ right arrow curving left",
+    "converted": "\\u21a9"
+  },
+  {
+    "unicode": "U+21AA",
+    "name": "RIGHTWARDS ARROW WITH HOOK≊ left arrow curving right",
+    "converted": "\\u21aa"
+  },
+  {
+    "unicode": "U+2934",
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS≊ right arrow curving up",
+    "converted": "\\u2934"
+  },
+  {
+    "unicode": "U+2935",
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS≊ right arrow curving down",
+    "converted": "\\u2935"
+  },
+  {
+    "unicode": "U+269B",
+    "name": "ATOM SYMBOL",
+    "converted": "\\u269b"
+  },
+  {
+    "unicode": "U+2721",
+    "name": "STAR OF DAVID",
+    "converted": "\\u2721"
+  },
+  {
+    "unicode": "U+2638",
+    "name": "WHEEL OF DHARMA",
+    "converted": "\\u2638"
+  },
+  {
+    "unicode": "U+262F",
+    "name": "YIN YANG",
+    "converted": "\\u262f"
+  },
+  {
+    "unicode": "U+271D",
+    "name": "LATIN CROSS",
+    "converted": "\\u271d"
+  },
+  {
+    "unicode": "U+2626",
+    "name": "ORTHODOX CROSS",
+    "converted": "\\u2626"
+  },
+  {
+    "unicode": "U+262A",
+    "name": "STAR AND CRESCENT",
+    "converted": "\\u262a"
+  },
+  {
+    "unicode": "U+262E",
+    "name": "PEACE SYMBOL",
+    "converted": "\\u262e"
+  },
+  {
+    "unicode": "U+267B",
+    "name": "BLACK UNIVERSAL RECYCLING SYMBOL≊ recycling symbol",
+    "converted": "\\u267b"
+  },
+  {
+    "unicode": "U+269C",
+    "name": "FLEUR-DE-LIS",
+    "converted": "\\u269c"
+  },
+  {
+    "unicode": "U+2B55",
+    "name": "HEAVY LARGE CIRCLE",
+    "converted": "\\u2b55"
+  },
+  {
+    "unicode": "U+2705",
+    "name": "WHITE HEAVY CHECK MARK",
+    "converted": "\\u2705"
+  },
+  {
+    "unicode": "U+2611",
+    "name": "BALLOT BOX WITH CHECK",
+    "converted": "\\u2611"
+  },
+  {
+    "unicode": "U+2714",
+    "name": "HEAVY CHECK MARK",
+    "converted": "\\u2714"
+  },
+  {
+    "unicode": "U+2716",
+    "name": "HEAVY MULTIPLICATION X",
+    "converted": "\\u2716"
+  },
+  {
+    "unicode": "U+274C",
+    "name": "CROSS MARK",
+    "converted": "\\u274c"
+  },
+  {
+    "unicode": "U+274E",
+    "name": "NEGATIVE SQUARED CROSS MARK≊ cross mark button",
+    "converted": "\\u274e"
+  },
+  {
+    "unicode": "U+2795",
+    "name": "HEAVY PLUS SIGN",
+    "converted": "\\u2795"
+  },
+  {
+    "unicode": "U+2796",
+    "name": "HEAVY MINUS SIGN",
+    "converted": "\\u2796"
+  },
+  {
+    "unicode": "U+2797",
+    "name": "HEAVY DIVISION SIGN",
+    "converted": "\\u2797"
+  },
+  {
+    "unicode": "U+27B0",
+    "name": "CURLY LOOP",
+    "converted": "\\u27b0"
+  },
+  {
+    "unicode": "U+27BF",
+    "name": "DOUBLE CURLY LOOP",
+    "converted": "\\u27bf"
+  },
+  {
+    "unicode": "U+303D",
+    "name": "PART ALTERNATION MARK",
+    "converted": "\\u303d"
+  },
+  {
+    "unicode": "U+2733",
+    "name": "EIGHT SPOKED ASTERISK≊ eight-spoked asterisk",
+    "converted": "\\u2733"
+  },
+  {
+    "unicode": "U+2734",
+    "name": "EIGHT POINTED BLACK STAR≊ eight-pointed star",
+    "converted": "\\u2734"
+  },
+  {
+    "unicode": "U+2747",
+    "name": "SPARKLE",
+    "converted": "\\u2747"
+  },
+  {
+    "unicode": "U+203C",
+    "name": "DOUBLE EXCLAMATION MARK",
+    "converted": "\\u203c"
+  },
+  {
+    "unicode": "U+2049",
+    "name": "EXCLAMATION QUESTION MARK",
+    "converted": "\\u2049"
+  },
+  {
+    "unicode": "U+2753",
+    "name": "BLACK QUESTION MARK ORNAMENT≊ question mark",
+    "converted": "\\u2753"
+  },
+  {
+    "unicode": "U+2754",
+    "name": "WHITE QUESTION MARK ORNAMENT≊ white question mark",
+    "converted": "\\u2754"
+  },
+  {
+    "unicode": "U+2755",
+    "name": "WHITE EXCLAMATION MARK ORNAMENT≊ white exclamation mark",
+    "converted": "\\u2755"
+  },
+  {
+    "unicode": "U+2757",
+    "name": "HEAVY EXCLAMATION MARK SYMBOL≊ exclamation mark",
+    "converted": "\\u2757"
+  },
+  {
+    "unicode": "U+3030",
+    "name": "WAVY DASH",
+    "converted": "\\u3030"
+  },
+  {
+    "unicode": "U+00A9",
+    "name": "COPYRIGHT SIGN≊ copyright",
+    "converted": "\\u00a9"
+  },
+  {
+    "unicode": "U+00AE",
+    "name": "REGISTERED SIGN≊ registered",
+    "converted": "\\u00ae"
+  },
+  {
+    "unicode": "U+2122",
+    "name": "TRADE MARK SIGN≊ trade mark",
+    "converted": "\\u2122"
+  },
+  {
+    "unicode": "U+2648",
+    "name": "ARIES",
+    "converted": "\\u2648"
+  },
+  {
+    "unicode": "U+2649",
+    "name": "TAURUS",
+    "converted": "\\u2649"
+  },
+  {
+    "unicode": "U+264A",
+    "name": "GEMINI",
+    "converted": "\\u264a"
+  },
+  {
+    "unicode": "U+264B",
+    "name": "CANCER",
+    "converted": "\\u264b"
+  },
+  {
+    "unicode": "U+264C",
+    "name": "LEO",
+    "converted": "\\u264c"
+  },
+  {
+    "unicode": "U+264D",
+    "name": "VIRGO",
+    "converted": "\\u264d"
+  },
+  {
+    "unicode": "U+264E",
+    "name": "LIBRA",
+    "converted": "\\u264e"
+  },
+  {
+    "unicode": "U+264F",
+    "name": "SCORPIUS",
+    "converted": "\\u264f"
+  },
+  {
+    "unicode": "U+2650",
+    "name": "SAGITTARIUS",
+    "converted": "\\u2650"
+  },
+  {
+    "unicode": "U+2651",
+    "name": "CAPRICORN",
+    "converted": "\\u2651"
+  },
+  {
+    "unicode": "U+2652",
+    "name": "AQUARIUS",
+    "converted": "\\u2652"
+  },
+  {
+    "unicode": "U+2653",
+    "name": "PISCES",
+    "converted": "\\u2653"
+  },
+  {
+    "unicode": "U+26CE",
+    "name": "OPHIUCHUS",
+    "converted": "\\u26ce"
+  },
+  {
+    "unicode": "U+25B6",
+    "name": "BLACK RIGHT-POINTING TRIANGLE≊ play button",
+    "converted": "\\u25b6"
+  },
+  {
+    "unicode": "U+23E9",
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE≊ fast-forword button",
+    "converted": "\\u23e9"
+  },
+  {
+    "unicode": "U+23ED",
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR≊ next track button",
+    "converted": "\\u23ed"
+  },
+  {
+    "unicode": "U+23EF",
+    "name": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR≊ play or pause button",
+    "converted": "\\u23ef"
+  },
+  {
+    "unicode": "U+25C0",
+    "name": "BLACK LEFT-POINTING TRIANGLE≊ reverse button",
+    "converted": "\\u25c0"
+  },
+  {
+    "unicode": "U+23EA",
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE≊ fast reverse button",
+    "converted": "\\u23ea"
+  },
+  {
+    "unicode": "U+23EE",
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR≊ last track button",
+    "converted": "\\u23ee"
+  },
+  {
+    "unicode": "U+23EB",
+    "name": "BLACK UP-POINTING DOUBLE TRIANGLE≊ fast up button",
+    "converted": "\\u23eb"
+  },
+  {
+    "unicode": "U+23EC",
+    "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE≊ fast down button",
+    "converted": "\\u23ec"
+  },
+  {
+    "unicode": "U+23F8",
+    "name": "DOUBLE VERTICAL BAR≊ pause button",
+    "converted": "\\u23f8"
+  },
+  {
+    "unicode": "U+23F9",
+    "name": "BLACK SQUARE FOR STOP≊ stop button",
+    "converted": "\\u23f9"
+  },
+  {
+    "unicode": "U+23FA",
+    "name": "BLACK CIRCLE FOR RECORD≊ record button",
+    "converted": "\\u23fa"
+  },
+  {
+    "unicode": "U+23CF",
+    "name": "EJECT SYMBOL≊ eject button",
+    "converted": "\\u23cf"
+  },
+  {
+    "unicode": "U+2139",
+    "name": "INFORMATION SOURCE",
+    "converted": "\\u2139"
+  },
+  {
+    "unicode": "U+24C2",
+    "name": "CIRCLED LATIN CAPITAL LETTER M≊ circled letter m",
+    "converted": "\\u24c2"
+  },
+  {
+    "unicode": "U+3297",
+    "name": "CIRCLED IDEOGRAPH CONGRATULATION≊ circled congratulate ideograph",
+    "converted": "\\u3297"
+  },
+  {
+    "unicode": "U+3299",
+    "name": "CIRCLED IDEOGRAPH SECRET≊ circled secret ideograph",
+    "converted": "\\u3299"
+  },
+  {
+    "unicode": "U+25AA",
+    "name": "BLACK SMALL SQUARE",
+    "converted": "\\u25aa"
+  },
+  {
+    "unicode": "U+25AB",
+    "name": "WHITE SMALL SQUARE",
+    "converted": "\\u25ab"
+  },
+  {
+    "unicode": "U+25FB",
+    "name": "WHITE MEDIUM SQUARE",
+    "converted": "\\u25fb"
+  },
+  {
+    "unicode": "U+25FC",
+    "name": "BLACK MEDIUM SQUARE",
+    "converted": "\\u25fc"
+  },
+  {
+    "unicode": "U+25FD",
+    "name": "WHITE MEDIUM SMALL SQUARE≊ white medium-small square",
+    "converted": "\\u25fd"
+  },
+  {
+    "unicode": "U+25FE",
+    "name": "BLACK MEDIUM SMALL SQUARE≊ black medium-small square",
+    "converted": "\\u25fe"
+  },
+  {
+    "unicode": "U+2B1B",
+    "name": "BLACK LARGE SQUARE",
+    "converted": "\\u2b1b"
+  },
+  {
+    "unicode": "U+2B1C",
+    "name": "WHITE LARGE SQUARE",
+    "converted": "\\u2b1c"
+  },
+  {
+    "unicode": "U+26AA",
+    "name": "MEDIUM WHITE CIRCLE≊ white circle",
+    "converted": "\\u26aa"
+  },
+  {
+    "unicode": "U+26AB",
+    "name": "MEDIUM BLACK CIRCLE≊ black circle",
+    "converted": "\\u26ab"
+  }
+]
