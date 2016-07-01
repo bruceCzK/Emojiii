@@ -105,13 +105,13 @@
     "converted": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67"
   },
   {
-    "unicode": "U+1F441 U+FE0F U+200D U+1F5E8 U+FE0F",
+    "unicode": "U+1F441 U+200D U+1F5E8",
     "name": "EYE, LEFT SPEECH BUBBLE≊ eye in speech bubble",
-    "converted": "\\ud83d\\udc41\\ufe0f\\u200d\\ud83d\\udde8\\ufe0f"
+    "converted": "\\ud83d\\udc41\\u200d\\ud83d\\udde8"
   },
   {
     "unicode": "U+0023 U+FE0F U+20E3",
-    "name": "Keycap NUMBER SIGN≊ keycap number",
+    "name": "Keycap NUMBER SIGN",
     "converted": "\\u0023\\ufe0f\\u20e3"
   },
   {
@@ -171,2887 +171,3362 @@
   },
   {
     "unicode": "U+1F466 U+1F3FB",
-    "name": "BOY, TYPE-1-2",
+    "name": "Boy, type-1-2",
     "converted": "\\ud83d\\udc66\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F466 U+1F3FC",
-    "name": "BOY, TYPE-3",
+    "name": "Boy, type-3",
     "converted": "\\ud83d\\udc66\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F466 U+1F3FD",
-    "name": "BOY, TYPE-4",
+    "name": "Boy, type-4",
     "converted": "\\ud83d\\udc66\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F466 U+1F3FE",
-    "name": "BOY, TYPE-5",
+    "name": "Boy, type-5",
     "converted": "\\ud83d\\udc66\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F466 U+1F3FF",
-    "name": "BOY, TYPE-6",
+    "name": "Boy, type-6",
     "converted": "\\ud83d\\udc66\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F467 U+1F3FB",
-    "name": "GIRL, TYPE-1-2",
+    "name": "Girl, type-1-2",
     "converted": "\\ud83d\\udc67\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F467 U+1F3FC",
-    "name": "GIRL, TYPE-3",
+    "name": "Girl, type-3",
     "converted": "\\ud83d\\udc67\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F467 U+1F3FD",
-    "name": "GIRL, TYPE-4",
+    "name": "Girl, type-4",
     "converted": "\\ud83d\\udc67\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F467 U+1F3FE",
-    "name": "GIRL, TYPE-5",
+    "name": "Girl, type-5",
     "converted": "\\ud83d\\udc67\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F467 U+1F3FF",
-    "name": "GIRL, TYPE-6",
+    "name": "Girl, type-6",
     "converted": "\\ud83d\\udc67\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F468 U+1F3FB",
-    "name": "MAN, TYPE-1-2",
+    "name": "Man, type-1-2",
     "converted": "\\ud83d\\udc68\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F468 U+1F3FC",
-    "name": "MAN, TYPE-3",
+    "name": "Man, type-3",
     "converted": "\\ud83d\\udc68\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F468 U+1F3FD",
-    "name": "MAN, TYPE-4",
+    "name": "Man, type-4",
     "converted": "\\ud83d\\udc68\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F468 U+1F3FE",
-    "name": "MAN, TYPE-5",
+    "name": "Man, type-5",
     "converted": "\\ud83d\\udc68\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F468 U+1F3FF",
-    "name": "MAN, TYPE-6",
+    "name": "Man, type-6",
     "converted": "\\ud83d\\udc68\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F469 U+1F3FB",
-    "name": "WOMAN, TYPE-1-2",
+    "name": "Woman, type-1-2",
     "converted": "\\ud83d\\udc69\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F469 U+1F3FC",
-    "name": "WOMAN, TYPE-3",
+    "name": "Woman, type-3",
     "converted": "\\ud83d\\udc69\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F469 U+1F3FD",
-    "name": "WOMAN, TYPE-4",
+    "name": "Woman, type-4",
     "converted": "\\ud83d\\udc69\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F469 U+1F3FE",
-    "name": "WOMAN, TYPE-5",
+    "name": "Woman, type-5",
     "converted": "\\ud83d\\udc69\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F469 U+1F3FF",
-    "name": "WOMAN, TYPE-6",
+    "name": "Woman, type-6",
     "converted": "\\ud83d\\udc69\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F474 U+1F3FB",
-    "name": "OLDER MAN, TYPE-1-2",
+    "name": "Older man, type-1-2",
     "converted": "\\ud83d\\udc74\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F474 U+1F3FC",
-    "name": "OLDER MAN, TYPE-3",
+    "name": "Older man, type-3",
     "converted": "\\ud83d\\udc74\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F474 U+1F3FD",
-    "name": "OLDER MAN, TYPE-4",
+    "name": "Older man, type-4",
     "converted": "\\ud83d\\udc74\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F474 U+1F3FE",
-    "name": "OLDER MAN, TYPE-5",
+    "name": "Older man, type-5",
     "converted": "\\ud83d\\udc74\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F474 U+1F3FF",
-    "name": "OLDER MAN, TYPE-6",
+    "name": "Older man, type-6",
     "converted": "\\ud83d\\udc74\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F475 U+1F3FB",
-    "name": "OLDER WOMAN, TYPE-1-2",
+    "name": "Older woman, type-1-2",
     "converted": "\\ud83d\\udc75\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F475 U+1F3FC",
-    "name": "OLDER WOMAN, TYPE-3",
+    "name": "Older woman, type-3",
     "converted": "\\ud83d\\udc75\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F475 U+1F3FD",
-    "name": "OLDER WOMAN, TYPE-4",
+    "name": "Older woman, type-4",
     "converted": "\\ud83d\\udc75\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F475 U+1F3FE",
-    "name": "OLDER WOMAN, TYPE-5",
+    "name": "Older woman, type-5",
     "converted": "\\ud83d\\udc75\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F475 U+1F3FF",
-    "name": "OLDER WOMAN, TYPE-6",
+    "name": "Older woman, type-6",
     "converted": "\\ud83d\\udc75\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F476 U+1F3FB",
-    "name": "BABY, TYPE-1-2",
+    "name": "Baby, type-1-2",
     "converted": "\\ud83d\\udc76\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F476 U+1F3FC",
-    "name": "BABY, TYPE-3",
+    "name": "Baby, type-3",
     "converted": "\\ud83d\\udc76\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F476 U+1F3FD",
-    "name": "BABY, TYPE-4",
+    "name": "Baby, type-4",
     "converted": "\\ud83d\\udc76\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F476 U+1F3FE",
-    "name": "BABY, TYPE-5",
+    "name": "Baby, type-5",
     "converted": "\\ud83d\\udc76\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F476 U+1F3FF",
-    "name": "BABY, TYPE-6",
+    "name": "Baby, type-6",
     "converted": "\\ud83d\\udc76\\ud83c\\udfff"
   },
   {
-    "unicode": "U+1F471 U+1F3FB",
-    "name": "PERSON WITH BLOND HAIR, TYPE-1-2",
-    "converted": "\\ud83d\\udc71\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F471 U+1F3FC",
-    "name": "PERSON WITH BLOND HAIR, TYPE-3",
-    "converted": "\\ud83d\\udc71\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F471 U+1F3FD",
-    "name": "PERSON WITH BLOND HAIR, TYPE-4",
-    "converted": "\\ud83d\\udc71\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F471 U+1F3FE",
-    "name": "PERSON WITH BLOND HAIR, TYPE-5",
-    "converted": "\\ud83d\\udc71\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F471 U+1F3FF",
-    "name": "PERSON WITH BLOND HAIR, TYPE-6",
-    "converted": "\\ud83d\\udc71\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F46E U+1F3FB",
-    "name": "POLICE OFFICER, TYPE-1-2",
-    "converted": "\\ud83d\\udc6e\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F46E U+1F3FC",
-    "name": "POLICE OFFICER, TYPE-3",
-    "converted": "\\ud83d\\udc6e\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F46E U+1F3FD",
-    "name": "POLICE OFFICER, TYPE-4",
-    "converted": "\\ud83d\\udc6e\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F46E U+1F3FE",
-    "name": "POLICE OFFICER, TYPE-5",
-    "converted": "\\ud83d\\udc6e\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F46E U+1F3FF",
-    "name": "POLICE OFFICER, TYPE-6",
-    "converted": "\\ud83d\\udc6e\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F472 U+1F3FB",
-    "name": "MAN WITH GUA PI MAO, TYPE-1-2",
-    "converted": "\\ud83d\\udc72\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F472 U+1F3FC",
-    "name": "MAN WITH GUA PI MAO, TYPE-3",
-    "converted": "\\ud83d\\udc72\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F472 U+1F3FD",
-    "name": "MAN WITH GUA PI MAO, TYPE-4",
-    "converted": "\\ud83d\\udc72\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F472 U+1F3FE",
-    "name": "MAN WITH GUA PI MAO, TYPE-5",
-    "converted": "\\ud83d\\udc72\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F472 U+1F3FF",
-    "name": "MAN WITH GUA PI MAO, TYPE-6",
-    "converted": "\\ud83d\\udc72\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F473 U+1F3FB",
-    "name": "MAN WITH TURBAN, TYPE-1-2",
-    "converted": "\\ud83d\\udc73\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F473 U+1F3FC",
-    "name": "MAN WITH TURBAN, TYPE-3",
-    "converted": "\\ud83d\\udc73\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F473 U+1F3FD",
-    "name": "MAN WITH TURBAN, TYPE-4",
-    "converted": "\\ud83d\\udc73\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F473 U+1F3FE",
-    "name": "MAN WITH TURBAN, TYPE-5",
-    "converted": "\\ud83d\\udc73\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F473 U+1F3FF",
-    "name": "MAN WITH TURBAN, TYPE-6",
-    "converted": "\\ud83d\\udc73\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F477 U+1F3FB",
-    "name": "CONSTRUCTION WORKER, TYPE-1-2",
-    "converted": "\\ud83d\\udc77\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F477 U+1F3FC",
-    "name": "CONSTRUCTION WORKER, TYPE-3",
-    "converted": "\\ud83d\\udc77\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F477 U+1F3FD",
-    "name": "CONSTRUCTION WORKER, TYPE-4",
-    "converted": "\\ud83d\\udc77\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F477 U+1F3FE",
-    "name": "CONSTRUCTION WORKER, TYPE-5",
-    "converted": "\\ud83d\\udc77\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F477 U+1F3FF",
-    "name": "CONSTRUCTION WORKER, TYPE-6",
-    "converted": "\\ud83d\\udc77\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F478 U+1F3FB",
-    "name": "PRINCESS, TYPE-1-2",
-    "converted": "\\ud83d\\udc78\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F478 U+1F3FC",
-    "name": "PRINCESS, TYPE-3",
-    "converted": "\\ud83d\\udc78\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F478 U+1F3FD",
-    "name": "PRINCESS, TYPE-4",
-    "converted": "\\ud83d\\udc78\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F478 U+1F3FE",
-    "name": "PRINCESS, TYPE-5",
-    "converted": "\\ud83d\\udc78\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F478 U+1F3FF",
-    "name": "PRINCESS, TYPE-6",
-    "converted": "\\ud83d\\udc78\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F482 U+1F3FB",
-    "name": "GUARDSMAN, TYPE-1-2",
-    "converted": "\\ud83d\\udc82\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F482 U+1F3FC",
-    "name": "GUARDSMAN, TYPE-3",
-    "converted": "\\ud83d\\udc82\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F482 U+1F3FD",
-    "name": "GUARDSMAN, TYPE-4",
-    "converted": "\\ud83d\\udc82\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F482 U+1F3FE",
-    "name": "GUARDSMAN, TYPE-5",
-    "converted": "\\ud83d\\udc82\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F482 U+1F3FF",
-    "name": "GUARDSMAN, TYPE-6",
-    "converted": "\\ud83d\\udc82\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F575 U+1F3FB",
-    "name": "SLEUTH OR SPY, TYPE-1-2",
-    "converted": "\\ud83d\\udd75\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F575 U+1F3FC",
-    "name": "SLEUTH OR SPY, TYPE-3",
-    "converted": "\\ud83d\\udd75\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F575 U+1F3FD",
-    "name": "SLEUTH OR SPY, TYPE-4",
-    "converted": "\\ud83d\\udd75\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F575 U+1F3FE",
-    "name": "SLEUTH OR SPY, TYPE-5",
-    "converted": "\\ud83d\\udd75\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F575 U+1F3FF",
-    "name": "SLEUTH OR SPY, TYPE-6",
-    "converted": "\\ud83d\\udd75\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F385 U+1F3FB",
-    "name": "FATHER CHRISTMAS, TYPE-1-2",
-    "converted": "\\ud83c\\udf85\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F385 U+1F3FC",
-    "name": "FATHER CHRISTMAS, TYPE-3",
-    "converted": "\\ud83c\\udf85\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F385 U+1F3FD",
-    "name": "FATHER CHRISTMAS, TYPE-4",
-    "converted": "\\ud83c\\udf85\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F385 U+1F3FE",
-    "name": "FATHER CHRISTMAS, TYPE-5",
-    "converted": "\\ud83c\\udf85\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F385 U+1F3FF",
-    "name": "FATHER CHRISTMAS, TYPE-6",
-    "converted": "\\ud83c\\udf85\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F470 U+1F3FB",
-    "name": "BRIDE WITH VEIL, TYPE-1-2",
-    "converted": "\\ud83d\\udc70\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F470 U+1F3FC",
-    "name": "BRIDE WITH VEIL, TYPE-3",
-    "converted": "\\ud83d\\udc70\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F470 U+1F3FD",
-    "name": "BRIDE WITH VEIL, TYPE-4",
-    "converted": "\\ud83d\\udc70\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F470 U+1F3FE",
-    "name": "BRIDE WITH VEIL, TYPE-5",
-    "converted": "\\ud83d\\udc70\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F470 U+1F3FF",
-    "name": "BRIDE WITH VEIL, TYPE-6",
-    "converted": "\\ud83d\\udc70\\ud83c\\udfff"
-  },
-  {
     "unicode": "U+1F47C U+1F3FB",
-    "name": "BABY ANGEL, TYPE-1-2",
+    "name": "Baby angel, type-1-2",
     "converted": "\\ud83d\\udc7c\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F47C U+1F3FC",
-    "name": "BABY ANGEL, TYPE-3",
+    "name": "Baby angel, type-3",
     "converted": "\\ud83d\\udc7c\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F47C U+1F3FD",
-    "name": "BABY ANGEL, TYPE-4",
+    "name": "Baby angel, type-4",
     "converted": "\\ud83d\\udc7c\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F47C U+1F3FE",
-    "name": "BABY ANGEL, TYPE-5",
+    "name": "Baby angel, type-5",
     "converted": "\\ud83d\\udc7c\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F47C U+1F3FF",
-    "name": "BABY ANGEL, TYPE-6",
+    "name": "Baby angel, type-6",
     "converted": "\\ud83d\\udc7c\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F471 U+1F3FB",
+    "name": "Person with blond hair, type-1-2",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FC",
+    "name": "Person with blond hair, type-3",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FD",
+    "name": "Person with blond hair, type-4",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FE",
+    "name": "Person with blond hair, type-5",
+    "converted": "\\ud83d\\udc71\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F471 U+1F3FF",
+    "name": "Person with blond hair, type-6",
+    "converted": "\\ud83d\\udc71\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FB",
+    "name": "Police officer, type-1-2",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FC",
+    "name": "Police officer, type-3",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FD",
+    "name": "Police officer, type-4",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FE",
+    "name": "Police officer, type-5",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F46E U+1F3FF",
+    "name": "Police officer, type-6",
+    "converted": "\\ud83d\\udc6e\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FB",
+    "name": "Man with gua pi mao, type-1-2",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FC",
+    "name": "Man with gua pi mao, type-3",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FD",
+    "name": "Man with gua pi mao, type-4",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FE",
+    "name": "Man with gua pi mao, type-5",
+    "converted": "\\ud83d\\udc72\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F472 U+1F3FF",
+    "name": "Man with gua pi mao, type-6",
+    "converted": "\\ud83d\\udc72\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FB",
+    "name": "Man with turban, type-1-2",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FC",
+    "name": "Man with turban, type-3",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FD",
+    "name": "Man with turban, type-4",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FE",
+    "name": "Man with turban, type-5",
+    "converted": "\\ud83d\\udc73\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F473 U+1F3FF",
+    "name": "Man with turban, type-6",
+    "converted": "\\ud83d\\udc73\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FB",
+    "name": "Construction worker, type-1-2",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FC",
+    "name": "Construction worker, type-3",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FD",
+    "name": "Construction worker, type-4",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FE",
+    "name": "Construction worker, type-5",
+    "converted": "\\ud83d\\udc77\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F477 U+1F3FF",
+    "name": "Construction worker, type-6",
+    "converted": "\\ud83d\\udc77\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FB",
+    "name": "Princess, type-1-2",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FC",
+    "name": "Princess, type-3",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FD",
+    "name": "Princess, type-4",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FE",
+    "name": "Princess, type-5",
+    "converted": "\\ud83d\\udc78\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F478 U+1F3FF",
+    "name": "Princess, type-6",
+    "converted": "\\ud83d\\udc78\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F934 U+1F3FB",
+    "name": "Prince, type-1-2",
+    "converted": "\\ud83e\\udd34\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F934 U+1F3FC",
+    "name": "Prince, type-3",
+    "converted": "\\ud83e\\udd34\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F934 U+1F3FD",
+    "name": "Prince, type-4",
+    "converted": "\\ud83e\\udd34\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F934 U+1F3FE",
+    "name": "Prince, type-5",
+    "converted": "\\ud83e\\udd34\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F934 U+1F3FF",
+    "name": "Prince, type-6",
+    "converted": "\\ud83e\\udd34\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FB",
+    "name": "Guardsman, type-1-2",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FC",
+    "name": "Guardsman, type-3",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FD",
+    "name": "Guardsman, type-4",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FE",
+    "name": "Guardsman, type-5",
+    "converted": "\\ud83d\\udc82\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F482 U+1F3FF",
+    "name": "Guardsman, type-6",
+    "converted": "\\ud83d\\udc82\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FB",
+    "name": "Sleuth or spy, type-1-2",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FC",
+    "name": "Sleuth or spy, type-3",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FD",
+    "name": "Sleuth or spy, type-4",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FE",
+    "name": "Sleuth or spy, type-5",
+    "converted": "\\ud83d\\udd75\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F575 U+1F3FF",
+    "name": "Sleuth or spy, type-6",
+    "converted": "\\ud83d\\udd75\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FB",
+    "name": "Father christmas, type-1-2",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FC",
+    "name": "Father christmas, type-3",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FD",
+    "name": "Father christmas, type-4",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FE",
+    "name": "Father christmas, type-5",
+    "converted": "\\ud83c\\udf85\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F385 U+1F3FF",
+    "name": "Father christmas, type-6",
+    "converted": "\\ud83c\\udf85\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F936 U+1F3FB",
+    "name": "Mother christmas, type-1-2",
+    "converted": "\\ud83e\\udd36\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F936 U+1F3FC",
+    "name": "Mother christmas, type-3",
+    "converted": "\\ud83e\\udd36\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F936 U+1F3FD",
+    "name": "Mother christmas, type-4",
+    "converted": "\\ud83e\\udd36\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F936 U+1F3FE",
+    "name": "Mother christmas, type-5",
+    "converted": "\\ud83e\\udd36\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F936 U+1F3FF",
+    "name": "Mother christmas, type-6",
+    "converted": "\\ud83e\\udd36\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FB",
+    "name": "Bride with veil, type-1-2",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FC",
+    "name": "Bride with veil, type-3",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FD",
+    "name": "Bride with veil, type-4",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FE",
+    "name": "Bride with veil, type-5",
+    "converted": "\\ud83d\\udc70\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F470 U+1F3FF",
+    "name": "Bride with veil, type-6",
+    "converted": "\\ud83d\\udc70\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F935 U+1F3FB",
+    "name": "Man in tuxedo, type-1-2",
+    "converted": "\\ud83e\\udd35\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F935 U+1F3FC",
+    "name": "Man in tuxedo, type-3",
+    "converted": "\\ud83e\\udd35\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F935 U+1F3FD",
+    "name": "Man in tuxedo, type-4",
+    "converted": "\\ud83e\\udd35\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F935 U+1F3FE",
+    "name": "Man in tuxedo, type-5",
+    "converted": "\\ud83e\\udd35\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F935 U+1F3FF",
+    "name": "Man in tuxedo, type-6",
+    "converted": "\\ud83e\\udd35\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F486 U+1F3FB",
-    "name": "FACE MASSAGE, TYPE-1-2",
+    "name": "Face massage, type-1-2",
     "converted": "\\ud83d\\udc86\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F486 U+1F3FC",
-    "name": "FACE MASSAGE, TYPE-3",
+    "name": "Face massage, type-3",
     "converted": "\\ud83d\\udc86\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F486 U+1F3FD",
-    "name": "FACE MASSAGE, TYPE-4",
+    "name": "Face massage, type-4",
     "converted": "\\ud83d\\udc86\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F486 U+1F3FE",
-    "name": "FACE MASSAGE, TYPE-5",
+    "name": "Face massage, type-5",
     "converted": "\\ud83d\\udc86\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F486 U+1F3FF",
-    "name": "FACE MASSAGE, TYPE-6",
+    "name": "Face massage, type-6",
     "converted": "\\ud83d\\udc86\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F487 U+1F3FB",
-    "name": "HAIRCUT, TYPE-1-2",
+    "name": "Haircut, type-1-2",
     "converted": "\\ud83d\\udc87\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F487 U+1F3FC",
-    "name": "HAIRCUT, TYPE-3",
+    "name": "Haircut, type-3",
     "converted": "\\ud83d\\udc87\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F487 U+1F3FD",
-    "name": "HAIRCUT, TYPE-4",
+    "name": "Haircut, type-4",
     "converted": "\\ud83d\\udc87\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F487 U+1F3FE",
-    "name": "HAIRCUT, TYPE-5",
+    "name": "Haircut, type-5",
     "converted": "\\ud83d\\udc87\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F487 U+1F3FF",
-    "name": "HAIRCUT, TYPE-6",
+    "name": "Haircut, type-6",
     "converted": "\\ud83d\\udc87\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F64D U+1F3FB",
-    "name": "PERSON FROWNING, TYPE-1-2",
+    "name": "Person frowning, type-1-2",
     "converted": "\\ud83d\\ude4d\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F64D U+1F3FC",
-    "name": "PERSON FROWNING, TYPE-3",
+    "name": "Person frowning, type-3",
     "converted": "\\ud83d\\ude4d\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F64D U+1F3FD",
-    "name": "PERSON FROWNING, TYPE-4",
+    "name": "Person frowning, type-4",
     "converted": "\\ud83d\\ude4d\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F64D U+1F3FE",
-    "name": "PERSON FROWNING, TYPE-5",
+    "name": "Person frowning, type-5",
     "converted": "\\ud83d\\ude4d\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F64D U+1F3FF",
-    "name": "PERSON FROWNING, TYPE-6",
+    "name": "Person frowning, type-6",
     "converted": "\\ud83d\\ude4d\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F64E U+1F3FB",
-    "name": "PERSON WITH POUTING FACE, TYPE-1-2",
+    "name": "Person with pouting face, type-1-2",
     "converted": "\\ud83d\\ude4e\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F64E U+1F3FC",
-    "name": "PERSON WITH POUTING FACE, TYPE-3",
+    "name": "Person with pouting face, type-3",
     "converted": "\\ud83d\\ude4e\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F64E U+1F3FD",
-    "name": "PERSON WITH POUTING FACE, TYPE-4",
+    "name": "Person with pouting face, type-4",
     "converted": "\\ud83d\\ude4e\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F64E U+1F3FE",
-    "name": "PERSON WITH POUTING FACE, TYPE-5",
+    "name": "Person with pouting face, type-5",
     "converted": "\\ud83d\\ude4e\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F64E U+1F3FF",
-    "name": "PERSON WITH POUTING FACE, TYPE-6",
+    "name": "Person with pouting face, type-6",
     "converted": "\\ud83d\\ude4e\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F645 U+1F3FB",
-    "name": "FACE WITH NO GOOD GESTURE, TYPE-1-2",
+    "name": "Face with no good gesture, type-1-2",
     "converted": "\\ud83d\\ude45\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F645 U+1F3FC",
-    "name": "FACE WITH NO GOOD GESTURE, TYPE-3",
+    "name": "Face with no good gesture, type-3",
     "converted": "\\ud83d\\ude45\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F645 U+1F3FD",
-    "name": "FACE WITH NO GOOD GESTURE, TYPE-4",
+    "name": "Face with no good gesture, type-4",
     "converted": "\\ud83d\\ude45\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F645 U+1F3FE",
-    "name": "FACE WITH NO GOOD GESTURE, TYPE-5",
+    "name": "Face with no good gesture, type-5",
     "converted": "\\ud83d\\ude45\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F645 U+1F3FF",
-    "name": "FACE WITH NO GOOD GESTURE, TYPE-6",
+    "name": "Face with no good gesture, type-6",
     "converted": "\\ud83d\\ude45\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F646 U+1F3FB",
-    "name": "FACE WITH OK GESTURE, TYPE-1-2",
+    "name": "Face with ok gesture, type-1-2",
     "converted": "\\ud83d\\ude46\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F646 U+1F3FC",
-    "name": "FACE WITH OK GESTURE, TYPE-3",
+    "name": "Face with ok gesture, type-3",
     "converted": "\\ud83d\\ude46\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F646 U+1F3FD",
-    "name": "FACE WITH OK GESTURE, TYPE-4",
+    "name": "Face with ok gesture, type-4",
     "converted": "\\ud83d\\ude46\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F646 U+1F3FE",
-    "name": "FACE WITH OK GESTURE, TYPE-5",
+    "name": "Face with ok gesture, type-5",
     "converted": "\\ud83d\\ude46\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F646 U+1F3FF",
-    "name": "FACE WITH OK GESTURE, TYPE-6",
+    "name": "Face with ok gesture, type-6",
     "converted": "\\ud83d\\ude46\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F481 U+1F3FB",
-    "name": "INFORMATION DESK PERSON, TYPE-1-2",
+    "name": "Information desk person, type-1-2",
     "converted": "\\ud83d\\udc81\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F481 U+1F3FC",
-    "name": "INFORMATION DESK PERSON, TYPE-3",
+    "name": "Information desk person, type-3",
     "converted": "\\ud83d\\udc81\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F481 U+1F3FD",
-    "name": "INFORMATION DESK PERSON, TYPE-4",
+    "name": "Information desk person, type-4",
     "converted": "\\ud83d\\udc81\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F481 U+1F3FE",
-    "name": "INFORMATION DESK PERSON, TYPE-5",
+    "name": "Information desk person, type-5",
     "converted": "\\ud83d\\udc81\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F481 U+1F3FF",
-    "name": "INFORMATION DESK PERSON, TYPE-6",
+    "name": "Information desk person, type-6",
     "converted": "\\ud83d\\udc81\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F937 U+1F3FB",
+    "name": "Shrug, type-1-2",
+    "converted": "\\ud83e\\udd37\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F937 U+1F3FC",
+    "name": "Shrug, type-3",
+    "converted": "\\ud83e\\udd37\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F937 U+1F3FD",
+    "name": "Shrug, type-4",
+    "converted": "\\ud83e\\udd37\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F937 U+1F3FE",
+    "name": "Shrug, type-5",
+    "converted": "\\ud83e\\udd37\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F937 U+1F3FF",
+    "name": "Shrug, type-6",
+    "converted": "\\ud83e\\udd37\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F64B U+1F3FB",
-    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-1-2",
+    "name": "Happy person raising one hand, type-1-2",
     "converted": "\\ud83d\\ude4b\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F64B U+1F3FC",
-    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-3",
+    "name": "Happy person raising one hand, type-3",
     "converted": "\\ud83d\\ude4b\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F64B U+1F3FD",
-    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-4",
+    "name": "Happy person raising one hand, type-4",
     "converted": "\\ud83d\\ude4b\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F64B U+1F3FE",
-    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-5",
+    "name": "Happy person raising one hand, type-5",
     "converted": "\\ud83d\\ude4b\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F64B U+1F3FF",
-    "name": "HAPPY PERSON RAISING ONE HAND, TYPE-6",
+    "name": "Happy person raising one hand, type-6",
     "converted": "\\ud83d\\ude4b\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F926 U+1F3FB",
+    "name": "Face palm, type-1-2",
+    "converted": "\\ud83e\\udd26\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F926 U+1F3FC",
+    "name": "Face palm, type-3",
+    "converted": "\\ud83e\\udd26\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F926 U+1F3FD",
+    "name": "Face palm, type-4",
+    "converted": "\\ud83e\\udd26\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F926 U+1F3FE",
+    "name": "Face palm, type-5",
+    "converted": "\\ud83e\\udd26\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F926 U+1F3FF",
+    "name": "Face palm, type-6",
+    "converted": "\\ud83e\\udd26\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F647 U+1F3FB",
-    "name": "PERSON BOWING DEEPLY, TYPE-1-2",
+    "name": "Person bowing deeply, type-1-2",
     "converted": "\\ud83d\\ude47\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F647 U+1F3FC",
-    "name": "PERSON BOWING DEEPLY, TYPE-3",
+    "name": "Person bowing deeply, type-3",
     "converted": "\\ud83d\\ude47\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F647 U+1F3FD",
-    "name": "PERSON BOWING DEEPLY, TYPE-4",
+    "name": "Person bowing deeply, type-4",
     "converted": "\\ud83d\\ude47\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F647 U+1F3FE",
-    "name": "PERSON BOWING DEEPLY, TYPE-5",
+    "name": "Person bowing deeply, type-5",
     "converted": "\\ud83d\\ude47\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F647 U+1F3FF",
-    "name": "PERSON BOWING DEEPLY, TYPE-6",
+    "name": "Person bowing deeply, type-6",
     "converted": "\\ud83d\\ude47\\ud83c\\udfff"
   },
   {
-    "unicode": "U+1F64C U+1F3FB",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-1-2",
-    "converted": "\\ud83d\\ude4c\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F64C U+1F3FC",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-3",
-    "converted": "\\ud83d\\ude4c\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F64C U+1F3FD",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-4",
-    "converted": "\\ud83d\\ude4c\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F64C U+1F3FE",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-5",
-    "converted": "\\ud83d\\ude4c\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F64C U+1F3FF",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION, TYPE-6",
-    "converted": "\\ud83d\\ude4c\\ud83c\\udfff"
-  },
-  {
-    "unicode": "U+1F64F U+1F3FB",
-    "name": "PERSON WITH FOLDED HANDS, TYPE-1-2",
-    "converted": "\\ud83d\\ude4f\\ud83c\\udffb"
-  },
-  {
-    "unicode": "U+1F64F U+1F3FC",
-    "name": "PERSON WITH FOLDED HANDS, TYPE-3",
-    "converted": "\\ud83d\\ude4f\\ud83c\\udffc"
-  },
-  {
-    "unicode": "U+1F64F U+1F3FD",
-    "name": "PERSON WITH FOLDED HANDS, TYPE-4",
-    "converted": "\\ud83d\\ude4f\\ud83c\\udffd"
-  },
-  {
-    "unicode": "U+1F64F U+1F3FE",
-    "name": "PERSON WITH FOLDED HANDS, TYPE-5",
-    "converted": "\\ud83d\\ude4f\\ud83c\\udffe"
-  },
-  {
-    "unicode": "U+1F64F U+1F3FF",
-    "name": "PERSON WITH FOLDED HANDS, TYPE-6",
-    "converted": "\\ud83d\\ude4f\\ud83c\\udfff"
-  },
-  {
     "unicode": "U+1F6B6 U+1F3FB",
-    "name": "PEDESTRIAN, TYPE-1-2",
+    "name": "Pedestrian, type-1-2",
     "converted": "\\ud83d\\udeb6\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F6B6 U+1F3FC",
-    "name": "PEDESTRIAN, TYPE-3",
+    "name": "Pedestrian, type-3",
     "converted": "\\ud83d\\udeb6\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F6B6 U+1F3FD",
-    "name": "PEDESTRIAN, TYPE-4",
+    "name": "Pedestrian, type-4",
     "converted": "\\ud83d\\udeb6\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F6B6 U+1F3FE",
-    "name": "PEDESTRIAN, TYPE-5",
+    "name": "Pedestrian, type-5",
     "converted": "\\ud83d\\udeb6\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F6B6 U+1F3FF",
-    "name": "PEDESTRIAN, TYPE-6",
+    "name": "Pedestrian, type-6",
     "converted": "\\ud83d\\udeb6\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F3C3 U+1F3FB",
-    "name": "RUNNER, TYPE-1-2",
+    "name": "Runner, type-1-2",
     "converted": "\\ud83c\\udfc3\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F3C3 U+1F3FC",
-    "name": "RUNNER, TYPE-3",
+    "name": "Runner, type-3",
     "converted": "\\ud83c\\udfc3\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F3C3 U+1F3FD",
-    "name": "RUNNER, TYPE-4",
+    "name": "Runner, type-4",
     "converted": "\\ud83c\\udfc3\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F3C3 U+1F3FE",
-    "name": "RUNNER, TYPE-5",
+    "name": "Runner, type-5",
     "converted": "\\ud83c\\udfc3\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F3C3 U+1F3FF",
-    "name": "RUNNER, TYPE-6",
+    "name": "Runner, type-6",
     "converted": "\\ud83c\\udfc3\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F483 U+1F3FB",
-    "name": "DANCER, TYPE-1-2",
+    "name": "Dancer, type-1-2",
     "converted": "\\ud83d\\udc83\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F483 U+1F3FC",
-    "name": "DANCER, TYPE-3",
+    "name": "Dancer, type-3",
     "converted": "\\ud83d\\udc83\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F483 U+1F3FD",
-    "name": "DANCER, TYPE-4",
+    "name": "Dancer, type-4",
     "converted": "\\ud83d\\udc83\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F483 U+1F3FE",
-    "name": "DANCER, TYPE-5",
+    "name": "Dancer, type-5",
     "converted": "\\ud83d\\udc83\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F483 U+1F3FF",
-    "name": "DANCER, TYPE-6",
+    "name": "Dancer, type-6",
     "converted": "\\ud83d\\udc83\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F57A U+1F3FB",
+    "name": "Man dancing, type-1-2",
+    "converted": "\\ud83d\\udd7a\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F57A U+1F3FC",
+    "name": "Man dancing, type-3",
+    "converted": "\\ud83d\\udd7a\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F57A U+1F3FD",
+    "name": "Man dancing, type-4",
+    "converted": "\\ud83d\\udd7a\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F57A U+1F3FE",
+    "name": "Man dancing, type-5",
+    "converted": "\\ud83d\\udd7a\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F57A U+1F3FF",
+    "name": "Man dancing, type-6",
+    "converted": "\\ud83d\\udd7a\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F930 U+1F3FB",
+    "name": "Pregnant woman, type-1-2",
+    "converted": "\\ud83e\\udd30\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F930 U+1F3FC",
+    "name": "Pregnant woman, type-3",
+    "converted": "\\ud83e\\udd30\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F930 U+1F3FD",
+    "name": "Pregnant woman, type-4",
+    "converted": "\\ud83e\\udd30\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F930 U+1F3FE",
+    "name": "Pregnant woman, type-5",
+    "converted": "\\ud83e\\udd30\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F930 U+1F3FF",
+    "name": "Pregnant woman, type-6",
+    "converted": "\\ud83e\\udd30\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F4AA U+1F3FB",
-    "name": "FLEXED BICEPS, TYPE-1-2",
+    "name": "Flexed biceps, type-1-2",
     "converted": "\\ud83d\\udcaa\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F4AA U+1F3FC",
-    "name": "FLEXED BICEPS, TYPE-3",
+    "name": "Flexed biceps, type-3",
     "converted": "\\ud83d\\udcaa\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F4AA U+1F3FD",
-    "name": "FLEXED BICEPS, TYPE-4",
+    "name": "Flexed biceps, type-4",
     "converted": "\\ud83d\\udcaa\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F4AA U+1F3FE",
-    "name": "FLEXED BICEPS, TYPE-5",
+    "name": "Flexed biceps, type-5",
     "converted": "\\ud83d\\udcaa\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F4AA U+1F3FF",
-    "name": "FLEXED BICEPS, TYPE-6",
+    "name": "Flexed biceps, type-6",
     "converted": "\\ud83d\\udcaa\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F933 U+1F3FB",
+    "name": "Selfie, type-1-2",
+    "converted": "\\ud83e\\udd33\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F933 U+1F3FC",
+    "name": "Selfie, type-3",
+    "converted": "\\ud83e\\udd33\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F933 U+1F3FD",
+    "name": "Selfie, type-4",
+    "converted": "\\ud83e\\udd33\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F933 U+1F3FE",
+    "name": "Selfie, type-5",
+    "converted": "\\ud83e\\udd33\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F933 U+1F3FF",
+    "name": "Selfie, type-6",
+    "converted": "\\ud83e\\udd33\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F448 U+1F3FB",
-    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-1-2",
+    "name": "White left pointing backhand index, type-1-2",
     "converted": "\\ud83d\\udc48\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F448 U+1F3FC",
-    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-3",
+    "name": "White left pointing backhand index, type-3",
     "converted": "\\ud83d\\udc48\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F448 U+1F3FD",
-    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-4",
+    "name": "White left pointing backhand index, type-4",
     "converted": "\\ud83d\\udc48\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F448 U+1F3FE",
-    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-5",
+    "name": "White left pointing backhand index, type-5",
     "converted": "\\ud83d\\udc48\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F448 U+1F3FF",
-    "name": "WHITE LEFT POINTING BACKHAND INDEX, TYPE-6",
+    "name": "White left pointing backhand index, type-6",
     "converted": "\\ud83d\\udc48\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F449 U+1F3FB",
-    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-1-2",
+    "name": "White right pointing backhand index, type-1-2",
     "converted": "\\ud83d\\udc49\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F449 U+1F3FC",
-    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-3",
+    "name": "White right pointing backhand index, type-3",
     "converted": "\\ud83d\\udc49\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F449 U+1F3FD",
-    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-4",
+    "name": "White right pointing backhand index, type-4",
     "converted": "\\ud83d\\udc49\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F449 U+1F3FE",
-    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-5",
+    "name": "White right pointing backhand index, type-5",
     "converted": "\\ud83d\\udc49\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F449 U+1F3FF",
-    "name": "WHITE RIGHT POINTING BACKHAND INDEX, TYPE-6",
+    "name": "White right pointing backhand index, type-6",
     "converted": "\\ud83d\\udc49\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F446 U+1F3FB",
-    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-1-2",
+    "name": "White up pointing backhand index, type-1-2",
     "converted": "\\ud83d\\udc46\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F446 U+1F3FC",
-    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-3",
+    "name": "White up pointing backhand index, type-3",
     "converted": "\\ud83d\\udc46\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F446 U+1F3FD",
-    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-4",
+    "name": "White up pointing backhand index, type-4",
     "converted": "\\ud83d\\udc46\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F446 U+1F3FE",
-    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-5",
+    "name": "White up pointing backhand index, type-5",
     "converted": "\\ud83d\\udc46\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F446 U+1F3FF",
-    "name": "WHITE UP POINTING BACKHAND INDEX, TYPE-6",
+    "name": "White up pointing backhand index, type-6",
     "converted": "\\ud83d\\udc46\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F595 U+1F3FB",
-    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-1-2",
+    "name": "Reversed hand with middle finger extended, type-1-2",
     "converted": "\\ud83d\\udd95\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F595 U+1F3FC",
-    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-3",
+    "name": "Reversed hand with middle finger extended, type-3",
     "converted": "\\ud83d\\udd95\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F595 U+1F3FD",
-    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-4",
+    "name": "Reversed hand with middle finger extended, type-4",
     "converted": "\\ud83d\\udd95\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F595 U+1F3FE",
-    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-5",
+    "name": "Reversed hand with middle finger extended, type-5",
     "converted": "\\ud83d\\udd95\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F595 U+1F3FF",
-    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED, TYPE-6",
+    "name": "Reversed hand with middle finger extended, type-6",
     "converted": "\\ud83d\\udd95\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F447 U+1F3FB",
-    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-1-2",
+    "name": "White down pointing backhand index, type-1-2",
     "converted": "\\ud83d\\udc47\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F447 U+1F3FC",
-    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-3",
+    "name": "White down pointing backhand index, type-3",
     "converted": "\\ud83d\\udc47\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F447 U+1F3FD",
-    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-4",
+    "name": "White down pointing backhand index, type-4",
     "converted": "\\ud83d\\udc47\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F447 U+1F3FE",
-    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-5",
+    "name": "White down pointing backhand index, type-5",
     "converted": "\\ud83d\\udc47\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F447 U+1F3FF",
-    "name": "WHITE DOWN POINTING BACKHAND INDEX, TYPE-6",
+    "name": "White down pointing backhand index, type-6",
     "converted": "\\ud83d\\udc47\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F91E U+1F3FB",
+    "name": "Hand with index and middle fingers crossed, type-1-2",
+    "converted": "\\ud83e\\udd1e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F91E U+1F3FC",
+    "name": "Hand with index and middle fingers crossed, type-3",
+    "converted": "\\ud83e\\udd1e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F91E U+1F3FD",
+    "name": "Hand with index and middle fingers crossed, type-4",
+    "converted": "\\ud83e\\udd1e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F91E U+1F3FE",
+    "name": "Hand with index and middle fingers crossed, type-5",
+    "converted": "\\ud83e\\udd1e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F91E U+1F3FF",
+    "name": "Hand with index and middle fingers crossed, type-6",
+    "converted": "\\ud83e\\udd1e\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F596 U+1F3FB",
-    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-1-2",
+    "name": "Raised hand with part between middle and ring fingers, type-1-2",
     "converted": "\\ud83d\\udd96\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F596 U+1F3FC",
-    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-3",
+    "name": "Raised hand with part between middle and ring fingers, type-3",
     "converted": "\\ud83d\\udd96\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F596 U+1F3FD",
-    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-4",
+    "name": "Raised hand with part between middle and ring fingers, type-4",
     "converted": "\\ud83d\\udd96\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F596 U+1F3FE",
-    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-5",
+    "name": "Raised hand with part between middle and ring fingers, type-5",
     "converted": "\\ud83d\\udd96\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F596 U+1F3FF",
-    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS, TYPE-6",
+    "name": "Raised hand with part between middle and ring fingers, type-6",
     "converted": "\\ud83d\\udd96\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F918 U+1F3FB",
-    "name": "SIGN OF THE HORNS, TYPE-1-2",
+    "name": "Sign of the horns, type-1-2",
     "converted": "\\ud83e\\udd18\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F918 U+1F3FC",
-    "name": "SIGN OF THE HORNS, TYPE-3",
+    "name": "Sign of the horns, type-3",
     "converted": "\\ud83e\\udd18\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F918 U+1F3FD",
-    "name": "SIGN OF THE HORNS, TYPE-4",
+    "name": "Sign of the horns, type-4",
     "converted": "\\ud83e\\udd18\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F918 U+1F3FE",
-    "name": "SIGN OF THE HORNS, TYPE-5",
+    "name": "Sign of the horns, type-5",
     "converted": "\\ud83e\\udd18\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F918 U+1F3FF",
-    "name": "SIGN OF THE HORNS, TYPE-6",
+    "name": "Sign of the horns, type-6",
     "converted": "\\ud83e\\udd18\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F919 U+1F3FB",
+    "name": "Call me hand, type-1-2",
+    "converted": "\\ud83e\\udd19\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F919 U+1F3FC",
+    "name": "Call me hand, type-3",
+    "converted": "\\ud83e\\udd19\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F919 U+1F3FD",
+    "name": "Call me hand, type-4",
+    "converted": "\\ud83e\\udd19\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F919 U+1F3FE",
+    "name": "Call me hand, type-5",
+    "converted": "\\ud83e\\udd19\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F919 U+1F3FF",
+    "name": "Call me hand, type-6",
+    "converted": "\\ud83e\\udd19\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F590 U+1F3FB",
-    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-1-2",
+    "name": "Raised hand with fingers splayed, type-1-2",
     "converted": "\\ud83d\\udd90\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F590 U+1F3FC",
-    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-3",
+    "name": "Raised hand with fingers splayed, type-3",
     "converted": "\\ud83d\\udd90\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F590 U+1F3FD",
-    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-4",
+    "name": "Raised hand with fingers splayed, type-4",
     "converted": "\\ud83d\\udd90\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F590 U+1F3FE",
-    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-5",
+    "name": "Raised hand with fingers splayed, type-5",
     "converted": "\\ud83d\\udd90\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F590 U+1F3FF",
-    "name": "RAISED HAND WITH FINGERS SPLAYED, TYPE-6",
+    "name": "Raised hand with fingers splayed, type-6",
     "converted": "\\ud83d\\udd90\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F44C U+1F3FB",
-    "name": "OK HAND SIGN, TYPE-1-2",
+    "name": "Ok hand sign, type-1-2",
     "converted": "\\ud83d\\udc4c\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44C U+1F3FC",
-    "name": "OK HAND SIGN, TYPE-3",
+    "name": "Ok hand sign, type-3",
     "converted": "\\ud83d\\udc4c\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44C U+1F3FD",
-    "name": "OK HAND SIGN, TYPE-4",
+    "name": "Ok hand sign, type-4",
     "converted": "\\ud83d\\udc4c\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44C U+1F3FE",
-    "name": "OK HAND SIGN, TYPE-5",
+    "name": "Ok hand sign, type-5",
     "converted": "\\ud83d\\udc4c\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44C U+1F3FF",
-    "name": "OK HAND SIGN, TYPE-6",
+    "name": "Ok hand sign, type-6",
     "converted": "\\ud83d\\udc4c\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F44D U+1F3FB",
-    "name": "THUMBS UP SIGN, TYPE-1-2",
+    "name": "Thumbs up sign, type-1-2",
     "converted": "\\ud83d\\udc4d\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44D U+1F3FC",
-    "name": "THUMBS UP SIGN, TYPE-3",
+    "name": "Thumbs up sign, type-3",
     "converted": "\\ud83d\\udc4d\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44D U+1F3FD",
-    "name": "THUMBS UP SIGN, TYPE-4",
+    "name": "Thumbs up sign, type-4",
     "converted": "\\ud83d\\udc4d\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44D U+1F3FE",
-    "name": "THUMBS UP SIGN, TYPE-5",
+    "name": "Thumbs up sign, type-5",
     "converted": "\\ud83d\\udc4d\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44D U+1F3FF",
-    "name": "THUMBS UP SIGN, TYPE-6",
+    "name": "Thumbs up sign, type-6",
     "converted": "\\ud83d\\udc4d\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F44E U+1F3FB",
-    "name": "THUMBS DOWN SIGN, TYPE-1-2",
+    "name": "Thumbs down sign, type-1-2",
     "converted": "\\ud83d\\udc4e\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44E U+1F3FC",
-    "name": "THUMBS DOWN SIGN, TYPE-3",
+    "name": "Thumbs down sign, type-3",
     "converted": "\\ud83d\\udc4e\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44E U+1F3FD",
-    "name": "THUMBS DOWN SIGN, TYPE-4",
+    "name": "Thumbs down sign, type-4",
     "converted": "\\ud83d\\udc4e\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44E U+1F3FE",
-    "name": "THUMBS DOWN SIGN, TYPE-5",
+    "name": "Thumbs down sign, type-5",
     "converted": "\\ud83d\\udc4e\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44E U+1F3FF",
-    "name": "THUMBS DOWN SIGN, TYPE-6",
+    "name": "Thumbs down sign, type-6",
     "converted": "\\ud83d\\udc4e\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F44A U+1F3FB",
-    "name": "FISTED HAND SIGN, TYPE-1-2",
+    "name": "Fisted hand sign, type-1-2",
     "converted": "\\ud83d\\udc4a\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44A U+1F3FC",
-    "name": "FISTED HAND SIGN, TYPE-3",
+    "name": "Fisted hand sign, type-3",
     "converted": "\\ud83d\\udc4a\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44A U+1F3FD",
-    "name": "FISTED HAND SIGN, TYPE-4",
+    "name": "Fisted hand sign, type-4",
     "converted": "\\ud83d\\udc4a\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44A U+1F3FE",
-    "name": "FISTED HAND SIGN, TYPE-5",
+    "name": "Fisted hand sign, type-5",
     "converted": "\\ud83d\\udc4a\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44A U+1F3FF",
-    "name": "FISTED HAND SIGN, TYPE-6",
+    "name": "Fisted hand sign, type-6",
     "converted": "\\ud83d\\udc4a\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F91B U+1F3FB",
+    "name": "Left-facing fist, type-1-2",
+    "converted": "\\ud83e\\udd1b\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F91B U+1F3FC",
+    "name": "Left-facing fist, type-3",
+    "converted": "\\ud83e\\udd1b\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F91B U+1F3FD",
+    "name": "Left-facing fist, type-4",
+    "converted": "\\ud83e\\udd1b\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F91B U+1F3FE",
+    "name": "Left-facing fist, type-5",
+    "converted": "\\ud83e\\udd1b\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F91B U+1F3FF",
+    "name": "Left-facing fist, type-6",
+    "converted": "\\ud83e\\udd1b\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F91C U+1F3FB",
+    "name": "Right-facing fist, type-1-2",
+    "converted": "\\ud83e\\udd1c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F91C U+1F3FC",
+    "name": "Right-facing fist, type-3",
+    "converted": "\\ud83e\\udd1c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F91C U+1F3FD",
+    "name": "Right-facing fist, type-4",
+    "converted": "\\ud83e\\udd1c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F91C U+1F3FE",
+    "name": "Right-facing fist, type-5",
+    "converted": "\\ud83e\\udd1c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F91C U+1F3FF",
+    "name": "Right-facing fist, type-6",
+    "converted": "\\ud83e\\udd1c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F91A U+1F3FB",
+    "name": "Raised back of hand, type-1-2",
+    "converted": "\\ud83e\\udd1a\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F91A U+1F3FC",
+    "name": "Raised back of hand, type-3",
+    "converted": "\\ud83e\\udd1a\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F91A U+1F3FD",
+    "name": "Raised back of hand, type-4",
+    "converted": "\\ud83e\\udd1a\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F91A U+1F3FE",
+    "name": "Raised back of hand, type-5",
+    "converted": "\\ud83e\\udd1a\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F91A U+1F3FF",
+    "name": "Raised back of hand, type-6",
+    "converted": "\\ud83e\\udd1a\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F44B U+1F3FB",
-    "name": "WAVING HAND SIGN, TYPE-1-2",
+    "name": "Waving hand sign, type-1-2",
     "converted": "\\ud83d\\udc4b\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44B U+1F3FC",
-    "name": "WAVING HAND SIGN, TYPE-3",
+    "name": "Waving hand sign, type-3",
     "converted": "\\ud83d\\udc4b\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44B U+1F3FD",
-    "name": "WAVING HAND SIGN, TYPE-4",
+    "name": "Waving hand sign, type-4",
     "converted": "\\ud83d\\udc4b\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44B U+1F3FE",
-    "name": "WAVING HAND SIGN, TYPE-5",
+    "name": "Waving hand sign, type-5",
     "converted": "\\ud83d\\udc4b\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44B U+1F3FF",
-    "name": "WAVING HAND SIGN, TYPE-6",
+    "name": "Waving hand sign, type-6",
     "converted": "\\ud83d\\udc4b\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F44F U+1F3FB",
-    "name": "CLAPPING HANDS SIGN, TYPE-1-2",
+    "name": "Clapping hands sign, type-1-2",
     "converted": "\\ud83d\\udc4f\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F44F U+1F3FC",
-    "name": "CLAPPING HANDS SIGN, TYPE-3",
+    "name": "Clapping hands sign, type-3",
     "converted": "\\ud83d\\udc4f\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F44F U+1F3FD",
-    "name": "CLAPPING HANDS SIGN, TYPE-4",
+    "name": "Clapping hands sign, type-4",
     "converted": "\\ud83d\\udc4f\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F44F U+1F3FE",
-    "name": "CLAPPING HANDS SIGN, TYPE-5",
+    "name": "Clapping hands sign, type-5",
     "converted": "\\ud83d\\udc4f\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F44F U+1F3FF",
-    "name": "CLAPPING HANDS SIGN, TYPE-6",
+    "name": "Clapping hands sign, type-6",
     "converted": "\\ud83d\\udc4f\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F450 U+1F3FB",
-    "name": "OPEN HANDS SIGN, TYPE-1-2",
+    "name": "Open hands sign, type-1-2",
     "converted": "\\ud83d\\udc50\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F450 U+1F3FC",
-    "name": "OPEN HANDS SIGN, TYPE-3",
+    "name": "Open hands sign, type-3",
     "converted": "\\ud83d\\udc50\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F450 U+1F3FD",
-    "name": "OPEN HANDS SIGN, TYPE-4",
+    "name": "Open hands sign, type-4",
     "converted": "\\ud83d\\udc50\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F450 U+1F3FE",
-    "name": "OPEN HANDS SIGN, TYPE-5",
+    "name": "Open hands sign, type-5",
     "converted": "\\ud83d\\udc50\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F450 U+1F3FF",
-    "name": "OPEN HANDS SIGN, TYPE-6",
+    "name": "Open hands sign, type-6",
     "converted": "\\ud83d\\udc50\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F64C U+1F3FB",
+    "name": "Person raising both hands in celebration, type-1-2",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FC",
+    "name": "Person raising both hands in celebration, type-3",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FD",
+    "name": "Person raising both hands in celebration, type-4",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FE",
+    "name": "Person raising both hands in celebration, type-5",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64C U+1F3FF",
+    "name": "Person raising both hands in celebration, type-6",
+    "converted": "\\ud83d\\ude4c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FB",
+    "name": "Person with folded hands, type-1-2",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FC",
+    "name": "Person with folded hands, type-3",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FD",
+    "name": "Person with folded hands, type-4",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FE",
+    "name": "Person with folded hands, type-5",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F64F U+1F3FF",
+    "name": "Person with folded hands, type-6",
+    "converted": "\\ud83d\\ude4f\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F91D U+1F3FB",
+    "name": "Handshake, type-1-2",
+    "converted": "\\ud83e\\udd1d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F91D U+1F3FC",
+    "name": "Handshake, type-3",
+    "converted": "\\ud83e\\udd1d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F91D U+1F3FD",
+    "name": "Handshake, type-4",
+    "converted": "\\ud83e\\udd1d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F91D U+1F3FE",
+    "name": "Handshake, type-5",
+    "converted": "\\ud83e\\udd1d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F91D U+1F3FF",
+    "name": "Handshake, type-6",
+    "converted": "\\ud83e\\udd1d\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F485 U+1F3FB",
-    "name": "NAIL POLISH, TYPE-1-2",
+    "name": "Nail polish, type-1-2",
     "converted": "\\ud83d\\udc85\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F485 U+1F3FC",
-    "name": "NAIL POLISH, TYPE-3",
+    "name": "Nail polish, type-3",
     "converted": "\\ud83d\\udc85\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F485 U+1F3FD",
-    "name": "NAIL POLISH, TYPE-4",
+    "name": "Nail polish, type-4",
     "converted": "\\ud83d\\udc85\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F485 U+1F3FE",
-    "name": "NAIL POLISH, TYPE-5",
+    "name": "Nail polish, type-5",
     "converted": "\\ud83d\\udc85\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F485 U+1F3FF",
-    "name": "NAIL POLISH, TYPE-6",
+    "name": "Nail polish, type-6",
     "converted": "\\ud83d\\udc85\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F442 U+1F3FB",
-    "name": "EAR, TYPE-1-2",
+    "name": "Ear, type-1-2",
     "converted": "\\ud83d\\udc42\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F442 U+1F3FC",
-    "name": "EAR, TYPE-3",
+    "name": "Ear, type-3",
     "converted": "\\ud83d\\udc42\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F442 U+1F3FD",
-    "name": "EAR, TYPE-4",
+    "name": "Ear, type-4",
     "converted": "\\ud83d\\udc42\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F442 U+1F3FE",
-    "name": "EAR, TYPE-5",
+    "name": "Ear, type-5",
     "converted": "\\ud83d\\udc42\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F442 U+1F3FF",
-    "name": "EAR, TYPE-6",
+    "name": "Ear, type-6",
     "converted": "\\ud83d\\udc42\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F443 U+1F3FB",
-    "name": "NOSE, TYPE-1-2",
+    "name": "Nose, type-1-2",
     "converted": "\\ud83d\\udc43\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F443 U+1F3FC",
-    "name": "NOSE, TYPE-3",
+    "name": "Nose, type-3",
     "converted": "\\ud83d\\udc43\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F443 U+1F3FD",
-    "name": "NOSE, TYPE-4",
+    "name": "Nose, type-4",
     "converted": "\\ud83d\\udc43\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F443 U+1F3FE",
-    "name": "NOSE, TYPE-5",
+    "name": "Nose, type-5",
     "converted": "\\ud83d\\udc43\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F443 U+1F3FF",
-    "name": "NOSE, TYPE-6",
+    "name": "Nose, type-6",
     "converted": "\\ud83d\\udc43\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F6A3 U+1F3FB",
-    "name": "ROWBOAT, TYPE-1-2",
+    "name": "Rowboat, type-1-2",
     "converted": "\\ud83d\\udea3\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F6A3 U+1F3FC",
-    "name": "ROWBOAT, TYPE-3",
+    "name": "Rowboat, type-3",
     "converted": "\\ud83d\\udea3\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F6A3 U+1F3FD",
-    "name": "ROWBOAT, TYPE-4",
+    "name": "Rowboat, type-4",
     "converted": "\\ud83d\\udea3\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F6A3 U+1F3FE",
-    "name": "ROWBOAT, TYPE-5",
+    "name": "Rowboat, type-5",
     "converted": "\\ud83d\\udea3\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F6A3 U+1F3FF",
-    "name": "ROWBOAT, TYPE-6",
+    "name": "Rowboat, type-6",
     "converted": "\\ud83d\\udea3\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F6C0 U+1F3FB",
-    "name": "BATH, TYPE-1-2",
+    "name": "Bath, type-1-2",
     "converted": "\\ud83d\\udec0\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F6C0 U+1F3FC",
-    "name": "BATH, TYPE-3",
+    "name": "Bath, type-3",
     "converted": "\\ud83d\\udec0\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F6C0 U+1F3FD",
-    "name": "BATH, TYPE-4",
+    "name": "Bath, type-4",
     "converted": "\\ud83d\\udec0\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F6C0 U+1F3FE",
-    "name": "BATH, TYPE-5",
+    "name": "Bath, type-5",
     "converted": "\\ud83d\\udec0\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F6C0 U+1F3FF",
-    "name": "BATH, TYPE-6",
+    "name": "Bath, type-6",
     "converted": "\\ud83d\\udec0\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F3C4 U+1F3FB",
-    "name": "SURFER, TYPE-1-2",
+    "name": "Surfer, type-1-2",
     "converted": "\\ud83c\\udfc4\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F3C4 U+1F3FC",
-    "name": "SURFER, TYPE-3",
+    "name": "Surfer, type-3",
     "converted": "\\ud83c\\udfc4\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F3C4 U+1F3FD",
-    "name": "SURFER, TYPE-4",
+    "name": "Surfer, type-4",
     "converted": "\\ud83c\\udfc4\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F3C4 U+1F3FE",
-    "name": "SURFER, TYPE-5",
+    "name": "Surfer, type-5",
     "converted": "\\ud83c\\udfc4\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F3C4 U+1F3FF",
-    "name": "SURFER, TYPE-6",
+    "name": "Surfer, type-6",
     "converted": "\\ud83c\\udfc4\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F3CA U+1F3FB",
-    "name": "SWIMMER, TYPE-1-2",
+    "name": "Swimmer, type-1-2",
     "converted": "\\ud83c\\udfca\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F3CA U+1F3FC",
-    "name": "SWIMMER, TYPE-3",
+    "name": "Swimmer, type-3",
     "converted": "\\ud83c\\udfca\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F3CA U+1F3FD",
-    "name": "SWIMMER, TYPE-4",
+    "name": "Swimmer, type-4",
     "converted": "\\ud83c\\udfca\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F3CA U+1F3FE",
-    "name": "SWIMMER, TYPE-5",
+    "name": "Swimmer, type-5",
     "converted": "\\ud83c\\udfca\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F3CA U+1F3FF",
-    "name": "SWIMMER, TYPE-6",
+    "name": "Swimmer, type-6",
     "converted": "\\ud83c\\udfca\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F3CB U+1F3FB",
-    "name": "WEIGHT LIFTER, TYPE-1-2",
+    "name": "Weight lifter, type-1-2",
     "converted": "\\ud83c\\udfcb\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F3CB U+1F3FC",
-    "name": "WEIGHT LIFTER, TYPE-3",
+    "name": "Weight lifter, type-3",
     "converted": "\\ud83c\\udfcb\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F3CB U+1F3FD",
-    "name": "WEIGHT LIFTER, TYPE-4",
+    "name": "Weight lifter, type-4",
     "converted": "\\ud83c\\udfcb\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F3CB U+1F3FE",
-    "name": "WEIGHT LIFTER, TYPE-5",
+    "name": "Weight lifter, type-5",
     "converted": "\\ud83c\\udfcb\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F3CB U+1F3FF",
-    "name": "WEIGHT LIFTER, TYPE-6",
+    "name": "Weight lifter, type-6",
     "converted": "\\ud83c\\udfcb\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F6B4 U+1F3FB",
-    "name": "BICYCLIST, TYPE-1-2",
+    "name": "Bicyclist, type-1-2",
     "converted": "\\ud83d\\udeb4\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F6B4 U+1F3FC",
-    "name": "BICYCLIST, TYPE-3",
+    "name": "Bicyclist, type-3",
     "converted": "\\ud83d\\udeb4\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F6B4 U+1F3FD",
-    "name": "BICYCLIST, TYPE-4",
+    "name": "Bicyclist, type-4",
     "converted": "\\ud83d\\udeb4\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F6B4 U+1F3FE",
-    "name": "BICYCLIST, TYPE-5",
+    "name": "Bicyclist, type-5",
     "converted": "\\ud83d\\udeb4\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F6B4 U+1F3FF",
-    "name": "BICYCLIST, TYPE-6",
+    "name": "Bicyclist, type-6",
     "converted": "\\ud83d\\udeb4\\ud83c\\udfff"
   },
   {
     "unicode": "U+1F6B5 U+1F3FB",
-    "name": "MOUNTAIN BICYCLIST, TYPE-1-2",
+    "name": "Mountain bicyclist, type-1-2",
     "converted": "\\ud83d\\udeb5\\ud83c\\udffb"
   },
   {
     "unicode": "U+1F6B5 U+1F3FC",
-    "name": "MOUNTAIN BICYCLIST, TYPE-3",
+    "name": "Mountain bicyclist, type-3",
     "converted": "\\ud83d\\udeb5\\ud83c\\udffc"
   },
   {
     "unicode": "U+1F6B5 U+1F3FD",
-    "name": "MOUNTAIN BICYCLIST, TYPE-4",
+    "name": "Mountain bicyclist, type-4",
     "converted": "\\ud83d\\udeb5\\ud83c\\udffd"
   },
   {
     "unicode": "U+1F6B5 U+1F3FE",
-    "name": "MOUNTAIN BICYCLIST, TYPE-5",
+    "name": "Mountain bicyclist, type-5",
     "converted": "\\ud83d\\udeb5\\ud83c\\udffe"
   },
   {
     "unicode": "U+1F6B5 U+1F3FF",
-    "name": "MOUNTAIN BICYCLIST, TYPE-6",
+    "name": "Mountain bicyclist, type-6",
     "converted": "\\ud83d\\udeb5\\ud83c\\udfff"
   },
   {
+    "unicode": "U+1F938 U+1F3FB",
+    "name": "Person doing cartwheel, type-1-2",
+    "converted": "\\ud83e\\udd38\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F938 U+1F3FC",
+    "name": "Person doing cartwheel, type-3",
+    "converted": "\\ud83e\\udd38\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F938 U+1F3FD",
+    "name": "Person doing cartwheel, type-4",
+    "converted": "\\ud83e\\udd38\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F938 U+1F3FE",
+    "name": "Person doing cartwheel, type-5",
+    "converted": "\\ud83e\\udd38\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F938 U+1F3FF",
+    "name": "Person doing cartwheel, type-6",
+    "converted": "\\ud83e\\udd38\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F93C U+1F3FB",
+    "name": "Wrestlers, type-1-2",
+    "converted": "\\ud83e\\udd3c\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F93C U+1F3FC",
+    "name": "Wrestlers, type-3",
+    "converted": "\\ud83e\\udd3c\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F93C U+1F3FD",
+    "name": "Wrestlers, type-4",
+    "converted": "\\ud83e\\udd3c\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F93C U+1F3FE",
+    "name": "Wrestlers, type-5",
+    "converted": "\\ud83e\\udd3c\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F93C U+1F3FF",
+    "name": "Wrestlers, type-6",
+    "converted": "\\ud83e\\udd3c\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F93D U+1F3FB",
+    "name": "Water polo, type-1-2",
+    "converted": "\\ud83e\\udd3d\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F93D U+1F3FC",
+    "name": "Water polo, type-3",
+    "converted": "\\ud83e\\udd3d\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F93D U+1F3FD",
+    "name": "Water polo, type-4",
+    "converted": "\\ud83e\\udd3d\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F93D U+1F3FE",
+    "name": "Water polo, type-5",
+    "converted": "\\ud83e\\udd3d\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F93D U+1F3FF",
+    "name": "Water polo, type-6",
+    "converted": "\\ud83e\\udd3d\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F93E U+1F3FB",
+    "name": "Handball, type-1-2",
+    "converted": "\\ud83e\\udd3e\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F93E U+1F3FC",
+    "name": "Handball, type-3",
+    "converted": "\\ud83e\\udd3e\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F93E U+1F3FD",
+    "name": "Handball, type-4",
+    "converted": "\\ud83e\\udd3e\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F93E U+1F3FE",
+    "name": "Handball, type-5",
+    "converted": "\\ud83e\\udd3e\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F93E U+1F3FF",
+    "name": "Handball, type-6",
+    "converted": "\\ud83e\\udd3e\\ud83c\\udfff"
+  },
+  {
+    "unicode": "U+1F939 U+1F3FB",
+    "name": "Juggling, type-1-2",
+    "converted": "\\ud83e\\udd39\\ud83c\\udffb"
+  },
+  {
+    "unicode": "U+1F939 U+1F3FC",
+    "name": "Juggling, type-3",
+    "converted": "\\ud83e\\udd39\\ud83c\\udffc"
+  },
+  {
+    "unicode": "U+1F939 U+1F3FD",
+    "name": "Juggling, type-4",
+    "converted": "\\ud83e\\udd39\\ud83c\\udffd"
+  },
+  {
+    "unicode": "U+1F939 U+1F3FE",
+    "name": "Juggling, type-5",
+    "converted": "\\ud83e\\udd39\\ud83c\\udffe"
+  },
+  {
+    "unicode": "U+1F939 U+1F3FF",
+    "name": "Juggling, type-6",
+    "converted": "\\ud83e\\udd39\\ud83c\\udfff"
+  },
+  {
     "unicode": "U+1F1E6 U+1F1E8",
-    "name": "Flag for Ascension Island",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\udde6\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1E6 U+1F1E9",
-    "name": "Flag for Andorra",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\udde6\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1E6 U+1F1EA",
-    "name": "Flag for United Arab Emirates",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\udde6\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1E6 U+1F1EB",
-    "name": "Flag for Afghanistan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\udde6\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1E6 U+1F1EC",
-    "name": "Flag for Antigua & Barbuda",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\udde6\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1E6 U+1F1EE",
-    "name": "Flag for Anguilla",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\udde6\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1E6 U+1F1F1",
-    "name": "Flag for Albania",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1E6 U+1F1F2",
-    "name": "Flag for Armenia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1E6 U+1F1F4",
-    "name": "Flag for Angola",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1E6 U+1F1F6",
-    "name": "Flag for Antarctica",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Q",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf6"
   },
   {
     "unicode": "U+1F1E6 U+1F1F7",
-    "name": "Flag for Argentina",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1E6 U+1F1F8",
-    "name": "Flag for American Samoa",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1E6 U+1F1F9",
-    "name": "Flag for Austria",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\udde6\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1E6 U+1F1FA",
-    "name": "Flag for Australia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\udde6\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1E6 U+1F1FC",
-    "name": "Flag for Aruba",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\udde6\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1E6 U+1F1FD",
-    "name": "Flag for Åland Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER X",
     "converted": "\\ud83c\\udde6\\ud83c\\uddfd"
   },
   {
     "unicode": "U+1F1E6 U+1F1FF",
-    "name": "Flag for Azerbaijan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\udde6\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1E7 U+1F1E6",
-    "name": "Flag for Bosnia & Herzegovina",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\udde7\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1E7 U+1F1E7",
-    "name": "Flag for Barbados",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER B",
     "converted": "\\ud83c\\udde7\\ud83c\\udde7"
   },
   {
     "unicode": "U+1F1E7 U+1F1E9",
-    "name": "Flag for Bangladesh",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\udde7\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1E7 U+1F1EA",
-    "name": "Flag for Belgium",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\udde7\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1E7 U+1F1EB",
-    "name": "Flag for Burkina Faso",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\udde7\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1E7 U+1F1EC",
-    "name": "Flag for Bulgaria",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\udde7\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1E7 U+1F1ED",
-    "name": "Flag for Bahrain",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\udde7\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1E7 U+1F1EE",
-    "name": "Flag for Burundi",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\udde7\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1E7 U+1F1EF",
-    "name": "Flag for Benin",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER J",
     "converted": "\\ud83c\\udde7\\ud83c\\uddef"
   },
   {
     "unicode": "U+1F1E7 U+1F1F1",
-    "name": "Flag for St. Barthélemy",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1E7 U+1F1F2",
-    "name": "Flag for Bermuda",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1E7 U+1F1F3",
-    "name": "Flag for Brunei",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1E7 U+1F1F4",
-    "name": "Flag for Bolivia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1E7 U+1F1F6",
-    "name": "Flag for Caribbean Netherlands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Q",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf6"
   },
   {
     "unicode": "U+1F1E7 U+1F1F7",
-    "name": "Flag for Brazil",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1E7 U+1F1F8",
-    "name": "Flag for Bahamas",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1E7 U+1F1F9",
-    "name": "Flag for Bhutan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\udde7\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1E7 U+1F1FB",
-    "name": "Flag for Bouvet Island",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\udde7\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1E7 U+1F1FC",
-    "name": "Flag for Botswana",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\udde7\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1E7 U+1F1FE",
-    "name": "Flag for Belarus",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\udde7\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1E7 U+1F1FF",
-    "name": "Flag for Belize",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\udde7\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1E8 U+1F1E6",
-    "name": "Flag for Canada",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\udde8\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1E8 U+1F1E8",
-    "name": "Flag for Cocos Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\udde8\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1E8 U+1F1E9",
-    "name": "Flag for Congo - Kinshasa",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\udde8\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1E8 U+1F1EB",
-    "name": "Flag for Central African Republic",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\udde8\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1E8 U+1F1EC",
-    "name": "Flag for Congo - Brazzaville",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\udde8\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1E8 U+1F1ED",
-    "name": "Flag for Switzerland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\udde8\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1E8 U+1F1EE",
-    "name": "Flag for Côte d’Ivoire",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\udde8\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1E8 U+1F1F0",
-    "name": "Flag for Cook Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1E8 U+1F1F1",
-    "name": "Flag for Chile",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1E8 U+1F1F2",
-    "name": "Flag for Cameroon",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1E8 U+1F1F3",
-    "name": "Flag for China",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1E8 U+1F1F4",
-    "name": "Flag for Colombia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1E8 U+1F1F5",
-    "name": "Flag for Clipperton Island",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1E8 U+1F1F7",
-    "name": "Flag for Costa Rica",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\udde8\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1E8 U+1F1FA",
-    "name": "Flag for Cuba",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\udde8\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1E8 U+1F1FB",
-    "name": "Flag for Cape Verde",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\udde8\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1E8 U+1F1FC",
-    "name": "Flag for Curaçao",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\udde8\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1E8 U+1F1FD",
-    "name": "Flag for Christmas Island",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER X",
     "converted": "\\ud83c\\udde8\\ud83c\\uddfd"
   },
   {
     "unicode": "U+1F1E8 U+1F1FE",
-    "name": "Flag for Cyprus",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\udde8\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1E8 U+1F1FF",
-    "name": "Flag for Czech Republic",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\udde8\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1E9 U+1F1EA",
-    "name": "Flag for Germany",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\udde9\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1E9 U+1F1EC",
-    "name": "Flag for Diego Garcia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\udde9\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1E9 U+1F1EF",
-    "name": "Flag for Djibouti",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER J",
     "converted": "\\ud83c\\udde9\\ud83c\\uddef"
   },
   {
     "unicode": "U+1F1E9 U+1F1F0",
-    "name": "Flag for Denmark",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\udde9\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1E9 U+1F1F2",
-    "name": "Flag for Dominica",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\udde9\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1E9 U+1F1F4",
-    "name": "Flag for Dominican Republic",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\udde9\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1E9 U+1F1FF",
-    "name": "Flag for Algeria",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\udde9\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1EA U+1F1E6",
-    "name": "Flag for Ceuta & Melilla",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddea\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1EA U+1F1E8",
-    "name": "Flag for Ecuador",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddea\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1EA U+1F1EA",
-    "name": "Flag for Estonia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddea\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1EA U+1F1EC",
-    "name": "Flag for Egypt",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddea\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1EA U+1F1ED",
-    "name": "Flag for Western Sahara",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddea\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1EA U+1F1F7",
-    "name": "Flag for Eritrea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddea\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1EA U+1F1F8",
-    "name": "Flag for Spain",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddea\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1EA U+1F1F9",
-    "name": "Flag for Ethiopia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddea\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1EA U+1F1FA",
-    "name": "Flag for European Union",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddea\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1EB U+1F1EE",
-    "name": "Flag for Finland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1EB U+1F1EF",
-    "name": "Flag for Fiji",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER J",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddef"
   },
   {
     "unicode": "U+1F1EB U+1F1F0",
-    "name": "Flag for Falkland Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1EB U+1F1F2",
-    "name": "Flag for Micronesia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1EB U+1F1F4",
-    "name": "Flag for Faroe Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1EB U+1F1F7",
-    "name": "Flag for France",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddeb\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1EC U+1F1E6",
-    "name": "Flag for Gabon",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddec\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1EC U+1F1E7",
-    "name": "Flag for United Kingdom",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER B",
     "converted": "\\ud83c\\uddec\\ud83c\\udde7"
   },
   {
     "unicode": "U+1F1EC U+1F1E9",
-    "name": "Flag for Grenada",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\uddec\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1EC U+1F1EA",
-    "name": "Flag for Georgia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddec\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1EC U+1F1EB",
-    "name": "Flag for French Guiana",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddec\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1EC U+1F1EC",
-    "name": "Flag for Guernsey",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddec\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1EC U+1F1ED",
-    "name": "Flag for Ghana",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddec\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1EC U+1F1EE",
-    "name": "Flag for Gibraltar",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddec\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1EC U+1F1F1",
-    "name": "Flag for Greenland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1EC U+1F1F2",
-    "name": "Flag for Gambia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1EC U+1F1F3",
-    "name": "Flag for Guinea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1EC U+1F1F5",
-    "name": "Flag for Guadeloupe",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1EC U+1F1F6",
-    "name": "Flag for Equatorial Guinea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Q",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf6"
   },
   {
     "unicode": "U+1F1EC U+1F1F7",
-    "name": "Flag for Greece",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1EC U+1F1F8",
-    "name": "Flag for South Georgia & South Sandwich Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1EC U+1F1F9",
-    "name": "Flag for Guatemala",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddec\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1EC U+1F1FA",
-    "name": "Flag for Guam",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddec\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1EC U+1F1FC",
-    "name": "Flag for Guinea-Bissau",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddec\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1EC U+1F1FE",
-    "name": "Flag for Guyana",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddec\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1ED U+1F1F0",
-    "name": "Flag for Hong Kong",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\udded\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1ED U+1F1F2",
-    "name": "Flag for Heard & McDonald Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\udded\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1ED U+1F1F3",
-    "name": "Flag for Honduras",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\udded\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1ED U+1F1F7",
-    "name": "Flag for Croatia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\udded\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1ED U+1F1F9",
-    "name": "Flag for Haiti",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\udded\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1ED U+1F1FA",
-    "name": "Flag for Hungary",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\udded\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1EE U+1F1E8",
-    "name": "Flag for Canary Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddee\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1EE U+1F1E9",
-    "name": "Flag for Indonesia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\uddee\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1EE U+1F1EA",
-    "name": "Flag for Ireland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddee\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1EE U+1F1F1",
-    "name": "Flag for Israel",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1EE U+1F1F2",
-    "name": "Flag for Isle of Man",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1EE U+1F1F3",
-    "name": "Flag for India",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1EE U+1F1F4",
-    "name": "Flag for British Indian Ocean Territory",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1EE U+1F1F6",
-    "name": "Flag for Iraq",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER Q",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf6"
   },
   {
     "unicode": "U+1F1EE U+1F1F7",
-    "name": "Flag for Iran",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1EE U+1F1F8",
-    "name": "Flag for Iceland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1EE U+1F1F9",
-    "name": "Flag for Italy",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddee\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1EF U+1F1EA",
-    "name": "Flag for Jersey",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddef\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1EF U+1F1F2",
-    "name": "Flag for Jamaica",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddef\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1EF U+1F1F4",
-    "name": "Flag for Jordan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddef\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1EF U+1F1F5",
-    "name": "Flag for Japan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\uddef\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1F0 U+1F1EA",
-    "name": "Flag for Kenya",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F0 U+1F1EC",
-    "name": "Flag for Kyrgyzstan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F0 U+1F1ED",
-    "name": "Flag for Cambodia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddf0\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1F0 U+1F1EE",
-    "name": "Flag for Kiribati",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1F0 U+1F1F2",
-    "name": "Flag for Comoros",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F0 U+1F1F3",
-    "name": "Flag for St. Kitts & Nevis",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1F0 U+1F1F5",
-    "name": "Flag for North Korea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1F0 U+1F1F7",
-    "name": "Flag for South Korea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F0 U+1F1FC",
-    "name": "Flag for Kuwait",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1F0 U+1F1FE",
-    "name": "Flag for Cayman Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1F0 U+1F1FF",
-    "name": "Flag for Kazakhstan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddf0\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1F1 U+1F1E6",
-    "name": "Flag for Laos",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf1\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F1 U+1F1E7",
-    "name": "Flag for Lebanon",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER B",
     "converted": "\\ud83c\\uddf1\\ud83c\\udde7"
   },
   {
     "unicode": "U+1F1F1 U+1F1E8",
-    "name": "Flag for St. Lucia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddf1\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1F1 U+1F1EE",
-    "name": "Flag for Liechtenstein",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1F1 U+1F1F0",
-    "name": "Flag for Sri Lanka",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1F1 U+1F1F7",
-    "name": "Flag for Liberia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F1 U+1F1F8",
-    "name": "Flag for Lesotho",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1F1 U+1F1F9",
-    "name": "Flag for Lithuania",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1F1 U+1F1FA",
-    "name": "Flag for Luxembourg",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1F1 U+1F1FB",
-    "name": "Flag for Latvia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1F1 U+1F1FE",
-    "name": "Flag for Libya",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddf1\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1F2 U+1F1E6",
-    "name": "Flag for Morocco",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf2\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F2 U+1F1E8",
-    "name": "Flag for Monaco",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddf2\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1F2 U+1F1E9",
-    "name": "Flag for Moldova",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\uddf2\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1F2 U+1F1EA",
-    "name": "Flag for Montenegro",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F2 U+1F1EB",
-    "name": "Flag for St. Martin",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1F2 U+1F1EC",
-    "name": "Flag for Madagascar",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F2 U+1F1ED",
-    "name": "Flag for Marshall Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddf2\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1F2 U+1F1F0",
-    "name": "Flag for Macedonia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1F2 U+1F1F1",
-    "name": "Flag for Mali",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1F2 U+1F1F2",
-    "name": "Flag for Myanmar",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F2 U+1F1F3",
-    "name": "Flag for Mongolia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1F2 U+1F1F4",
-    "name": "Flag for Macau",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1F2 U+1F1F5",
-    "name": "Flag for Northern Mariana Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1F2 U+1F1F6",
-    "name": "Flag for Martinique",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Q",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf6"
   },
   {
     "unicode": "U+1F1F2 U+1F1F7",
-    "name": "Flag for Mauritania",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F2 U+1F1F8",
-    "name": "Flag for Montserrat",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1F2 U+1F1F9",
-    "name": "Flag for Malta",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1F2 U+1F1FA",
-    "name": "Flag for Mauritius",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1F2 U+1F1FB",
-    "name": "Flag for Maldives",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1F2 U+1F1FC",
-    "name": "Flag for Malawi",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1F2 U+1F1FD",
-    "name": "Flag for Mexico",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER X",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddfd"
   },
   {
     "unicode": "U+1F1F2 U+1F1FE",
-    "name": "Flag for Malaysia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1F2 U+1F1FF",
-    "name": "Flag for Mozambique",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddf2\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1F3 U+1F1E6",
-    "name": "Flag for Namibia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf3\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F3 U+1F1E8",
-    "name": "Flag for New Caledonia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddf3\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1F3 U+1F1EA",
-    "name": "Flag for Niger",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F3 U+1F1EB",
-    "name": "Flag for Norfolk Island",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1F3 U+1F1EC",
-    "name": "Flag for Nigeria",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F3 U+1F1EE",
-    "name": "Flag for Nicaragua",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1F3 U+1F1F1",
-    "name": "Flag for Netherlands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1F3 U+1F1F4",
-    "name": "Flag for Norway",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1F3 U+1F1F5",
-    "name": "Flag for Nepal",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER P",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddf5"
   },
   {
     "unicode": "U+1F1F3 U+1F1F7",
-    "name": "Flag for Nauru",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F3 U+1F1FA",
-    "name": "Flag for Niue",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1F3 U+1F1FF",
-    "name": "Flag for New Zealand",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddf3\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1F4 U+1F1F2",
-    "name": "Flag for Oman",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER O, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf4\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F5 U+1F1E6",
-    "name": "Flag for Panama",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf5\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F5 U+1F1EA",
-    "name": "Flag for Peru",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F5 U+1F1EB",
-    "name": "Flag for French Polynesia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1F5 U+1F1EC",
-    "name": "Flag for Papua New Guinea",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F5 U+1F1ED",
-    "name": "Flag for Philippines",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddf5\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1F5 U+1F1F0",
-    "name": "Flag for Pakistan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1F5 U+1F1F1",
-    "name": "Flag for Poland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1F5 U+1F1F2",
-    "name": "Flag for St. Pierre & Miquelon",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F5 U+1F1F3",
-    "name": "Flag for Pitcairn Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1F5 U+1F1F7",
-    "name": "Flag for Puerto Rico",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F5 U+1F1F8",
-    "name": "Flag for Palestinian Territories",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1F5 U+1F1F9",
-    "name": "Flag for Portugal",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1F5 U+1F1FC",
-    "name": "Flag for Palau",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1F5 U+1F1FE",
-    "name": "Flag for Paraguay",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddf5\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1F6 U+1F1E6",
-    "name": "Flag for Qatar",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Q, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf6\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F7 U+1F1EA",
-    "name": "Flag for Réunion",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf7\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F7 U+1F1F4",
-    "name": "Flag for Romania",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddf7\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1F7 U+1F1F8",
-    "name": "Flag for Serbia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddf7\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1F7 U+1F1FA",
-    "name": "Flag for Russia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddf7\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1F7 U+1F1FC",
-    "name": "Flag for Rwanda",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddf7\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1F8 U+1F1E6",
-    "name": "Flag for Saudi Arabia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf8\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F8 U+1F1E7",
-    "name": "Flag for Solomon Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER B",
     "converted": "\\ud83c\\uddf8\\ud83c\\udde7"
   },
   {
     "unicode": "U+1F1F8 U+1F1E8",
-    "name": "Flag for Seychelles",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddf8\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1F8 U+1F1E9",
-    "name": "Flag for Sudan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\uddf8\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1F8 U+1F1EA",
-    "name": "Flag for Sweden",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1F8 U+1F1EC",
-    "name": "Flag for Singapore",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F8 U+1F1ED",
-    "name": "Flag for St. Helena",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddf8\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1F8 U+1F1EE",
-    "name": "Flag for Slovenia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1F8 U+1F1EF",
-    "name": "Flag for Svalbard & Jan Mayen",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER J",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddef"
   },
   {
     "unicode": "U+1F1F8 U+1F1F0",
-    "name": "Flag for Slovakia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1F8 U+1F1F1",
-    "name": "Flag for Sierra Leone",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1F8 U+1F1F2",
-    "name": "Flag for San Marino",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F8 U+1F1F3",
-    "name": "Flag for Senegal",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1F8 U+1F1F4",
-    "name": "Flag for Somalia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1F8 U+1F1F7",
-    "name": "Flag for Suriname",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F8 U+1F1F8",
-    "name": "Flag for South Sudan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1F8 U+1F1F9",
-    "name": "Flag for São Tomé & Príncipe",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1F8 U+1F1FB",
-    "name": "Flag for El Salvador",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1F8 U+1F1FD",
-    "name": "Flag for Sint Maarten",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER X",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddfd"
   },
   {
     "unicode": "U+1F1F8 U+1F1FE",
-    "name": "Flag for Syria",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1F8 U+1F1FF",
-    "name": "Flag for Swaziland",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddf8\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1F9 U+1F1E6",
-    "name": "Flag for Tristan da Cunha",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddf9\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1F9 U+1F1E8",
-    "name": "Flag for Turks & Caicos Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddf9\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1F9 U+1F1E9",
-    "name": "Flag for Chad",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER D",
     "converted": "\\ud83c\\uddf9\\ud83c\\udde9"
   },
   {
     "unicode": "U+1F1F9 U+1F1EB",
-    "name": "Flag for French Southern Territories",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1F9 U+1F1EC",
-    "name": "Flag for Togo",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1F9 U+1F1ED",
-    "name": "Flag for Thailand",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER H",
     "converted": "\\ud83c\\uddf9\\ud83c\\udded"
   },
   {
     "unicode": "U+1F1F9 U+1F1EF",
-    "name": "Flag for Tajikistan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER J",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddef"
   },
   {
     "unicode": "U+1F1F9 U+1F1F0",
-    "name": "Flag for Tokelau",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1F9 U+1F1F1",
-    "name": "Flag for Timor-Leste",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER L",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf1"
   },
   {
     "unicode": "U+1F1F9 U+1F1F2",
-    "name": "Flag for Turkmenistan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1F9 U+1F1F3",
-    "name": "Flag for Tunisia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1F9 U+1F1F4",
-    "name": "Flag for Tonga",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER O",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf4"
   },
   {
     "unicode": "U+1F1F9 U+1F1F7",
-    "name": "Flag for Turkey",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER R",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf7"
   },
   {
     "unicode": "U+1F1F9 U+1F1F9",
-    "name": "Flag for Trinidad & Tobago",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1F9 U+1F1FB",
-    "name": "Flag for Tuvalu",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER V",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddfb"
   },
   {
     "unicode": "U+1F1F9 U+1F1FC",
-    "name": "Flag for Taiwan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddfc"
   },
   {
     "unicode": "U+1F1F9 U+1F1FF",
-    "name": "Flag for Tanzania",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddf9\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1FA U+1F1E6",
-    "name": "Flag for Ukraine",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddfa\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1FA U+1F1EC",
-    "name": "Flag for Uganda",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddfa\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1FA U+1F1F2",
-    "name": "Flag for U.S. Outlying Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddfa\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1FA U+1F1F8",
-    "name": "Flag for United States",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddfa\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1FA U+1F1FE",
-    "name": "Flag for Uruguay",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Y",
     "converted": "\\ud83c\\uddfa\\ud83c\\uddfe"
   },
   {
     "unicode": "U+1F1FA U+1F1FF",
-    "name": "Flag for Uzbekistan",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Z",
     "converted": "\\ud83c\\uddfa\\ud83c\\uddff"
   },
   {
     "unicode": "U+1F1FB U+1F1E6",
-    "name": "Flag for Vatican City",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddfb\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1FB U+1F1E8",
-    "name": "Flag for St. Vincent & Grenadines",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER C",
     "converted": "\\ud83c\\uddfb\\ud83c\\udde8"
   },
   {
     "unicode": "U+1F1FB U+1F1EA",
-    "name": "Flag for Venezuela",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddfb\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1FB U+1F1EC",
-    "name": "Flag for British Virgin Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER G",
     "converted": "\\ud83c\\uddfb\\ud83c\\uddec"
   },
   {
     "unicode": "U+1F1FB U+1F1EE",
-    "name": "Flag for U.S. Virgin Islands",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER I",
     "converted": "\\ud83c\\uddfb\\ud83c\\uddee"
   },
   {
     "unicode": "U+1F1FB U+1F1F3",
-    "name": "Flag for Vietnam",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER N",
     "converted": "\\ud83c\\uddfb\\ud83c\\uddf3"
   },
   {
     "unicode": "U+1F1FB U+1F1FA",
-    "name": "Flag for Vanuatu",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER U",
     "converted": "\\ud83c\\uddfb\\ud83c\\uddfa"
   },
   {
     "unicode": "U+1F1FC U+1F1EB",
-    "name": "Flag for Wallis & Futuna",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER F",
     "converted": "\\ud83c\\uddfc\\ud83c\\uddeb"
   },
   {
     "unicode": "U+1F1FC U+1F1F8",
-    "name": "Flag for Samoa",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER S",
     "converted": "\\ud83c\\uddfc\\ud83c\\uddf8"
   },
   {
     "unicode": "U+1F1FD U+1F1F0",
-    "name": "Flag for Kosovo",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER X, REGIONAL INDICATOR SYMBOL LETTER K",
     "converted": "\\ud83c\\uddfd\\ud83c\\uddf0"
   },
   {
     "unicode": "U+1F1FE U+1F1EA",
-    "name": "Flag for Yemen",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER E",
     "converted": "\\ud83c\\uddfe\\ud83c\\uddea"
   },
   {
     "unicode": "U+1F1FE U+1F1F9",
-    "name": "Flag for Mayotte",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER T",
     "converted": "\\ud83c\\uddfe\\ud83c\\uddf9"
   },
   {
     "unicode": "U+1F1FF U+1F1E6",
-    "name": "Flag for South Africa",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER A",
     "converted": "\\ud83c\\uddff\\ud83c\\udde6"
   },
   {
     "unicode": "U+1F1FF U+1F1F2",
-    "name": "Flag for Zambia",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER M",
     "converted": "\\ud83c\\uddff\\ud83c\\uddf2"
   },
   {
     "unicode": "U+1F1FF U+1F1FC",
-    "name": "Flag for Zimbabwe",
+    "name": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER W",
     "converted": "\\ud83c\\uddff\\ud83c\\uddfc"
   },
   {
     "unicode": "U+261D U+1F3FB",
-    "name": "WHITE UP POINTING INDEX, TYPE-1-2",
+    "name": "White up pointing index, type-1-2",
     "converted": "\\u261d\\ud83c\\udffb"
   },
   {
     "unicode": "U+261D U+1F3FC",
-    "name": "WHITE UP POINTING INDEX, TYPE-3",
+    "name": "White up pointing index, type-3",
     "converted": "\\u261d\\ud83c\\udffc"
   },
   {
     "unicode": "U+261D U+1F3FD",
-    "name": "WHITE UP POINTING INDEX, TYPE-4",
+    "name": "White up pointing index, type-4",
     "converted": "\\u261d\\ud83c\\udffd"
   },
   {
     "unicode": "U+261D U+1F3FE",
-    "name": "WHITE UP POINTING INDEX, TYPE-5",
+    "name": "White up pointing index, type-5",
     "converted": "\\u261d\\ud83c\\udffe"
   },
   {
     "unicode": "U+261D U+1F3FF",
-    "name": "WHITE UP POINTING INDEX, TYPE-6",
+    "name": "White up pointing index, type-6",
     "converted": "\\u261d\\ud83c\\udfff"
   },
   {
     "unicode": "U+270C U+1F3FB",
-    "name": "VICTORY HAND, TYPE-1-2",
+    "name": "Victory hand, type-1-2",
     "converted": "\\u270c\\ud83c\\udffb"
   },
   {
     "unicode": "U+270C U+1F3FC",
-    "name": "VICTORY HAND, TYPE-3",
+    "name": "Victory hand, type-3",
     "converted": "\\u270c\\ud83c\\udffc"
   },
   {
     "unicode": "U+270C U+1F3FD",
-    "name": "VICTORY HAND, TYPE-4",
+    "name": "Victory hand, type-4",
     "converted": "\\u270c\\ud83c\\udffd"
   },
   {
     "unicode": "U+270C U+1F3FE",
-    "name": "VICTORY HAND, TYPE-5",
+    "name": "Victory hand, type-5",
     "converted": "\\u270c\\ud83c\\udffe"
   },
   {
     "unicode": "U+270C U+1F3FF",
-    "name": "VICTORY HAND, TYPE-6",
+    "name": "Victory hand, type-6",
     "converted": "\\u270c\\ud83c\\udfff"
   },
   {
     "unicode": "U+270B U+1F3FB",
-    "name": "RAISED HAND, TYPE-1-2",
+    "name": "Raised hand, type-1-2",
     "converted": "\\u270b\\ud83c\\udffb"
   },
   {
     "unicode": "U+270B U+1F3FC",
-    "name": "RAISED HAND, TYPE-3",
+    "name": "Raised hand, type-3",
     "converted": "\\u270b\\ud83c\\udffc"
   },
   {
     "unicode": "U+270B U+1F3FD",
-    "name": "RAISED HAND, TYPE-4",
+    "name": "Raised hand, type-4",
     "converted": "\\u270b\\ud83c\\udffd"
   },
   {
     "unicode": "U+270B U+1F3FE",
-    "name": "RAISED HAND, TYPE-5",
+    "name": "Raised hand, type-5",
     "converted": "\\u270b\\ud83c\\udffe"
   },
   {
     "unicode": "U+270B U+1F3FF",
-    "name": "RAISED HAND, TYPE-6",
+    "name": "Raised hand, type-6",
     "converted": "\\u270b\\ud83c\\udfff"
   },
   {
     "unicode": "U+270A U+1F3FB",
-    "name": "RAISED FIST, TYPE-1-2",
+    "name": "Raised fist, type-1-2",
     "converted": "\\u270a\\ud83c\\udffb"
   },
   {
     "unicode": "U+270A U+1F3FC",
-    "name": "RAISED FIST, TYPE-3",
+    "name": "Raised fist, type-3",
     "converted": "\\u270a\\ud83c\\udffc"
   },
   {
     "unicode": "U+270A U+1F3FD",
-    "name": "RAISED FIST, TYPE-4",
+    "name": "Raised fist, type-4",
     "converted": "\\u270a\\ud83c\\udffd"
   },
   {
     "unicode": "U+270A U+1F3FE",
-    "name": "RAISED FIST, TYPE-5",
+    "name": "Raised fist, type-5",
     "converted": "\\u270a\\ud83c\\udffe"
   },
   {
     "unicode": "U+270A U+1F3FF",
-    "name": "RAISED FIST, TYPE-6",
+    "name": "Raised fist, type-6",
     "converted": "\\u270a\\ud83c\\udfff"
   },
   {
     "unicode": "U+270D U+1F3FB",
-    "name": "WRITING HAND, TYPE-1-2",
+    "name": "Writing hand, type-1-2",
     "converted": "\\u270d\\ud83c\\udffb"
   },
   {
     "unicode": "U+270D U+1F3FC",
-    "name": "WRITING HAND, TYPE-3",
+    "name": "Writing hand, type-3",
     "converted": "\\u270d\\ud83c\\udffc"
   },
   {
     "unicode": "U+270D U+1F3FD",
-    "name": "WRITING HAND, TYPE-4",
+    "name": "Writing hand, type-4",
     "converted": "\\u270d\\ud83c\\udffd"
   },
   {
     "unicode": "U+270D U+1F3FE",
-    "name": "WRITING HAND, TYPE-5",
+    "name": "Writing hand, type-5",
     "converted": "\\u270d\\ud83c\\udffe"
   },
   {
     "unicode": "U+270D U+1F3FF",
-    "name": "WRITING HAND, TYPE-6",
+    "name": "Writing hand, type-6",
     "converted": "\\u270d\\ud83c\\udfff"
   },
   {
     "unicode": "U+26F9 U+1F3FB",
-    "name": "PERSON WITH BALL, TYPE-1-2",
+    "name": "Person with ball, type-1-2",
     "converted": "\\u26f9\\ud83c\\udffb"
   },
   {
     "unicode": "U+26F9 U+1F3FC",
-    "name": "PERSON WITH BALL, TYPE-3",
+    "name": "Person with ball, type-3",
     "converted": "\\u26f9\\ud83c\\udffc"
   },
   {
     "unicode": "U+26F9 U+1F3FD",
-    "name": "PERSON WITH BALL, TYPE-4",
+    "name": "Person with ball, type-4",
     "converted": "\\u26f9\\ud83c\\udffd"
   },
   {
     "unicode": "U+26F9 U+1F3FE",
-    "name": "PERSON WITH BALL, TYPE-5",
+    "name": "Person with ball, type-5",
     "converted": "\\u26f9\\ud83c\\udffe"
   },
   {
     "unicode": "U+26F9 U+1F3FF",
-    "name": "PERSON WITH BALL, TYPE-6",
+    "name": "Person with ball, type-6",
     "converted": "\\u26f9\\ud83c\\udfff"
   },
   {
@@ -3068,6 +3543,11 @@
     "unicode": "U+1F602",
     "name": "FACE WITH TEARS OF JOY",
     "converted": "\\ud83d\\ude02"
+  },
+  {
+    "unicode": "U+1F923",
+    "name": "ROLLING ON THE FLOOR LAUGHING",
+    "converted": "\\ud83e\\udd23"
   },
   {
     "unicode": "U+1F603",
@@ -3145,16 +3625,6 @@
     "converted": "\\ud83e\\udd17"
   },
   {
-    "unicode": "U+1F607",
-    "name": "SMILING FACE WITH HALO",
-    "converted": "\\ud83d\\ude07"
-  },
-  {
-    "unicode": "U+1F913",
-    "name": "NERD FACE",
-    "converted": "\\ud83e\\udd13"
-  },
-  {
     "unicode": "U+1F914",
     "name": "THINKING FACE",
     "converted": "\\ud83e\\udd14"
@@ -3230,6 +3700,11 @@
     "converted": "\\ud83d\\ude0c"
   },
   {
+    "unicode": "U+1F913",
+    "name": "NERD FACE",
+    "converted": "\\ud83e\\udd13"
+  },
+  {
     "unicode": "U+1F61B",
     "name": "FACE WITH STUCK-OUT TONGUE",
     "converted": "\\ud83d\\ude1b"
@@ -3243,6 +3718,11 @@
     "unicode": "U+1F61D",
     "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
     "converted": "\\ud83d\\ude1d"
+  },
+  {
+    "unicode": "U+1F924",
+    "name": "DROOLING FACE",
+    "converted": "\\ud83e\\udd24"
   },
   {
     "unicode": "U+1F612",
@@ -3278,21 +3758,6 @@
     "unicode": "U+1F632",
     "name": "ASTONISHED FACE",
     "converted": "\\ud83d\\ude32"
-  },
-  {
-    "unicode": "U+1F637",
-    "name": "FACE WITH MEDICAL MASK",
-    "converted": "\\ud83d\\ude37"
-  },
-  {
-    "unicode": "U+1F912",
-    "name": "FACE WITH THERMOMETER",
-    "converted": "\\ud83e\\udd12"
-  },
-  {
-    "unicode": "U+1F915",
-    "name": "FACE WITH HEAD-BANDAGE",
-    "converted": "\\ud83e\\udd15"
   },
   {
     "unicode": "U+1F641",
@@ -3383,6 +3848,51 @@
     "unicode": "U+1F620",
     "name": "ANGRY FACE",
     "converted": "\\ud83d\\ude20"
+  },
+  {
+    "unicode": "U+1F607",
+    "name": "SMILING FACE WITH HALO",
+    "converted": "\\ud83d\\ude07"
+  },
+  {
+    "unicode": "U+1F920",
+    "name": "FACE WITH COWBOY HAT",
+    "converted": "\\ud83e\\udd20"
+  },
+  {
+    "unicode": "U+1F921",
+    "name": "CLOWN FACE",
+    "converted": "\\ud83e\\udd21"
+  },
+  {
+    "unicode": "U+1F925",
+    "name": "LYING FACE",
+    "converted": "\\ud83e\\udd25"
+  },
+  {
+    "unicode": "U+1F637",
+    "name": "FACE WITH MEDICAL MASK",
+    "converted": "\\ud83d\\ude37"
+  },
+  {
+    "unicode": "U+1F912",
+    "name": "FACE WITH THERMOMETER",
+    "converted": "\\ud83e\\udd12"
+  },
+  {
+    "unicode": "U+1F915",
+    "name": "FACE WITH HEAD-BANDAGE",
+    "converted": "\\ud83e\\udd15"
+  },
+  {
+    "unicode": "U+1F922",
+    "name": "NAUSEATED FACE",
+    "converted": "\\ud83e\\udd22"
+  },
+  {
+    "unicode": "U+1F927",
+    "name": "SNEEZING FACE",
+    "converted": "\\ud83e\\udd27"
   },
   {
     "unicode": "U+1F608",
@@ -3530,6 +4040,11 @@
     "converted": "\\ud83d\\udc76"
   },
   {
+    "unicode": "U+1F47C",
+    "name": "BABY ANGEL",
+    "converted": "\\ud83d\\udc7c"
+  },
+  {
     "unicode": "U+1F471",
     "name": "PERSON WITH BLOND HAIR",
     "converted": "\\ud83d\\udc71"
@@ -3560,6 +4075,11 @@
     "converted": "\\ud83d\\udc78"
   },
   {
+    "unicode": "U+1F934",
+    "name": "PRINCE",
+    "converted": "\\ud83e\\udd34"
+  },
+  {
     "unicode": "U+1F482",
     "name": "GUARDSMAN",
     "converted": "\\ud83d\\udc82"
@@ -3575,14 +4095,19 @@
     "converted": "\\ud83c\\udf85"
   },
   {
+    "unicode": "U+1F936",
+    "name": "MOTHER CHRISTMAS",
+    "converted": "\\ud83e\\udd36"
+  },
+  {
     "unicode": "U+1F470",
     "name": "BRIDE WITH VEIL",
     "converted": "\\ud83d\\udc70"
   },
   {
-    "unicode": "U+1F47C",
-    "name": "BABY ANGEL",
-    "converted": "\\ud83d\\udc7c"
+    "unicode": "U+1F935",
+    "name": "MAN IN TUXEDO",
+    "converted": "\\ud83e\\udd35"
   },
   {
     "unicode": "U+1F486",
@@ -3620,9 +4145,19 @@
     "converted": "\\ud83d\\udc81"
   },
   {
+    "unicode": "U+1F937",
+    "name": "SHRUG",
+    "converted": "\\ud83e\\udd37"
+  },
+  {
     "unicode": "U+1F64B",
     "name": "HAPPY PERSON RAISING ONE HAND≊ happy person raising hand",
     "converted": "\\ud83d\\ude4b"
+  },
+  {
+    "unicode": "U+1F926",
+    "name": "FACE PALM",
+    "converted": "\\ud83e\\udd26"
   },
   {
     "unicode": "U+1F647",
@@ -3630,14 +4165,39 @@
     "converted": "\\ud83d\\ude47"
   },
   {
-    "unicode": "U+1F64C",
-    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION≊ person raising hands",
-    "converted": "\\ud83d\\ude4c"
+    "unicode": "U+1F6B6",
+    "name": "PEDESTRIAN",
+    "converted": "\\ud83d\\udeb6"
   },
   {
-    "unicode": "U+1F64F",
-    "name": "PERSON WITH FOLDED HANDS≊ folded hands",
-    "converted": "\\ud83d\\ude4f"
+    "unicode": "U+1F3C3",
+    "name": "RUNNER",
+    "converted": "\\ud83c\\udfc3"
+  },
+  {
+    "unicode": "U+1F483",
+    "name": "DANCER",
+    "converted": "\\ud83d\\udc83"
+  },
+  {
+    "unicode": "U+1F57A",
+    "name": "MAN DANCING",
+    "converted": "\\ud83d\\udd7a"
+  },
+  {
+    "unicode": "U+1F930",
+    "name": "PREGNANT WOMAN",
+    "converted": "\\ud83e\\udd30"
+  },
+  {
+    "unicode": "U+1F46F",
+    "name": "WOMAN WITH BUNNY EARS≊ women partying",
+    "converted": "\\ud83d\\udc6f"
+  },
+  {
+    "unicode": "U+1F574",
+    "name": "MAN IN BUSINESS SUIT LEVITATING",
+    "converted": "\\ud83d\\udd74"
   },
   {
     "unicode": "U+1F5E3",
@@ -3653,31 +4213,6 @@
     "unicode": "U+1F465",
     "name": "BUSTS IN SILHOUETTE",
     "converted": "\\ud83d\\udc65"
-  },
-  {
-    "unicode": "U+1F6B6",
-    "name": "PEDESTRIAN",
-    "converted": "\\ud83d\\udeb6"
-  },
-  {
-    "unicode": "U+1F3C3",
-    "name": "RUNNER",
-    "converted": "\\ud83c\\udfc3"
-  },
-  {
-    "unicode": "U+1F46F",
-    "name": "WOMAN WITH BUNNY EARS≊ women partying",
-    "converted": "\\ud83d\\udc6f"
-  },
-  {
-    "unicode": "U+1F483",
-    "name": "DANCER",
-    "converted": "\\ud83d\\udc83"
-  },
-  {
-    "unicode": "U+1F574",
-    "name": "MAN IN BUSINESS SUIT LEVITATING",
-    "converted": "\\ud83d\\udd74"
   },
   {
     "unicode": "U+1F46B",
@@ -3740,6 +4275,11 @@
     "converted": "\\ud83d\\udcaa"
   },
   {
+    "unicode": "U+1F933",
+    "name": "SELFIE",
+    "converted": "\\ud83e\\udd33"
+  },
+  {
     "unicode": "U+1F448",
     "name": "WHITE LEFT POINTING BACKHAND INDEX≊ backhand index pointing left",
     "converted": "\\ud83d\\udc48"
@@ -3765,6 +4305,11 @@
     "converted": "\\ud83d\\udc47"
   },
   {
+    "unicode": "U+1F91E",
+    "name": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+    "converted": "\\ud83e\\udd1e"
+  },
+  {
     "unicode": "U+1F596",
     "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS≊ vulcan salute",
     "converted": "\\ud83d\\udd96"
@@ -3773,6 +4318,11 @@
     "unicode": "U+1F918",
     "name": "SIGN OF THE HORNS",
     "converted": "\\ud83e\\udd18"
+  },
+  {
+    "unicode": "U+1F919",
+    "name": "CALL ME HAND",
+    "converted": "\\ud83e\\udd19"
   },
   {
     "unicode": "U+1F590",
@@ -3800,6 +4350,21 @@
     "converted": "\\ud83d\\udc4a"
   },
   {
+    "unicode": "U+1F91B",
+    "name": "LEFT-FACING FIST",
+    "converted": "\\ud83e\\udd1b"
+  },
+  {
+    "unicode": "U+1F91C",
+    "name": "RIGHT-FACING FIST",
+    "converted": "\\ud83e\\udd1c"
+  },
+  {
+    "unicode": "U+1F91A",
+    "name": "RAISED BACK OF HAND",
+    "converted": "\\ud83e\\udd1a"
+  },
+  {
     "unicode": "U+1F44B",
     "name": "WAVING HAND SIGN≊ waving hand",
     "converted": "\\ud83d\\udc4b"
@@ -3813,6 +4378,21 @@
     "unicode": "U+1F450",
     "name": "OPEN HANDS SIGN≊ open hands",
     "converted": "\\ud83d\\udc50"
+  },
+  {
+    "unicode": "U+1F64C",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION≊ person raising hands",
+    "converted": "\\ud83d\\ude4c"
+  },
+  {
+    "unicode": "U+1F64F",
+    "name": "PERSON WITH FOLDED HANDS≊ folded hands",
+    "converted": "\\ud83d\\ude4f"
+  },
+  {
+    "unicode": "U+1F91D",
+    "name": "HANDSHAKE",
+    "converted": "\\ud83e\\udd1d"
   },
   {
     "unicode": "U+1F485",
@@ -3908,6 +4488,11 @@
     "unicode": "U+1F49C",
     "name": "PURPLE HEART",
     "converted": "\\ud83d\\udc9c"
+  },
+  {
+    "unicode": "U+1F5A4",
+    "name": "BLACK HEART",
+    "converted": "\\ud83d\\udda4"
   },
   {
     "unicode": "U+1F49D",
@@ -4135,6 +4720,11 @@
     "converted": "\\ud83d\\udc12"
   },
   {
+    "unicode": "U+1F98D",
+    "name": "GORILLA",
+    "converted": "\\ud83e\\udd8d"
+  },
+  {
     "unicode": "U+1F436",
     "name": "DOG FACE",
     "converted": "\\ud83d\\udc36"
@@ -4153,6 +4743,11 @@
     "unicode": "U+1F43A",
     "name": "WOLF FACE",
     "converted": "\\ud83d\\udc3a"
+  },
+  {
+    "unicode": "U+1F98A",
+    "name": "FOX FACE",
+    "converted": "\\ud83e\\udd8a"
   },
   {
     "unicode": "U+1F431",
@@ -4193,6 +4788,11 @@
     "unicode": "U+1F40E",
     "name": "HORSE",
     "converted": "\\ud83d\\udc0e"
+  },
+  {
+    "unicode": "U+1F98C",
+    "name": "DEER",
+    "converted": "\\ud83e\\udd8c"
   },
   {
     "unicode": "U+1F984",
@@ -4270,6 +4870,11 @@
     "converted": "\\ud83d\\udc18"
   },
   {
+    "unicode": "U+1F98F",
+    "name": "RHINOCEROS",
+    "converted": "\\ud83e\\udd8f"
+  },
+  {
     "unicode": "U+1F42D",
     "name": "MOUSE FACE",
     "converted": "\\ud83d\\udc2d"
@@ -4303,6 +4908,11 @@
     "unicode": "U+1F43F",
     "name": "CHIPMUNK",
     "converted": "\\ud83d\\udc3f"
+  },
+  {
+    "unicode": "U+1F987",
+    "name": "BAT",
+    "converted": "\\ud83e\\udd87"
   },
   {
     "unicode": "U+1F43B",
@@ -4370,6 +4980,21 @@
     "converted": "\\ud83d\\udd4a"
   },
   {
+    "unicode": "U+1F985",
+    "name": "EAGLE",
+    "converted": "\\ud83e\\udd85"
+  },
+  {
+    "unicode": "U+1F986",
+    "name": "DUCK",
+    "converted": "\\ud83e\\udd86"
+  },
+  {
+    "unicode": "U+1F989",
+    "name": "OWL",
+    "converted": "\\ud83e\\udd89"
+  },
+  {
     "unicode": "U+1F438",
     "name": "FROG FACE",
     "converted": "\\ud83d\\udc38"
@@ -4383,6 +5008,11 @@
     "unicode": "U+1F422",
     "name": "TURTLE",
     "converted": "\\ud83d\\udc22"
+  },
+  {
+    "unicode": "U+1F98E",
+    "name": "LIZARD",
+    "converted": "\\ud83e\\udd8e"
   },
   {
     "unicode": "U+1F40D",
@@ -4430,6 +5060,11 @@
     "converted": "\\ud83d\\udc21"
   },
   {
+    "unicode": "U+1F988",
+    "name": "SHARK",
+    "converted": "\\ud83e\\udd88"
+  },
+  {
     "unicode": "U+1F419",
     "name": "OCTOPUS",
     "converted": "\\ud83d\\udc19"
@@ -4443,6 +5078,21 @@
     "unicode": "U+1F980",
     "name": "CRAB",
     "converted": "\\ud83e\\udd80"
+  },
+  {
+    "unicode": "U+1F990",
+    "name": "SHRIMP",
+    "converted": "\\ud83e\\udd90"
+  },
+  {
+    "unicode": "U+1F991",
+    "name": "SQUID",
+    "converted": "\\ud83e\\udd91"
+  },
+  {
+    "unicode": "U+1F98B",
+    "name": "BUTTERFLY",
+    "converted": "\\ud83e\\udd8b"
   },
   {
     "unicode": "U+1F40C",
@@ -4508,6 +5158,11 @@
     "unicode": "U+1F339",
     "name": "ROSE",
     "converted": "\\ud83c\\udf39"
+  },
+  {
+    "unicode": "U+1F940",
+    "name": "WILTED FLOWER",
+    "converted": "\\ud83e\\udd40"
   },
   {
     "unicode": "U+1F33A",
@@ -4655,9 +5310,29 @@
     "converted": "\\ud83c\\udf45"
   },
   {
+    "unicode": "U+1F95D",
+    "name": "KIWIFRUIT",
+    "converted": "\\ud83e\\udd5d"
+  },
+  {
+    "unicode": "U+1F951",
+    "name": "AVOCADO",
+    "converted": "\\ud83e\\udd51"
+  },
+  {
     "unicode": "U+1F346",
     "name": "AUBERGINE≊ eggplant",
     "converted": "\\ud83c\\udf46"
+  },
+  {
+    "unicode": "U+1F954",
+    "name": "POTATO",
+    "converted": "\\ud83e\\udd54"
+  },
+  {
+    "unicode": "U+1F955",
+    "name": "CARROT",
+    "converted": "\\ud83e\\udd55"
   },
   {
     "unicode": "U+1F33D",
@@ -4670,9 +5345,19 @@
     "converted": "\\ud83c\\udf36"
   },
   {
+    "unicode": "U+1F952",
+    "name": "CUCUMBER",
+    "converted": "\\ud83e\\udd52"
+  },
+  {
     "unicode": "U+1F344",
     "name": "MUSHROOM",
     "converted": "\\ud83c\\udf44"
+  },
+  {
+    "unicode": "U+1F95C",
+    "name": "PEANUTS",
+    "converted": "\\ud83e\\udd5c"
   },
   {
     "unicode": "U+1F330",
@@ -4683,6 +5368,21 @@
     "unicode": "U+1F35E",
     "name": "BREAD",
     "converted": "\\ud83c\\udf5e"
+  },
+  {
+    "unicode": "U+1F950",
+    "name": "CROISSANT",
+    "converted": "\\ud83e\\udd50"
+  },
+  {
+    "unicode": "U+1F956",
+    "name": "BAGUETTE BREAD",
+    "converted": "\\ud83e\\udd56"
+  },
+  {
+    "unicode": "U+1F95E",
+    "name": "PANCAKES",
+    "converted": "\\ud83e\\udd5e"
   },
   {
     "unicode": "U+1F9C0",
@@ -4698,6 +5398,11 @@
     "unicode": "U+1F357",
     "name": "POULTRY LEG",
     "converted": "\\ud83c\\udf57"
+  },
+  {
+    "unicode": "U+1F953",
+    "name": "BACON",
+    "converted": "\\ud83e\\udd53"
   },
   {
     "unicode": "U+1F354",
@@ -4730,14 +5435,34 @@
     "converted": "\\ud83c\\udf2f"
   },
   {
+    "unicode": "U+1F959",
+    "name": "STUFFED FLATBREAD",
+    "converted": "\\ud83e\\udd59"
+  },
+  {
+    "unicode": "U+1F95A",
+    "name": "EGG",
+    "converted": "\\ud83e\\udd5a"
+  },
+  {
     "unicode": "U+1F373",
     "name": "COOKING",
     "converted": "\\ud83c\\udf73"
   },
   {
+    "unicode": "U+1F958",
+    "name": "SHALLOW PAN OF FOOD",
+    "converted": "\\ud83e\\udd58"
+  },
+  {
     "unicode": "U+1F372",
     "name": "POT OF FOOD",
     "converted": "\\ud83c\\udf72"
+  },
+  {
+    "unicode": "U+1F957",
+    "name": "GREEN SALAD",
+    "converted": "\\ud83e\\udd57"
   },
   {
     "unicode": "U+1F37F",
@@ -4875,6 +5600,11 @@
     "converted": "\\ud83c\\udf7c"
   },
   {
+    "unicode": "U+1F95B",
+    "name": "GLASS OF MILK",
+    "converted": "\\ud83e\\udd5b"
+  },
+  {
     "unicode": "U+1F375",
     "name": "TEACUP WITHOUT HANDLE",
     "converted": "\\ud83c\\udf75"
@@ -4915,6 +5645,16 @@
     "converted": "\\ud83c\\udf7b"
   },
   {
+    "unicode": "U+1F942",
+    "name": "CLINKING GLASSES",
+    "converted": "\\ud83e\\udd42"
+  },
+  {
+    "unicode": "U+1F943",
+    "name": "TUMBLER GLASS",
+    "converted": "\\ud83e\\udd43"
+  },
+  {
     "unicode": "U+1F37D",
     "name": "FORK AND KNIFE WITH PLATE",
     "converted": "\\ud83c\\udf7d"
@@ -4923,6 +5663,11 @@
     "unicode": "U+1F374",
     "name": "FORK AND KNIFE",
     "converted": "\\ud83c\\udf74"
+  },
+  {
+    "unicode": "U+1F944",
+    "name": "SPOON",
+    "converted": "\\ud83e\\udd44"
   },
   {
     "unicode": "U+1F52A",
@@ -5405,9 +6150,29 @@
     "converted": "\\ud83d\\udea7"
   },
   {
+    "unicode": "U+1F6D1",
+    "name": "OCTAGONAL SIGN",
+    "converted": "\\ud83d\\uded1"
+  },
+  {
+    "unicode": "U+1F6F4",
+    "name": "SCOOTER",
+    "converted": "\\ud83d\\udef4"
+  },
+  {
+    "unicode": "U+1F6F5",
+    "name": "MOTOR SCOOTER",
+    "converted": "\\ud83d\\udef5"
+  },
+  {
     "unicode": "U+1F6A3",
     "name": "ROWBOAT",
     "converted": "\\ud83d\\udea3"
+  },
+  {
+    "unicode": "U+1F6F6",
+    "name": "CANOE",
+    "converted": "\\ud83d\\udef6"
   },
   {
     "unicode": "U+1F6A4",
@@ -5915,6 +6680,21 @@
     "converted": "\\ud83c\\udfc5"
   },
   {
+    "unicode": "U+1F947",
+    "name": "FIRST PLACE MEDAL",
+    "converted": "\\ud83e\\udd47"
+  },
+  {
+    "unicode": "U+1F948",
+    "name": "SECOND PLACE MEDAL",
+    "converted": "\\ud83e\\udd48"
+  },
+  {
+    "unicode": "U+1F949",
+    "name": "THIRD PLACE MEDAL",
+    "converted": "\\ud83e\\udd49"
+  },
+  {
     "unicode": "U+1F3C0",
     "name": "BASKETBALL AND HOOP≊ basketball",
     "converted": "\\ud83c\\udfc0"
@@ -5973,6 +6753,16 @@
     "unicode": "U+1F3F8",
     "name": "BADMINTON RACQUET AND SHUTTLECOCK≊ badminton",
     "converted": "\\ud83c\\udff8"
+  },
+  {
+    "unicode": "U+1F94A",
+    "name": "BOXING GLOVE",
+    "converted": "\\ud83e\\udd4a"
+  },
+  {
+    "unicode": "U+1F94B",
+    "name": "MARTIAL ARTS UNIFORM",
+    "converted": "\\ud83e\\udd4b"
   },
   {
     "unicode": "U+1F3CC",
@@ -6038,6 +6828,41 @@
     "unicode": "U+1F3CD",
     "name": "RACING MOTORCYCLE≊ motorcycle",
     "converted": "\\ud83c\\udfcd"
+  },
+  {
+    "unicode": "U+1F938",
+    "name": "PERSON DOING CARTWHEEL",
+    "converted": "\\ud83e\\udd38"
+  },
+  {
+    "unicode": "U+1F93C",
+    "name": "WRESTLERS",
+    "converted": "\\ud83e\\udd3c"
+  },
+  {
+    "unicode": "U+1F93D",
+    "name": "WATER POLO",
+    "converted": "\\ud83e\\udd3d"
+  },
+  {
+    "unicode": "U+1F93E",
+    "name": "HANDBALL",
+    "converted": "\\ud83e\\udd3e"
+  },
+  {
+    "unicode": "U+1F93A",
+    "name": "FENCER",
+    "converted": "\\ud83e\\udd3a"
+  },
+  {
+    "unicode": "U+1F945",
+    "name": "GOAL NET",
+    "converted": "\\ud83e\\udd45"
+  },
+  {
+    "unicode": "U+1F939",
+    "name": "JUGGLING",
+    "converted": "\\ud83e\\udd39"
   },
   {
     "unicode": "U+1F3AF",
@@ -6188,6 +7013,11 @@
     "unicode": "U+1F3BB",
     "name": "VIOLIN",
     "converted": "\\ud83c\\udfbb"
+  },
+  {
+    "unicode": "U+1F941",
+    "name": "DRUM WITH DRUMSTICKS",
+    "converted": "\\ud83e\\udd41"
   },
   {
     "unicode": "U+1F4F1",
@@ -6800,6 +7630,11 @@
     "converted": "\\ud83d\\udd2e"
   },
   {
+    "unicode": "U+1F6D2",
+    "name": "SHOPPING TROLLEY",
+    "converted": "\\ud83d\\uded2"
+  },
+  {
     "unicode": "U+1F3E7",
     "name": "AUTOMATED TELLER MACHINE≊ ATM sign",
     "converted": "\\ud83c\\udfe7"
@@ -7315,11 +8150,6 @@
     "converted": "\\u2620"
   },
   {
-    "unicode": "U+26D1",
-    "name": "HELMET WITH WHITE CROSS",
-    "converted": "\\u26d1"
-  },
-  {
     "unicode": "U+261D",
     "name": "WHITE UP POINTING INDEX≊ index pointing up",
     "converted": "\\u261d"
@@ -7353,6 +8183,11 @@
     "unicode": "U+2763",
     "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
     "converted": "\\u2763"
+  },
+  {
+    "unicode": "U+26D1",
+    "name": "HELMET WITH WHITE CROSS",
+    "converted": "\\u26d1"
   },
   {
     "unicode": "U+2618",
