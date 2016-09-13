@@ -542,7 +542,7 @@ var twemoji = (function(
   }
 
   function replace(text, callback) {
-    return String(text).replace(re, callback);
+    return String(text).replace(re, callback).replace(/[\ufe0e\ufe0f]/g, '');
   }
 
   function test(text) {
