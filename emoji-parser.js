@@ -419,6 +419,7 @@ var twemoji = (function(
         subnode.parentNode.replaceChild(fragment, subnode);
       }
     }
+    node.innerHTML = node.innerHTML.replace(/[\ufe0e\ufe0f]/g, '');
     return node;
   }
 
