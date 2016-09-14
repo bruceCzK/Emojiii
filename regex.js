@@ -6,11 +6,11 @@
   const fs = require('fs-extra');
   const _ = require('lodash');
 
-  var emojiList = fs.readJsonSync(__dirname + '/emoji.json');
-  var fromCharCode = String.fromCharCode;
-  var unicodeToJsEscape = require('unicode-escape');
+  let emojiList = fs.readJsonSync(__dirname + '/emoji.json');
+  const fromCharCode = String.fromCharCode;
+  const unicodeToJsEscape = require('unicode-escape');
 
-  var unicodeList = emojiList.map(function (emoji) {
+  let unicodeList = emojiList.map(function (emoji) {
     emoji.converted = emoji.unicode.replace(/U\+/g, '').replace(/\s/g, '-');
     return emoji;
   });
@@ -24,18 +24,25 @@
     return unicode;
   });
 
-  fs.outputFile(__dirname + '/regex.txt', unicodeList.map((u)=> {
+  console.log('Exporting regex-es5.txt');
+  fs.outputFileSync(__dirname + '/regex-es5.txt', unicodeList.map((u)=> {
     return u.converted;
   }).join('|'));
 
-  fs.outputFile(__dirname + '/regex-unicode.txt', unicodeList.map((u)=> {
+  console.log('Exporting regex-es6.txt');
+  fs.outputFileSync(__dirname + '/regex-es6.txt', unicodeList.map((u)=> {
+    return u.unicode.replace(/\s/g, '').replace(/U\+([0-9A-F]+)/ig, '\\u{$1}').toLocaleLowerCase();
+  }).join('|'));
+
+  console.log('Exporting regex-python.txt');
+  fs.outputFileSync(__dirname + '/regex-python.txt', unicodeList.map((u)=> {
     return u.unicode.replace(/\s/g, '').replace(/U\+/g, 'U000');
   }).join('|'));
 
   fs.outputJson(__dirname + '/unicode.json', unicodeList);
 
   function fromCodePoint(codepoint) {
-    var code = typeof codepoint === 'string' ?
+    let code = typeof codepoint === 'string' ?
       parseInt(codepoint, 16) : codepoint;
     if (code < 0x10000) {
       return fromCharCode(code);

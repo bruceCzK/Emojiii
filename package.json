@@ -16,6 +16,7 @@
   "dependencies": {
     "fs-extra": "^0.30.0",
     "lodash": "^4.13.1",
+    "unicode-escape": "latest",
     "x-ray": "^2.3.0"
   }
 }
