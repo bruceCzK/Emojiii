@@ -36,7 +36,7 @@
 
   console.log('Exporting regex-python.txt');
   fs.outputFileSync(__dirname + '/regex-python.txt', unicodeList.map((u)=> {
-    return u.unicode.replace(/\s/g, '').replace(/U\+/g, 'U000');
+    return u.unicode.replace(/\s/g, '').replace(/U\+/g, '\\U000');
   }).join('|'));
 
   fs.outputJson(__dirname + '/unicode.json', unicodeList);
