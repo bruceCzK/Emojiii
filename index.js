@@ -10,12 +10,12 @@
 
   // Original URL http://unicode.org/emoji/charts/full-emoji-list.html
   // For users in china mainland, use https://ark.xinshu.me/pages/unicode/
-  var emojiListUrl = 'https://ark.xinshu.me/pages/unicode/';
+  const emojiListUrl = 'https://ark.xinshu.me/pages/unicode/';
 
   console.log('Fetching emoji list from', emojiListUrl);
   console.log('--------');
 
-  var xrayConfig = {
+  const xrayConfig = {
     unicode: 'td:nth-child(2)',
     image: {
       apple: 'td:nth-child(5) img@src',
@@ -52,12 +52,19 @@
         }
       }));
       emojiList.forEach(function (emoji) {
-        var unicode = emoji.unicode.replace(/u\+/ig, '').replace(/\s/g, '-').toLocaleLowerCase();
+        let unicode = emoji.unicode.replace(/u\+/ig, '').replace(/\s/g, '-').toLocaleLowerCase();
         Object.keys(xrayConfig.image).forEach(function (type) {
           if (!emoji.image[type]) {
             return;
           }
-          var buffer = decodeBase64Image(emoji.image[type]);
+          const buffer = decodeBase64Image(emoji.image[type]);
+
+          if (/00a9|00ae/.test(unicode)) {
+            unicode = unicode.replace('00', '');
+          }
+
+          type = type.replace(/([A-Z])/g, '-$1').toLowerCase();
+
           fs.outputFile(path.join(__dirname, 'images', type, unicode + '.png'), buffer);
         });
       });
@@ -69,8 +76,8 @@
   });
 
   function decodeBase64Image(dataString) {
-    var matches = dataString.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/);
-    var response;
+    const matches = dataString.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/);
+    let response;
 
     if (matches.length !== 3) {
       return new Error('Invalid input string');
