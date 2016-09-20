@@ -1,8 +1,5 @@
-/**
- * Created by chenzhuokai on 16/9/13.
- */
-
 /*jslint indent: 2, browser: true, bitwise: true, plusplus: true */
+var location = (typeof window === 'object' ? window.location : global.location) || {};
 var twemoji = (function(
   /*! Copyright Twitter Inc. and other contributors. Licensed under MIT */
   /*
@@ -575,3 +572,10 @@ var twemoji = (function(
   }
 
 }());
+
+if (!location.protocol) {
+  twemoji.base = twemoji.base.replace(/^http:/, "");
+}
+if (typeof module !== 'undefined') {
+  module.exports = twemoji;
+}
