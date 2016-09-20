@@ -1,5 +1,4 @@
 /*jslint indent: 2, browser: true, bitwise: true, plusplus: true */
-var location = (typeof window === 'object' ? window.location : global.location) || {};
 var twemoji = (function(
   /*! Copyright Twitter Inc. and other contributors. Licensed under MIT */
   /*
@@ -15,7 +14,7 @@ var twemoji = (function(
   'use strict';
 
   /*jshint maxparams:4 */
-
+  var location = (typeof window === 'object' ? window.location : global.location) || {};
   var
     // the exported module object
     twemoji = {
