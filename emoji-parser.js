@@ -244,6 +244,10 @@ var twemoji = (function(
     // just a private shortcut
     fromCharCode = String.fromCharCode;
 
+  if (!location.protocol) {
+    twemoji.base = twemoji.base.replace(/^http:/, "");
+  }
+
   return twemoji;
 
 
@@ -569,12 +573,7 @@ var twemoji = (function(
     }
     return r.join(sep || '-');
   }
-
 }());
-
-if (!location.protocol) {
-  twemoji.base = twemoji.base.replace(/^http:/, "");
-}
 if (typeof module !== 'undefined') {
   module.exports = twemoji;
 }
