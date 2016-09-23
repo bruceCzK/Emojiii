@@ -13,7 +13,7 @@
   ],
   "author": "BruceCzK",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "fs-extra": "^0.30.0",
     "lodash": "^4.13.1",
     "unicode-escape": "latest",
