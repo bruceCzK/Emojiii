@@ -1,5 +1,0 @@
-{
-  "src": "./images",
-  "dest": "qiniu:access_key=nCIlvHJxdmuBBYmdXxZfzrsgO9M4-8ONVzbVPF-m&secret_key=pqef9fAwvpshDAcE2KoNBepIvVmSOSEO7gv7PL2b&bucket=wxbook&key_prefix=assets/images/emoji/",
-  "debug_level": 1
-}
