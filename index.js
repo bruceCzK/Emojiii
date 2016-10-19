@@ -52,19 +52,18 @@
         }
       }));
       emojiList.forEach(function (emoji) {
-        let unicode = emoji.unicode.replace(/u\+/ig, '').replace(/\s/g, '-').toLocaleLowerCase();
+        let unicode = emoji.unicode
+          .replace(/u\+/ig, '')
+          .replace(/\s/g, '-')
+          .replace(/^00/, '')
+          .toLocaleLowerCase();
+
         Object.keys(xrayConfig.image).forEach(function (type) {
           if (!emoji.image[type]) {
             return;
           }
           const buffer = decodeBase64Image(emoji.image[type]);
-
-          if (/00a9|00ae/.test(unicode)) {
-            unicode = unicode.replace('00', '');
-          }
-
           type = type.replace(/([A-Z])/g, '-$1').toLowerCase();
-
           fs.outputFile(path.join(__dirname, 'images', type, unicode + '.png'), buffer);
         });
       });
