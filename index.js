@@ -55,7 +55,8 @@
         let unicode = emoji.unicode
           .replace(/u\+/ig, '')
           .replace(/\s/g, '-')
-          .replace(/^00/, '')
+          .replace(/^00/, '') // remove heading 00
+          .replace(/fe0f-20e3/ig, '20e3') // fix keycap filename
           .toLocaleLowerCase();
 
         Object.keys(xrayConfig.image).forEach(function (type) {
