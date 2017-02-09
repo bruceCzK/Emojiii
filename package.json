@@ -1,6 +1,6 @@
 {
   "name": "emoji-generator",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "generate emoji image from unicode.org",
   "main": "index.js",
   "scripts": {
