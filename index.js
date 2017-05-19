@@ -18,26 +18,30 @@
   const xrayConfig = {
     unicode: 'td:nth-child(2)',
     image: {
-      apple: 'td:nth-child(5) img@src',
-      google: 'td:nth-child(6) img@src',
-      twitter: 'td:nth-child(7) img@src',
-      emojiOne: 'td:nth-child(8) img@src',
-      facebook: 'td:nth-child(9) img@src',
-      messenger: 'td:nth-child(9) img@src',
-      samsung: 'td:nth-child(11) img@src',
-      windows: 'td:nth-child(12) img@src'
+      apple: 'td:nth-child(4):not([colspan]) img@src',
+      google: 'td:nth-child(5):not([colspan]) img@src',
+      twitter: 'td:nth-child(6):not([colspan]) img@src',
+      emojiOne: 'td:nth-child(7):not([colspan]) img@src',
+      facebook: 'td:nth-child(8):not([colspan]) img@src',
+      messenger: 'td:nth-child(9):not([colspan]) img@src',
+      samsung: 'td:nth-child(10):not([colspan]) img@src',
+      windows: 'td:nth-child(11):not([colspan]) img@src'
     },
-    name: 'td:nth-child(17)',
-    date: 'td:nth-child(18)'
+    name: 'td:nth-child(16)',
+    date: 'td:nth-child(17)'
   };
 
   xray(emojiListUrl, 'table tr:nth-child(n+1)', [xrayConfig])(function (error, emojiList) {
+    if (error) {
+      console.error(error.message);
+      return;
+    }
     console.log('Emoji list fetched, Emoji total count', emojiList.length);
     console.log('--------');
 
     // exclude thead
     emojiList = emojiList.filter(function (emoji) {
-      return !!emoji.unicode;
+      return !!emoji.unicode || !/^U/i.test(emoji.unicode);
     });
 
     // write image string to file
@@ -52,6 +56,7 @@
           date: i.date
         }
       }));
+
       emojiList.forEach(function (emoji) {
         let unicode = emoji.unicode
           .replace(/u\+/ig, '')
