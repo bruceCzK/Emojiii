@@ -16,6 +16,8 @@
   console.log('--------');
 
   const xrayConfig = {
+    no: 'td:nth-child(1)',
+    name: 'td:nth-child(16)',
     unicode: 'td:nth-child(2)',
     image: {
       apple: 'td:nth-child(4):not([colspan]) img@src',
@@ -26,12 +28,10 @@
       messenger: 'td:nth-child(9):not([colspan]) img@src',
       samsung: 'td:nth-child(10):not([colspan]) img@src',
       windows: 'td:nth-child(11):not([colspan]) img@src'
-    },
-    name: 'td:nth-child(16)',
-    date: 'td:nth-child(17)'
+    }
   };
 
-  xray(emojiListUrl, 'table tr:nth-child(n+1)', [xrayConfig])(function (error, emojiList) {
+  xray(emojiListUrl, 'table[border] tr:nth-child(n+1)', [xrayConfig])(function (error, emojiList) {
     if (error) {
       console.error(error.message);
       return;
@@ -49,11 +49,11 @@
       fs.emptyDirSync(path.join(__dirname, 'images'));
       console.log('Writing images');
       console.log('--------');
-      fs.outputJson(__dirname + '/emoji.json', emojiList.map((i) => {
+      fs.outputJsonSync(__dirname + '/emoji.json', emojiList.map(i => {
         return {
+          no: i.no,
           unicode: i.unicode,
-          name: i.name,
-          date: i.date
+          name: i.name
         }
       }));
 
@@ -71,7 +71,7 @@
           }
           const buffer = decodeBase64Image(emoji.image[type]);
           type = type.replace(/([A-Z])/g, '-$1').toLowerCase();
-          fs.outputFile(path.join(__dirname, 'images', type, unicode + '.png'), buffer);
+          fs.outputFileSync(path.join(__dirname, 'images', type, unicode + '.png'), buffer);
         });
       });
     } catch (e) {
