@@ -13,6 +13,8 @@
   let unicodeList = emojiList.map(function (emoji) {
     emoji.converted = emoji.unicode.replace(/U\+/g, '').replace(/\s/g, '-');
     return emoji;
+  }).filter(emoji => {
+    return /U\+/.test(emoji.unicode)
   });
 
   unicodeList = _.sortBy(unicodeList, function (unicode) {
@@ -36,7 +38,13 @@
 
   console.log('Exporting regex-python.txt');
   fs.outputFileSync(__dirname + '/regex-python.txt', unicodeList.map((u)=> {
-    return u.unicode.replace(/\s/g, '').replace(/U\+/g, '\\U000');
+    let unicode = u.unicode.replace(/\s/g, '');
+    return unicode.split('U+').map(char => {
+      if (!char) {
+        return ''
+      }
+      return '\\U' + _.padStart(char, 8, '0')
+    }).join('')
   }).join('|'));
 
   fs.outputJson(__dirname + '/unicode.json', unicodeList);

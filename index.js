@@ -79,6 +79,7 @@
     }
 
     console.log('Finished');
+    process.exit();
   });
 
   function decodeBase64Image(dataString) {
