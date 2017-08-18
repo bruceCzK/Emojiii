@@ -27,9 +27,10 @@
   });
 
   console.log('Exporting regex-es5.txt');
-  fs.outputFileSync(__dirname + '/regex-es5.txt', unicodeList.map((u)=> {
-    return u.converted;
-  }).join('|'));
+  let regexEs5Txt = unicodeList.map((u)=> {
+    return u.converted.replace('\\ufe0f\\u20e3', '\\ufe0f?\\u20e3');
+  }).join('|')
+  fs.outputFileSync(__dirname + '/regex-es5.txt', regexEs5Txt);
 
   console.log('Exporting regex-es6.txt');
   fs.outputFileSync(__dirname + '/regex-es6.txt', unicodeList.map((u)=> {
@@ -48,6 +49,10 @@
   }).join('|'));
 
   fs.outputJson(__dirname + '/unicode.json', unicodeList);
+
+  let jsFile = fs.readFileSync('./emoji-parser.js.template').toString()
+  jsFile = jsFile.replace('<% regex-es5 %>', regexEs5Txt)
+  fs.writeFileSync('./emoji-parser.js', jsFile)
 
   function fromCodePoint(codepoint) {
     let code = typeof codepoint === 'string' ?
