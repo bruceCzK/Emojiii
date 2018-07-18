@@ -8,9 +8,13 @@
   const Xray = require('x-ray');
   const xray = Xray();
 
-  // Original URL http://unicode.org/emoji/charts/full-emoji-list.html
-  // For users in china mainland, use https://ark.xinshu.me/pages/unicode/
-  const emojiListUrl = 'https://ark.xinshu.me/pages/unicode/';
+  const emojiListUrl = [
+    'https://ark.xinshu.me/pages/unicode/full-emoji-list.html',
+    'https://ark.xinshu.me/pages/unicode/full-emoji-modifiers.html',
+    // Original URL
+    // http://unicode.org/emoji/charts/full-emoji-list.html,
+    // http://unicode.org/emoji/charts/full-emoji-modifiers.html
+  ];
 
   console.log('Fetching emoji list from', emojiListUrl);
   console.log('--------');
@@ -31,16 +35,14 @@
     }
   };
 
-  xray(emojiListUrl, 'table[border] tr:nth-child(n+1)', [xrayConfig])(function (error, emojiList) {
-    if (error) {
-      console.error(error.message);
-      return;
-    }
-    console.log('Emoji list fetched, Emoji total count', emojiList.length);
+  const selector = 'table[border] tr:nth-child(n+1)'
+  Promise.all(emojiListUrl.map(url => fetch(url, selector, [xrayConfig]))).then(results => {
+    results = results[0].concat(results[1])
+    console.log('Emoji list fetched, Emoji total count', results.length);
     console.log('--------');
 
     // exclude thead
-    emojiList = emojiList.filter(function (emoji) {
+    results = results.filter(function (emoji) {
       return !!emoji.unicode || !/^U/i.test(emoji.unicode);
     });
 
@@ -49,7 +51,7 @@
       fs.emptyDirSync(path.join(__dirname, 'images'));
       console.log('Writing images');
       console.log('--------');
-      fs.outputJsonSync(__dirname + '/emoji.json', emojiList.map(i => {
+      fs.outputJsonSync(__dirname + '/emoji.json', results.map(i => {
         return {
           no: i.no,
           unicode: i.unicode,
@@ -57,7 +59,7 @@
         }
       }));
 
-      emojiList.forEach(function (emoji) {
+      results.forEach(function (emoji) {
         let unicode = emoji.unicode
           .replace(/u\+/ig, '')
           .replace(/\s/g, '-')
@@ -80,7 +82,7 @@
 
     console.log('Finished');
     process.exit();
-  });
+  })
 
   function decodeBase64Image(dataString) {
     const matches = dataString.match(/^data:([A-Za-z-+\/]+);base64,(.+)$/);
@@ -93,5 +95,16 @@
     response = new Buffer(matches[2], 'base64');
 
     return response;
+  }
+
+  function fetch(url, selector, config) {
+    return new Promise((resolve, reject) => {
+      xray(url, selector, config)((err, results) => {
+        if (err) {
+          return reject(err)
+        }
+        resolve(results)
+      })
+    })
   }
 })();
