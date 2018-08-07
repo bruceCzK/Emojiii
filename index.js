@@ -51,9 +51,9 @@
       fs.emptyDirSync(path.join(__dirname, 'images'));
       console.log('Writing images');
       console.log('--------');
-      fs.outputJsonSync(__dirname + '/emoji.json', results.map(i => {
+      fs.outputJsonSync(__dirname + '/emoji.json', results.map((i, index) => {
         return {
-          no: i.no,
+          no: index + 1,
           unicode: i.unicode,
           name: i.name
         }
