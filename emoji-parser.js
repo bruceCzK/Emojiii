@@ -1,3 +1,4 @@
+/* Generated at Wed Aug 15 2018 17:10:55 GMT+0800 (CST) */
 /*jslint indent: 2, browser: true, bitwise: true, plusplus: true */
 var twemoji = (function(
   /*! Copyright Twitter Inc. and other contributors. Licensed under MIT */

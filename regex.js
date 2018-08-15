@@ -52,6 +52,7 @@
 
   let jsFile = fs.readFileSync('./emoji-parser.js.template').toString()
   jsFile = jsFile.replace('<% regex-es5 %>', regexEs5Txt)
+  jsFile = `/* Generated at ${new Date()} */\n` + jsFile
   fs.writeFileSync('./emoji-parser.js', jsFile)
 
   function fromCodePoint(codepoint) {
