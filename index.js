@@ -26,12 +26,11 @@
     image: {
       apple: 'td:nth-child(4):not([colspan]) img@src',
       google: 'td:nth-child(5):not([colspan]) img@src',
-      twitter: 'td:nth-child(6):not([colspan]) img@src',
-      emojiOne: 'td:nth-child(7):not([colspan]) img@src',
-      facebook: 'td:nth-child(8):not([colspan]) img@src',
-      messenger: 'td:nth-child(9):not([colspan]) img@src',
-      samsung: 'td:nth-child(10):not([colspan]) img@src',
-      windows: 'td:nth-child(11):not([colspan]) img@src'
+      facebook: 'td:nth-child(6):not([colspan]) img@src',
+      windows: 'td:nth-child(7):not([colspan]) img@src',
+      twitter: 'td:nth-child(8):not([colspan]) img@src',
+      joyPixels: 'td:nth-child(9):not([colspan]) img@src',
+      samsung: 'td:nth-child(10):not([colspan]) img@src'
     }
   }
 
