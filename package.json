@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "unicode-escape": "latest",
     "x-ray": "^2.3.3"
   }
