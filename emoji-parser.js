@@ -1,4 +1,4 @@
-/* Generated at Thu Jul 04 2019 12:26:40 GMT+0800 (China Standard Time) */
+/* Generated at Mon Oct 21 2019 14:34:18 GMT+0800 (China Standard Time) */
 /*jslint indent: 2, browser: true, bitwise: true, plusplus: true */
 var twemoji = (function(
   /*! Copyright Twitter Inc. and other contributors. Licensed under MIT */
