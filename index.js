@@ -65,7 +65,6 @@
           .replace(/u\+/ig, '')
           .replace(/\s/g, '-')
           .replace(/^00/, '') // remove heading 00
-          .replace(/fe0f-20e3/ig, '20e3') // fix keycap filename
           .toLocaleLowerCase()
 
         Object.keys(xrayConfig.image).forEach(function (type) {
@@ -75,6 +74,10 @@
           const buffer = decodeBase64Image(emoji.image[type])
           type = type.replace(/([A-Z])/g, '-$1').toLowerCase()
           fs.outputFileSync(path.join(__dirname, 'images', type, unicode + '.png'), buffer)
+          if (/fe0f-20e3/.test(unicode)) {
+            // fix keycap filename
+            fs.outputFileSync(path.join(__dirname, 'images', type, unicode.replace('fe0f-20e3', '20e3') + '.png'), buffer)
+          }
         })
       })
     } catch (e) {
