@@ -7,7 +7,7 @@ Please use [twemoji](https://github.com/twitter/twemoji)
 ## Generate emoji regexp
 Include python and javascript
 ```
-$ npm install
-$ npm start
+$ yarn install
+$ yarn build
 ```
 

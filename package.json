@@ -4,8 +4,7 @@
   "description": "generate emoji image from unicode.org",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "regex": "node regex",
+    "build": "node index && node regex",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,7 +13,7 @@
   "author": "BruceCzK",
   "license": "ISC",
   "devDependencies": {
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "lodash": "^4.17.13",
     "unicode-escape": "latest",
     "x-ray": "^2.3.3"
